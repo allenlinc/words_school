@@ -1,0 +1,8714 @@
+[
+  {
+    "word": "air",
+    "phonetic0": " / eə(r) / ",
+    "phonetic1": " / er / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "大气，空气；空中，天空；乘坐飞机，航空；神态，氛围；曲调，旋律；装腔作势，做作；空气媒质；气，风"
+      },
+      {
+        "pos": "v.",
+        "cn": "使公开，宣扬；（使）通风；（使）晾干，（使）烘干；播送，播放；<古>出去透气；<古>炫耀，夸示"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "His hands clawed theair.",
+        "cn": "他的双手在空中乱抓。"
+      },
+      {
+        "c": "We haveairsuperiority.",
+        "cn": "我们有空中优势。"
+      },
+      {
+        "c": "Theairwas circulated mechanically.",
+        "cn": "空气是用机械推动循环的。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the air",
+        "cn": "在空中；悬而未决；在流传中；不设防"
+      },
+      {
+        "c": "air conditioning",
+        "cn": "空调；空气调节"
+      },
+      {
+        "c": "air pollution",
+        "cn": "大气污染，空气污染"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "大气，空气；空中，天空；乘坐飞机，航空；神态，氛围；曲调，旋律；装腔作势，做作；空气媒质；气，风",
+        "ws": [
+          "atmosphere",
+          "sky",
+          "breeze"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "air",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "airs",
+              "cn": "复数"
+            },
+            {
+              "c": "airs",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "airing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "aired",
+              "cn": "过去式"
+            },
+            {
+              "c": "aired",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "air",
+        "d": "源自古法语 air，来自拉丁语 aer，希腊语 aēr，意为「空气、大气」。与希腊神话中的「以太」相关。"
+      }
+    ]
+  },
+  {
+    "word": "animal",
+    "phonetic0": " / ˈænɪm(ə)l / ",
+    "phonetic1": " / ˈænɪm(ə)l / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "动物；兽类；<非正式>衣冠禽兽，畜牲；某一类人或物"
+      },
+      {
+        "pos": "adj.",
+        "cn": "动物的；肉体的，肉欲的；取自动物的；（胚胎）动物极的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Theanimalis hunted for its fur.",
+        "cn": "狩猎这种动物是为了获取其毛皮。"
+      },
+      {
+        "c": "Theanimalretracted into its shell.",
+        "cn": "这只动物缩回到自己的壳里。"
+      },
+      {
+        "c": "The dolphin is an intelligentanimal.",
+        "cn": "海豚是聪明的动物。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "animal husbandry",
+        "cn": "畜牧业；畜牧学"
+      },
+      {
+        "c": "animal feed",
+        "cn": "动物饲料"
+      },
+      {
+        "c": "wild animaln.",
+        "cn": "野生动物；野兽"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "动物；兽类；<非正式>衣冠禽兽，畜牲；某一类人或物",
+        "ws": [
+          "creature",
+          "beast",
+          "pet"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "animal",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "animals",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "animal",
+        "d": "源自拉丁语 animalis，来自 anima，意为「呼吸、灵魂、生命」。原指「有生命的存在」。"
+      }
+    ]
+  },
+  {
+    "word": "apple",
+    "phonetic0": " / ˈæp(ə)l / ",
+    "phonetic1": " / ˈæp(ə)l / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "苹果"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She crunched herapplenoisily.",
+        "cn": "她吃苹果发出嘎嚓嘎嚓的声音。"
+      },
+      {
+        "c": "Someone threw anapplecore.",
+        "cn": "有人扔了一个苹果核。"
+      },
+      {
+        "c": "Sling me anapple, will you?",
+        "cn": "扔个苹果给我，好吗？查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "an apple",
+        "cn": "一个苹果"
+      },
+      {
+        "c": "apple tree",
+        "cn": "苹果树"
+      },
+      {
+        "c": "apple juice",
+        "cn": "苹果汁"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "苹果",
+        "ws": [
+          "fruit"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "apple",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "apples",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "apple",
+        "d": "源自古英语 aeppel，原始日耳曼语 *ap(a)laz。在古英语中泛指所有水果。"
+      }
+    ]
+  },
+  {
+    "word": "arm",
+    "phonetic0": " / ɑːm / ",
+    "phonetic1": " / ɑːrm / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "手臂，上肢；武器，军备；扶手；袖子；职能部门；臂（状部件）；盾徽，纹章；狭长港湾；臂力"
+      },
+      {
+        "pos": "v.",
+        "cn": "武装，备战；提供，配备；使（炸弹等）随时爆炸，准备发射"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He squeezed herarmreassuringly.",
+        "cn": "他安慰地捏了捏她的手臂。"
+      },
+      {
+        "c": "He wrenched hisarmfree.",
+        "cn": "他把手臂挣脱开来。"
+      },
+      {
+        "c": "She nipped at myarm.",
+        "cn": "她掐了一下我的胳膊。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in arms",
+        "cn": "怀抱着的；武装起来的"
+      },
+      {
+        "c": "on one's arm",
+        "cn": "由(或靠)手臂支撑着"
+      },
+      {
+        "c": "up in arms",
+        "cn": "竭力反对；进行武装斗争"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "手臂，上肢；武器，军备；扶手；袖子；职能部门；臂（状部件）；盾徽，纹章；狭长港湾；臂力",
+        "ws": [
+          "limb"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "arm",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "arm",
+        "d": "源自古英语 earm，原始日耳曼语 *armaz，与拉丁语 armus（肩膀）同源。"
+      }
+    ]
+  },
+  {
+    "word": "aunt",
+    "phonetic0": " / ɑːnt / ",
+    "phonetic1": " / ænt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "姑妈，伯母，舅妈，阿姨，婶婶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We were chaperoned by ouraunt.",
+        "cn": "我们由姨妈陪护。"
+      },
+      {
+        "c": "He was brought up by hisaunt.",
+        "cn": "他是由姨妈带大的。"
+      },
+      {
+        "c": "AuntEmilie darned old socks.",
+        "cn": "埃米莉阿姨把旧袜子补好了。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "paternal aunt",
+        "cn": "姑母"
+      },
+      {
+        "c": "agony aunt（",
+        "cn": "英）问答专栏阿姨；心理咨询阿姨"
+      },
+      {
+        "c": "great aunt",
+        "cn": "叔祖母"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "姑妈，伯母，舅妈，阿姨，婶婶",
+        "ws": [
+          "relative"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "aunt",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "aunts",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "aunt",
+        "d": "源自古法语 ante，拉丁语 amita，意为「父亲的姐妹」。"
+      }
+    ]
+  },
+  {
+    "word": "baby",
+    "phonetic0": " / ˈbeɪbi / ",
+    "phonetic1": " / ˈbeɪbi / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "婴儿，婴孩；动物幼崽；（家庭或团体中）最小的成员；幼稚的人，软弱的人；差事，责任；宝贝，亲爱的；喜欢的东西，宝贝东西"
+      },
+      {
+        "pos": "v.",
+        "cn": "把……当婴儿般对待，对……娇生惯养；小心翼翼地操作，小心对待"
+      },
+      {
+        "pos": "adj.",
+        "cn": "（蔬菜）幼嫩的；（幼）小的，小型的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thebabywas sleeping peacefully.",
+        "cn": "婴儿睡得很安稳。"
+      },
+      {
+        "c": "Thebabyslept peacefully.",
+        "cn": "婴儿睡得很安稳。"
+      },
+      {
+        "c": "She held thebabygently.",
+        "cn": "她轻轻地抱着孩子。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "baby girl",
+        "cn": "女婴；小女孩"
+      },
+      {
+        "c": "have a baby",
+        "cn": "生孩子"
+      },
+      {
+        "c": "baby boy",
+        "cn": "男婴；小男孩"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "婴儿，婴孩；动物幼崽；（家庭或团体中）最小的成员；幼稚的人，软弱的人；差事，责任；宝贝，亲爱的；喜欢的东西，宝贝东西",
+        "ws": [
+          "infant",
+          "newborn",
+          "child"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "baby",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "babies",
+              "cn": "复数"
+            },
+            {
+              "c": "babies",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "babying",
+              "cn": "现在分词"
+            },
+            {
+              "c": "babied",
+              "cn": "过去式"
+            },
+            {
+              "c": "babied",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "baby",
+        "d": "源自中古英语 babi，模仿婴儿发出的「ba-ba」声音，属拟声构词。"
+      }
+    ]
+  },
+  {
+    "word": "banana",
+    "phonetic0": " / bəˈnɑːnə / ",
+    "phonetic1": " / bəˈnænə / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "香蕉；香蕉树"
+      },
+      {
+        "pos": "adj.",
+        "cn": "愚蠢的，发狂的"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Banana）巴纳纳（姓氏）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "These companies are determined to keep a stranglehold on thebananaindustry.",
+        "cn": "这些公司决定对香蕉业进行压制。"
+      },
+      {
+        "c": "He slipped on abananaskin.",
+        "cn": "他踩在香蕉皮上滑倒了。"
+      },
+      {
+        "c": "Thisbananacame from an apple tree.",
+        "cn": "这个香蕉来自于一棵苹果树。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "banana skin",
+        "cn": "香蕉皮；尴尬事"
+      },
+      {
+        "c": "top banana",
+        "cn": "主要滑稽演员，引申为最好的演员或重要的官员；主要人物"
+      },
+      {
+        "c": "banana split",
+        "cn": "香蕉圣代（剖开香蕉夹以冰淇淋等）；香蕉半剖条"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "香蕉；香蕉树",
+        "ws": [
+          "fruit"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "banana",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "bananas",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "banana",
+        "d": "源自西非沃洛夫语 banana，通过葡萄牙语或西班牙语传入英语。最初指一种西非水果。"
+      }
+    ]
+  },
+  {
+    "word": "bear",
+    "phonetic0": " / beə(r) / ",
+    "phonetic1": " / ber / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "手持，携带；（车，船）运输，运送；写有，刻有；以（姓名，头衔）相称；见证，作证；承担，担负（责任）；经得起；承受，容忍；生育（孩子）；（树，植物）结（果实），长出（花）；拐弯"
+      },
+      {
+        "pos": "n.",
+        "cn": "熊；粗暴无礼的人，没教养的人；体格笨重的男人，行动迟缓的男人；（股票）卖空者，做空头者；麻烦事，棘手之事；<非正式>“北极熊”（俄国的外号）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He can'tbearbeing laughed at.",
+        "cn": "他无法忍受遭人嘲笑。"
+      },
+      {
+        "c": "He can'tbearto be laughed at.",
+        "cn": "他无法忍受遭人嘲笑。"
+      },
+      {
+        "c": "'Bear' and 'bare' are homophonous.bear",
+        "cn": "和 bare是同音异形词。《牛津词典》查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bear oneself",
+        "cn": "举止，表现；为人处事"
+      },
+      {
+        "c": "bear in mindvi.",
+        "cn": "记住；考虑到"
+      },
+      {
+        "c": "bear market",
+        "cn": "熊市；空头市场；卖空市场"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "手持，携带；（车，船）运输，运送；写有，刻有；以（姓名，头衔）相称；见证，作证；承担，担负（责任）；经得起；承受，容忍；生育（孩子）；（树，植物）结（果实），长出（花）；拐弯",
+        "ws": [
+          "grizzly",
+          "teddy"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "bear",
+      "rels": [
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "bears或bear",
+              "cn": "复数"
+            },
+            {
+              "c": "bears",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "bearing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "bore或beared",
+              "cn": "过去式"
+            },
+            {
+              "c": "borne或born或beared",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "bear",
+        "d": "源自古英语 bera，原始日耳曼语 *berô，原意为「棕色的（动物）」。因禁忌替代原本的印欧语词根。"
+      }
+    ]
+  },
+  {
+    "word": "big",
+    "phonetic0": " / bɪɡ / ",
+    "phonetic1": " / bɪɡ / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "（尺寸、数量、规模或年龄）大的；重大的，严重的；有影响力的；糟糕的；有雄心的；受欢迎的；热衷于……的；程度深的，效果好的；大方的，大度的；生僻的，晦涩的；大写的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "大大，给人印象深地；夸口地；大量地"
+      },
+      {
+        "pos": "v.",
+        "cn": "招摇"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This shirt isn'tbigenough.",
+        "cn": "这件衬衣不够大。"
+      },
+      {
+        "c": "They were earningbigmoney.",
+        "cn": "他们在赚大钱。"
+      },
+      {
+        "c": "You're abiggirl now.",
+        "cn": "你现在已长成大姑娘了。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "make big[",
+        "cn": "美国俚语]飞黄腾达；成功"
+      },
+      {
+        "c": "big city",
+        "cn": "大城市"
+      },
+      {
+        "c": "in a big way",
+        "cn": "大规模地，彻底地"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "（尺寸、数量、规模或年龄）大的；重大的，严重的；有影响力的；糟糕的；有雄心的；受欢迎的；热衷于……的；程度深的，效果好的；大方的，大度的；生僻的，晦涩的；大写的",
+        "ws": [
+          "large",
+          "huge",
+          "great",
+          "giant",
+          "enormous"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "big",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "bigs",
+              "cn": "复数"
+            },
+            {
+              "c": "bigs",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "bigging",
+              "cn": "现在分词"
+            },
+            {
+              "c": "bigged或bug",
+              "cn": "过去式"
+            },
+            {
+              "c": "bigged或bug",
+              "cn": "过去分词"
+            },
+            {
+              "c": "bigger",
+              "cn": "比较级"
+            },
+            {
+              "c": "biggest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "big",
+        "d": "源自中古英语，可能来自斯堪的纳维亚语。原意为「强有力的、重要的」。"
+      }
+    ]
+  },
+  {
+    "word": "bird",
+    "phonetic0": " / bɜːd / ",
+    "phonetic1": " / bɜːrd / ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": ""
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thebirdcontinued to warble.",
+        "cn": "鸟儿继续啁啾。"
+      },
+      {
+        "c": "Thebirdgave a startled squawk.",
+        "cn": "鸟发出嘎嘎的惊叫声。"
+      },
+      {
+        "c": "Thebirdruffled up its feathers.",
+        "cn": "这只鸟竖起了羽毛。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bird flun.",
+        "cn": "禽流感"
+      },
+      {
+        "c": "like a bird",
+        "cn": "轻快地；敏捷地"
+      },
+      {
+        "c": "early bird",
+        "cn": "早起者；早到者"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "",
+        "ws": [
+          "fowl",
+          "sparrow",
+          "eagle",
+          "dove"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "bird",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "birds",
+              "cn": "复数"
+            },
+            {
+              "c": "birds",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "birding",
+              "cn": "现在分词"
+            },
+            {
+              "c": "birded",
+              "cn": "过去式"
+            },
+            {
+              "c": "birded",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "bird",
+        "d": "源自古英语 bridd，原指「幼鸟」。替代了原有的 fugol（现为 fowl）。"
+      }
+    ]
+  },
+  {
+    "word": "black",
+    "phonetic0": " / blæk / ",
+    "phonetic1": " / blæk / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "黑的，黑色的；黑色人种的；不加牛奶的；脏的，布满污垢的；悲伤的，无望的；愤怒的，仇恨的；罪恶的，邪恶的；（幽默）黑色的；（滑雪道）难度最大的；（军事活动）秘密的；黑桃和梅花组牌的"
+      },
+      {
+        "pos": "n.",
+        "cn": "黑，黑色；<冒犯>黑人；黑色衣服；黑色的东西（尤指斯诺克中的黑球）；执黑子的一方"
+      },
+      {
+        "pos": "v.",
+        "cn": "使变黑，弄黑；<英>抵制，拒绝（货品或公司）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The exhaust streamedblacksmoke.",
+        "cn": "排气管里冒出黑烟。"
+      },
+      {
+        "c": "Blackis in vogue again.",
+        "cn": "黑色又成了流行色。"
+      },
+      {
+        "c": "He had thickblackhair.",
+        "cn": "他有着浓密乌黑的头发。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "black and white",
+        "cn": "白纸黑字；单色；黑白片"
+      },
+      {
+        "c": "in black",
+        "cn": "穿黑衣服"
+      },
+      {
+        "c": "carbon black",
+        "cn": "炭黑；碳黑"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "黑的，黑色的；黑色人种的；不加牛奶的；脏的，布满污垢的；悲伤的，无望的；愤怒的，仇恨的；罪恶的，邪恶的；（幽默）黑色的；（滑雪道）难度最大的；（军事活动）秘密的；黑桃和梅花组牌的",
+        "ws": [
+          "dark",
+          "ebony",
+          "jet"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "black",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "blacks",
+              "cn": "复数"
+            },
+            {
+              "c": "blacks",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "blacking",
+              "cn": "现在分词"
+            },
+            {
+              "c": "blacked",
+              "cn": "过去式"
+            },
+            {
+              "c": "blacked",
+              "cn": "过去分词"
+            },
+            {
+              "c": "blacker",
+              "cn": "比较级"
+            },
+            {
+              "c": "blackest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "black",
+        "d": "源自古英语 blaec，原始日耳曼语 *blakaz，意为「烧伤的、黑色的」。"
+      }
+    ]
+  },
+  {
+    "word": "blue",
+    "phonetic0": " / bluː / ",
+    "phonetic1": " / bluː / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "蓝色的；忧郁的，沮丧的；<英，非正式> 保守的，守旧的；（笑话、故事等）黄色的，色情的；（由于冷或呼吸困难）发青的，青紫的"
+      },
+      {
+        "pos": "n.",
+        "cn": "天蓝色，蓝色；天空，大海；<英>（剑桥或牛津大学的）校队运动员，蓝色荣誉者；<澳新>红头发者；<澳新>错误，纰漏；<澳新>争论，殴打；近生的牛排"
+      },
+      {
+        "pos": "v.",
+        "cn": "（使）变成蓝色；<史>用蓝色漂白剂洗（白色衣服）；<英，非正式>挥霍，乱花（钱财）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "His eyes were piercinglyblue.",
+        "cn": "他有一双敏锐的蓝眼睛。"
+      },
+      {
+        "c": "Bluesuited her fair colouring.",
+        "cn": "蓝色适合于她白皙的肤色。"
+      },
+      {
+        "c": "The sky was a brilliantblue.",
+        "cn": "天空一片蔚蓝。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "blue sky",
+        "cn": "蓝天"
+      },
+      {
+        "c": "out of the blue",
+        "cn": "突然地；意外地"
+      },
+      {
+        "c": "dark blue",
+        "cn": "深蓝色，深蓝的"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "蓝色的；忧郁的，沮丧的；<英，非正式> 保守的，守旧的；（笑话、故事等）黄色的，色情的；（由于冷或呼吸困难）发青的，青紫的",
+        "ws": [
+          "azure",
+          "sky-blue",
+          "navy"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "blue",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "blues",
+              "cn": "复数"
+            },
+            {
+              "c": "blues",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "blueing或bluing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "blued",
+              "cn": "过去式"
+            },
+            {
+              "c": "blued",
+              "cn": "过去分词"
+            },
+            {
+              "c": "bluer",
+              "cn": "比较级"
+            },
+            {
+              "c": "bluest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "blue",
+        "d": "源自古法语 bleu，来自日耳曼语 blāo，原意为「光亮的、浅色的」。"
+      }
+    ]
+  },
+  {
+    "word": "brother",
+    "phonetic0": " / ˈbrʌðə(r) / ",
+    "phonetic1": " / ˈbrʌðər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "兄弟；同事；战友"
+      },
+      {
+        "pos": "int.",
+        "cn": "我的老兄！"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Brother）人名；（英）布拉泽"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She's smarter than herbrother.",
+        "cn": "她比她哥哥聪明。"
+      },
+      {
+        "c": "He loved hisbrotherdeeply.",
+        "cn": "他深爱自己的哥哥。"
+      },
+      {
+        "c": "Mybrotherpledged Sigma Nu.",
+        "cn": "我哥哥宣誓加入Σ NU联谊会。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "elder brother",
+        "cn": "哥哥，兄长"
+      },
+      {
+        "c": "younger brother",
+        "cn": "弟弟"
+      },
+      {
+        "c": "little brother",
+        "cn": "小兄弟；副气旋"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "兄弟；同事；战友",
+        "ws": [
+          "sibling",
+          "kin"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "brother",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "brothers或brethren",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "brother",
+        "d": "源自古英语 brōþor，原始印欧语 *bhrater，意为「兄弟」。"
+      }
+    ]
+  },
+  {
+    "word": "brown",
+    "phonetic0": " / braʊn / ",
+    "phonetic1": " / braʊn / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "褐色的，棕色的；肤色深的，晒黑的；未去壳的，糙的"
+      },
+      {
+        "pos": "n.",
+        "cn": "褐色，棕色；褐色的东西；眼蝶，褐蝶"
+      },
+      {
+        "pos": "v.",
+        "cn": "（使）变成棕色，成褐色"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He was wearing abrownuniform.",
+        "cn": "他穿着一件棕色制服。"
+      },
+      {
+        "c": "He removed hisbrownslip-ons.",
+        "cn": "他脱掉了他的棕色无带鞋。"
+      },
+      {
+        "c": "He had deep-setbrowneyes.",
+        "cn": "他拥有一双深邃的褐色眼睛。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "gordon brown",
+        "cn": "戈登·布朗（英国首相）"
+      },
+      {
+        "c": "dark brown",
+        "cn": "深棕色；深褐色"
+      },
+      {
+        "c": "brown rice",
+        "cn": "糙米"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "褐色的，棕色的；肤色深的，晒黑的；未去壳的，糙的",
+        "ws": [
+          "tan",
+          "chestnut",
+          "beige"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "brown",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "browns",
+              "cn": "复数"
+            },
+            {
+              "c": "browns",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "browning",
+              "cn": "现在分词"
+            },
+            {
+              "c": "browned",
+              "cn": "过去式"
+            },
+            {
+              "c": "browned",
+              "cn": "过去分词"
+            },
+            {
+              "c": "browner",
+              "cn": "比较级"
+            },
+            {
+              "c": "brownest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "brown",
+        "d": "源自古英语 brūn，原始日耳曼语 *brūnaz，意为「发光的、棕色的」。与 bear 同源。"
+      }
+    ]
+  },
+  {
+    "word": "cake",
+    "phonetic0": " / keɪk / ",
+    "phonetic1": " / keɪk / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "饼状食物，饼；块，小块；<非正式>轻而易举的事；钱或资产总额；蛋糕"
+      },
+      {
+        "pos": "v.",
+        "cn": "（用会变干的东西厚厚地）覆盖；（干后）结成硬块"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thatcakelooks very tempting.",
+        "cn": "那蛋糕的样子让人嘴馋。"
+      },
+      {
+        "c": "She cut thecakeinto fifths.",
+        "cn": "她把蛋糕切成五块。"
+      },
+      {
+        "c": "Thiscakeis very filling.",
+        "cn": "这种饼很能填饱肚子。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "birthday cake",
+        "cn": "生日蛋糕"
+      },
+      {
+        "c": "piece of cake",
+        "cn": "轻而易举的事情；轻松愉快的事"
+      },
+      {
+        "c": "moon caken.",
+        "cn": "月饼"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "饼状食物，饼；块，小块；<非正式>轻而易举的事；钱或资产总额；蛋糕",
+        "ws": [
+          "dessert",
+          "pastry"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "cake",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "cakes",
+              "cn": "复数"
+            },
+            {
+              "c": "cakes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "caking",
+              "cn": "现在分词"
+            },
+            {
+              "c": "caked",
+              "cn": "过去式"
+            },
+            {
+              "c": "caked",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "cake",
+        "d": "源自古挪威语 kaka，原始日耳曼语 *kakǭ。原指扁平的小面饼。"
+      }
+    ]
+  },
+  {
+    "word": "can",
+    "phonetic0": " / kæn; kən / ",
+    "phonetic1": " / kæn; kən / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "（表示有能力做或能够发生）能，会；（表示可能性）可以，能；（用于请求）能，可以；（表示允许）可以；应该（表示某事该做或不该做）；（用于礼貌地提出帮忙）可以，能；把食品装罐保存；<美，非正式>解雇，开除；<美，非正式>停止，结束（某事）"
+      },
+      {
+        "pos": "n.",
+        "cn": "罐，听；（装液体、垃圾等带盖的）金属容器，塑料容器；<美，非正式>监狱；<美，非正式>厕所；臀部；驱逐舰；破坏者"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Canyou last (out) until Icanget help?",
+        "cn": "你能支撑到有人来帮我吗？"
+      },
+      {
+        "c": "Drugscankill.",
+        "cn": "毒品可以致死。"
+      },
+      {
+        "c": "Canyou skate?",
+        "cn": "你会滑冰吗？查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "can be",
+        "cn": "可能；可以是"
+      },
+      {
+        "c": "we can",
+        "cn": "我们可以"
+      },
+      {
+        "c": "can do",
+        "cn": "能做到；做得到"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "（表示有能力做或能够发生）能，会；（表示可能性）可以，能；（用于请求）能，可以；（表示允许）可以；应该（表示某事该做或不该做）；（用于礼貌地提出帮忙）可以，能；把食品装罐保存；<美，非正式>解雇，开除；<美，非正式>停止，结束（某事）",
+        "ws": [
+          "be able to",
+          "capable",
+          "may"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "can",
+      "rels": [
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "cans",
+              "cn": "复数"
+            },
+            {
+              "c": "can或cans",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "canning",
+              "cn": "现在分词"
+            },
+            {
+              "c": "could或canned",
+              "cn": "过去式"
+            },
+            {
+              "c": "canned",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "can",
+        "d": "源自古英语 cunnan，原意为「知道、懂得（如何做）」。与 cunning（狡猾的）同源。"
+      }
+    ]
+  },
+  {
+    "word": "cat",
+    "phonetic0": " / kæt / ",
+    "phonetic1": " / kæt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "猫，猫科动物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thecatsat licking its paws.",
+        "cn": "那只猫坐着舔爪子。"
+      },
+      {
+        "c": "Thecatloves being stroked.",
+        "cn": "这猫喜欢别人抚摩。"
+      },
+      {
+        "c": "Ourcathates being handled.",
+        "cn": "我们的猫不喜欢被人摸弄。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cats and dogs[",
+        "cn": "美俚]价值低的股票；杂物；（下雨）猛烈地；大量地"
+      },
+      {
+        "c": "black cat",
+        "cn": "黑猫（软件名称）"
+      },
+      {
+        "c": "bell the cat",
+        "cn": "为大家的利益承担危险"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "猫，猫科动物",
+        "ws": [
+          "kitty",
+          "feline",
+          "kitten"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "cat",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "cats",
+              "cn": "复数"
+            },
+            {
+              "c": "cats",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "catting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "catted",
+              "cn": "过去式"
+            },
+            {
+              "c": "catted",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "cat",
+        "d": "源自古英语 catt，源自晚期拉丁语 cattus。可能来自北非语言。"
+      }
+    ]
+  },
+  {
+    "word": "colour",
+    "phonetic0": " / ˈkʌlə(r) / ",
+    "phonetic1": " / ˈkʌlər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "<英>颜色；色彩，用色，配色；颜料，染料；红润的面色，血色，气色；（人种的）肤色，有色人种；（代表团队、国家、船等的）旗帜，徽章；（代表国家、球队、政党等的）标志色；（照片、电视图像等的）彩色；趣味，风格，情调；（物理）色；（纹章采用的）传统色（如红、绿、黑、青、紫）；（喻） （音色、音质、音调或音乐表现形式的）多样性；（喻） 含义的细微差别；（斯诺克）除白色主球和红球外的任何球"
+      },
+      {
+        "pos": "v.",
+        "cn": "给……染色；（用记号笔、蜡笔、彩色铅笔等）涂色，着色；变色；（使）脸红；（尤指负面地）影响；（喻）使生动，使鲜明；（喻）使（某人的嗓音）充满（某种感情）；扭曲，渲染"
+      },
+      {
+        "pos": "adj.",
+        "cn": "（电视、照片、印刷）彩色的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Leaves changecolourin autumn.",
+        "cn": "树叶在秋天改变颜色。"
+      },
+      {
+        "c": "What's your favouritecolour?",
+        "cn": "你最喜欢的颜色是什么？"
+      },
+      {
+        "c": "Do you dream incolour?",
+        "cn": "你的梦是彩色的吗？查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "change colour",
+        "cn": "改变脸色；变颜失色"
+      },
+      {
+        "c": "colour television",
+        "cn": "彩色电视"
+      },
+      {
+        "c": "with flying colours",
+        "cn": "出色地，成功地"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "<英>颜色；色彩，用色，配色；颜料，染料；红润的面色，血色，气色；（人种的）肤色，有色人种；（代表团队、国家、船等的）旗帜，徽章；（代表国家、球队、政党等的）标志色；（照片、电视图像等的）彩色；趣味，风格，情调；（物理）色；（纹章采用的）传统色（如红、绿、黑、青、紫）；（喻） （音色、音质、音调或音乐表现形式的）多样性；（喻） 含义的细微差别；（斯诺克）除白色主球和红球外的任何球",
+        "ws": [
+          "hue",
+          "shade",
+          "tint",
+          "tone"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "colour",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "colours",
+              "cn": "复数"
+            },
+            {
+              "c": "colours",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "colouring",
+              "cn": "现在分词"
+            },
+            {
+              "c": "coloured",
+              "cn": "过去式"
+            },
+            {
+              "c": "coloured",
+              "cn": "过去分词"
+            },
+            {
+              "c": "change colour",
+              "cn": "改变脸色；变颜"
+            },
+            {
+              "c": "colour television",
+              "cn": "彩色电视3wi"
+            },
+            {
+              "c": "th flying colours",
+              "cn": "出色地，成功地"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "colour",
+        "d": "源自盎格鲁-诺曼法语 colour，拉丁语 color，原意为「颜色、外观」。"
+      }
+    ]
+  },
+  {
+    "word": "cousin",
+    "phonetic0": " / ˈkʌzn / ",
+    "phonetic1": " / ˈkʌzn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "堂（表）兄弟，堂（表）姐妹；远房亲戚；兄弟民族（或国家）的人（来自不同国家但文化近似）；相似的人（物）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Eric was mycousinEdward's boy.",
+        "cn": "埃里克是我堂兄爱德华的儿子。"
+      },
+      {
+        "c": "She's mycousin.",
+        "cn": "她是我的表妹。"
+      },
+      {
+        "c": "I tried again to get ahold of mycousinJoan.",
+        "cn": "我又试着联系了一次我表姐琼。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "first cousin",
+        "cn": "堂兄弟姊妹"
+      },
+      {
+        "c": "distant cousin",
+        "cn": "远表兄妹"
+      },
+      {
+        "c": "second cousin",
+        "cn": "远房堂或表兄弟姊妹"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "堂（表）兄弟，堂（表）姐妹；远房亲戚；兄弟民族（或国家）的人（来自不同国家但文化近似）；相似的人（物）",
+        "ws": [
+          "relative",
+          "kin"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "cousin",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "cousins",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "cousin",
+        "d": "源自古法语 cosin，拉丁语 consobrinus，意为「母亲的姐妹的孩子」。"
+      }
+    ]
+  },
+  {
+    "word": "cut",
+    "phonetic0": " / kʌt / ",
+    "phonetic1": " / kʌt / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "切，割，剪；削减，缩减；删节，删减；停止，切断；抄近路，穿过；切（牌），倒（牌）；灌制（唱片），录制（讲话）；划伤，割伤；剪裁；开始长（新牙）；<美>逃学，逃课；停止做不好的事情；切下；切开，把……切碎；凿，挖，刻；剪短，修剪；（割断束缚物）使脱身，使松开；可用于切割；能被切割；剪切（计算机文档）； 剪辑，剪接；停止拍片（或录音、录像）；切换画面；（从感情上）伤害；（与另一条线）相交；冲淡，稀释；划分（区域）；砍（植物）；开除，除名；快速行进；突然转向；插队；（直截了当地）处理；去除（污垢、油污等）；削（球）；<美，非正式>符合要求（cut it）"
+      },
+      {
+        "pos": "n.",
+        "cn": "切下的肉块；份额，一份利润；（开出的）通道；伤口，划口；开口，破口；（数量或尺寸上的）削减；理发，发型；款式，式样；删剪，删节；剪辑；（录制的）乐曲；精简，淘汰（如参赛人员）；切，割，削；不理睬，伤人的话（或举动）"
+      },
+      {
+        "pos": "adj.",
+        "cn": "缩减的；割下的；雕过的；阉割过的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thecutneeded eight stitches.",
+        "cn": "这道伤口需要缝八针。"
+      },
+      {
+        "c": "Johnsoncuthimself shaving.",
+        "cn": "约翰逊刮胡子时割伤了自己。"
+      },
+      {
+        "c": "Let'scutfor dealer.",
+        "cn": "咱们切牌决定由谁发牌吧。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cut off",
+        "cn": "切断；中断；使死亡；剥夺继承权"
+      },
+      {
+        "c": "cut downv.",
+        "cn": "削减；砍倒；杀死；删节；胜过"
+      },
+      {
+        "c": "cut in",
+        "cn": "插嘴；超车；插入"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "切，割，剪；削减，缩减；删节，删减；停止，切断；抄近路，穿过；切（牌），倒（牌）；灌制（唱片），录制（讲话）；划伤，割伤；剪裁；开始长（新牙）；<美>逃学，逃课；停止做不好的事情；切下；切开，把……切碎；凿，挖，刻；剪短，修剪；（割断束缚物）使脱身，使松开；可用于切割；能被切割；剪切（计算机文档）； 剪辑，剪接；停止拍片（或录音、录像）；切换画面；（从感情上）伤害；（与另一条线）相交；冲淡，稀释；划分（区域）；砍（植物）；开除，除名；快速行进；突然转向；插队；（直截了当地）处理；去除（污垢、油污等）；削（球）；<美，非正式>符合要求（cut it）",
+        "ws": [
+          "slice",
+          "chop",
+          "trim",
+          "carve"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "cut",
+      "rels": [
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "cuts",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "cutting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "cut",
+              "cn": "过去式"
+            },
+            {
+              "c": "cut",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "cut",
+        "d": "源自中古英语 cutten，起源不明，可能来自斯堪的纳维亚语。"
+      }
+    ]
+  },
+  {
+    "word": "cute",
+    "phonetic0": " / kjuːt / ",
+    "phonetic1": " / kjuːt / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "漂亮的，可爱的；<美>性感迷人的；<美>精明的，机灵的；<美，非正式>矫揉造作的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Shame, she's socute!",
+        "cn": "哇，她简直是太漂亮了！"
+      },
+      {
+        "c": "Isn't shecute?",
+        "cn": "它是不是很可爱？"
+      },
+      {
+        "c": "She is such acutelittle thing.",
+        "cn": "她是个非常可爱的小东西。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cute girl",
+        "cn": "可爱女孩"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "漂亮的，可爱的；<美>性感迷人的；<美>精明的，机灵的；<美，非正式>矫揉造作的",
+        "ws": [
+          "adorable",
+          "lovely",
+          "sweet",
+          "charming"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "cute",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "cutes",
+              "cn": "复数"
+            },
+            {
+              "c": "cuter",
+              "cn": "比较级"
+            },
+            {
+              "c": "cutest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "cute",
+        "d": "acute（敏锐的）的缩写形式，最初意为「聪明的、机敏的」，后演变为「可爱的」。"
+      }
+    ]
+  },
+  {
+    "word": "dad",
+    "phonetic0": " / dæd / ",
+    "phonetic1": " / dæd / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "爸爸；爹爹"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Dad）人名；（孟、巴基、阿富）达德；（泰）达"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hi,Dad—can you put Nicky on?",
+        "cn": "您好，爸爸。您让尼基接电话好吗？"
+      },
+      {
+        "c": "Dadwent out to milk the cows.",
+        "cn": "爸爸出去给牛挤奶去了。"
+      },
+      {
+        "c": "Mydadtook me to the circus.",
+        "cn": "我爸爸带我去看马戏。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dad",
+        "cn": "爸爸；爹爹"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "爸爸；爹爹",
+        "ws": [
+          "father",
+          "daddy",
+          "papa"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "dad",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "dad",
+        "d": "源自儿童语言，模仿婴儿发出的「da-da」声音。在多种语言中都有类似形式的父亲称谓。"
+      }
+    ]
+  },
+  {
+    "word": "dog",
+    "phonetic0": " / dɒɡ / ",
+    "phonetic1": " / dɔːɡ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "狗，犬；公狗，公狐，公狼；质量极差的东西；卑鄙小人，无赖；<美，非正式>朋友"
+      },
+      {
+        "pos": "v.",
+        "cn": "困扰，纠缠；跟踪，尾随"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thedogrefused to budge.",
+        "cn": "狗不肯动弹。"
+      },
+      {
+        "c": "Does yourdogbite?",
+        "cn": "你的狗咬人吗？"
+      },
+      {
+        "c": "Thedoghas worms.",
+        "cn": "这条狗体内有寄生虫。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "let sleeping dogs lie[",
+        "cn": "口语]莫惹是非，别惹麻烦，不自找麻烦；别多事[亦作 don't wake a sleeping dog]"
+      },
+      {
+        "c": "little dogn. [",
+        "cn": "天]小犬座（等于Canis Minor）"
+      },
+      {
+        "c": "hot dog",
+        "cn": "热狗（面包夹熏红肠）"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "狗，犬；公狗，公狐，公狼；质量极差的东西；卑鄙小人，无赖；<美，非正式>朋友",
+        "ws": [
+          "puppy",
+          "canine",
+          "hound",
+          "pet"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "dog",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "dog",
+        "d": "源自古英语 docga，起源不明。是中古英语中替代 hund（现为 hound）的词。"
+      }
+    ]
+  },
+  {
+    "word": "draw",
+    "phonetic0": " / drɔː / ",
+    "phonetic1": " / drɔː / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "画，绘画；草拟，制定；吸引，使注意；引起（反应）；获得，得到；推断出；抽出，吸出；（从银行账户）取出；拉，拖；利用，动用；抽（烟），吸（气）；放（血），抽（血）；拔出，掏出；以平局结束；抽签，抓阄；（向特定方向）移动；使说出，使吐露；作（比较或对比）；（船）吃（水）；（帆）吃饱风；（滚木球）使（球）朝预定的目标作弧线运动；（茶）被泡开"
+      },
+      {
+        "pos": "n.",
+        "cn": "平局；抽彩，抽签；有吸引力的人（或事物）；吸烟；拔枪；（高尔夫）偏球；<非正式>大麻制品"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "draw.",
+        "cn": "他们奋力打成了"
+      },
+      {
+        "c": "The children love todrawand colour.",
+        "cn": "儿童喜欢画画和涂颜色。"
+      },
+      {
+        "c": "We finally managed a hard-earneddraw.",
+        "cn": "我们终于追成了平局。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "draw lessons from",
+        "cn": "从…吸取教训"
+      },
+      {
+        "c": "draw up",
+        "cn": "草拟，起草；停住；使靠近"
+      },
+      {
+        "c": "draw on",
+        "cn": "利用；吸收；戴上；临近"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "画，绘画；草拟，制定；吸引，使注意；引起（反应）；获得，得到；推断出；抽出，吸出；（从银行账户）取出；拉，拖；利用，动用；抽（烟），吸（气）；放（血），抽（血）；拔出，掏出；以平局结束；抽签，抓阄；（向特定方向）移动；使说出，使吐露；作（比较或对比）；（船）吃（水）；（帆）吃饱风；（滚木球）使（球）朝预定的目标作弧线运动；（茶）被泡开",
+        "ws": [
+          "sketch",
+          "paint",
+          "illustrate"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "draw",
+      "rels": [
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "draws",
+              "cn": "复数"
+            },
+            {
+              "c": "draws",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "drawing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "drew",
+              "cn": "过去式"
+            },
+            {
+              "c": "drawn",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "draw",
+        "d": "源自古英语 dragan，原始日耳曼语 *draganą，意为「拖、拉」。"
+      }
+    ]
+  },
+  {
+    "word": "duck",
+    "phonetic0": " / dʌk / ",
+    "phonetic1": " / dʌk / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "鸭子；鸭肉；母鸭；（板球）零分；<非正式>幸运儿，不寻常的人；<英，非正式>宝贝儿，亲爱的；突然的低头；帆布，粗布"
+      },
+      {
+        "pos": "v.",
+        "cn": "逃避，回避；躲避；（开玩笑地）把（人）按入水中；迅速移动；（桥牌）放掉；（迅速）低头，弯身"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The main course was roastduck.",
+        "cn": "主菜是烤鸭。"
+      },
+      {
+        "c": "She chose a bench beside theduckpond and sat down.",
+        "cn": "她选了鸭池旁的一张长椅坐了下来。"
+      },
+      {
+        "c": "The cat was now within striking distance of theduck.",
+        "cn": "此时，猫就在可攻击鸭子的距离内。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "roast duck",
+        "cn": "烤鸭，烧鸭"
+      },
+      {
+        "c": "peking duck",
+        "cn": "北京烤鸭；北京鸭"
+      },
+      {
+        "c": "beijing roast duck",
+        "cn": "北京烤鸭"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "鸭子；鸭肉；母鸭；（板球）零分；<非正式>幸运儿，不寻常的人；<英，非正式>宝贝儿，亲爱的；突然的低头；帆布，粗布",
+        "ws": [
+          "waterfowl",
+          "mallard"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "duck",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "ducks或duck",
+              "cn": "复数"
+            },
+            {
+              "c": "ducks",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "ducking",
+              "cn": "现在分词"
+            },
+            {
+              "c": "ducked",
+              "cn": "过去式"
+            },
+            {
+              "c": "ducked",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "duck",
+        "d": "源自古英语 dūce，来自 dūcan，意为「潜水」。因鸭子会潜水觅食得名。"
+      }
+    ]
+  },
+  {
+    "word": "ear",
+    "phonetic0": " / ɪə(r) / ",
+    "phonetic1": " / ɪr / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "耳朵；灵敏的听力；倾听；穗；耳状物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She tweaked hisearplayfully.",
+        "cn": "她拧他的耳朵逗着玩儿。"
+      },
+      {
+        "c": "He tweaked Guy'searroughly.",
+        "cn": "他粗暴地扯盖伊的耳朵。"
+      },
+      {
+        "c": "She was murmuring in hisear.",
+        "cn": "她在他耳边悄声说话。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the ear",
+        "cn": "正在结穗"
+      },
+      {
+        "c": "by ear",
+        "cn": "不看乐谱；凭听觉"
+      },
+      {
+        "c": "on one's ear◎",
+        "cn": "震惊，(使)惊讶，激动；(引起)动乱"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "耳朵；灵敏的听力；倾听；穗；耳状物",
+        "ws": [
+          "hearing",
+          "organ"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "ear",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "ear",
+        "d": "源自古英语 ēare，原始印欧语 *h₂ows-，与拉丁语 auris 同源。"
+      }
+    ]
+  },
+  {
+    "word": "eat",
+    "phonetic0": " / iːt / ",
+    "phonetic1": " / iːt / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "吃，吃饭；侵蚀，损耗；烦扰（be eating）"
+      },
+      {
+        "pos": "n.",
+        "cn": "少量食物，点心"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They'lleatalmost anything.",
+        "cn": "他们几乎什么都吃。"
+      },
+      {
+        "c": "Peopleeatwhen they're depressed.",
+        "cn": "人们会在沮丧时吃东西。"
+      },
+      {
+        "c": "I'lleatalmost anything.",
+        "cn": "我几乎什么都吃。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "eat well",
+        "cn": "健康首选；吃得营养；吃的好；胃口好"
+      },
+      {
+        "c": "eat in",
+        "cn": "在家吃饭；侵蚀"
+      },
+      {
+        "c": "eat at",
+        "cn": "困扰"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "吃，吃饭；侵蚀，损耗；烦扰（be eating）",
+        "ws": [
+          "consume",
+          "dine",
+          "devour",
+          "have"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "eat",
+      "rels": [
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "eats",
+              "cn": "复数"
+            },
+            {
+              "c": "eats",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "eating",
+              "cn": "现在分词"
+            },
+            {
+              "c": "ate",
+              "cn": "过去式"
+            },
+            {
+              "c": "eaten",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "eat",
+        "d": "源自古英语 etan，原始印欧语 *h₁ed-，意为「吃」。"
+      }
+    ]
+  },
+  {
+    "word": "eight",
+    "phonetic0": " / eɪt / ",
+    "phonetic1": " / eɪt / ",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "八；八个；第八；八岁；八点"
+      },
+      {
+        "pos": "adj.",
+        "cn": "八的"
+      },
+      {
+        "pos": "n.",
+        "cn": "八人划船队"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The cut neededeightstitches.",
+        "cn": "这道伤口需要缝八针。"
+      },
+      {
+        "c": "Wake up! It'seighto'clock.",
+        "cn": "醒醒吧！已经八点钟了。"
+      },
+      {
+        "c": "Eighto'clock had already chimed.",
+        "cn": "已敲过八点钟了。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "the eight diagrams",
+        "cn": "八卦"
+      },
+      {
+        "c": "group of eight",
+        "cn": "八国集团（指美、德、英、法、意、加、日、俄八国组成的国际经济同盟）"
+      },
+      {
+        "c": "the eight immortals",
+        "cn": "八仙（中国传统神化人物）"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "num.",
+        "cn": "八；八个；第八；八岁；八点",
+        "ws": [
+          "8",
+          "octet"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "eight",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "eight",
+        "d": "源自古英语 eahta，原始印欧语 *oḱtṓw，意为「八」。"
+      }
+    ]
+  },
+  {
+    "word": "elephant",
+    "phonetic0": " / ˈelɪfənt; ˈeləfənt / ",
+    "phonetic1": " / ˈelɪfənt; ˈeləfənt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "象；大号图画纸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Theelephantflapped its ears.",
+        "cn": "大象拍打着双耳。"
+      },
+      {
+        "c": "The kids had a ride on anelephantat the zoo.",
+        "cn": "在动物园里，孩子们骑着大象走了一圈。"
+      },
+      {
+        "c": "Theelephantis the largest living land animal.",
+        "cn": "象是现今陆地上最大的动物。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "white elephant",
+        "cn": "白象，灰色象（在印度、东南亚被视为神圣之物）；无价值的东西"
+      },
+      {
+        "c": "elephant sealn.",
+        "cn": "象海豹；海象"
+      },
+      {
+        "c": "african elephant",
+        "cn": "非洲象"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "象；大号图画纸",
+        "ws": [
+          "mammoth",
+          "pachyderm"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "elephant",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "elephants或elephant",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "elephant",
+        "d": "源自古法语 elephant，拉丁语 elephantus，希腊语 elephas。可能源自非洲语言。"
+      }
+    ]
+  },
+  {
+    "word": "eye",
+    "phonetic0": " / aɪ / ",
+    "phonetic1": " / aɪ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "眼睛；目光，所看之处；眼力，鉴赏力；眼光，视角；观点，态度；（钩）环，扣眼；（马铃薯上的）芽眼，芽；（飓风等风暴的）风眼；拍摄对象，取景器；（电）眼，（红外）眼，眼状探测装置；针眼，针鼻儿"
+      },
+      {
+        "pos": "v.",
+        "cn": "注视，仔细打量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The film has a painterlyeye.",
+        "cn": "这部电影有种绘画的眼光。"
+      },
+      {
+        "c": "His lefteyesquints a little.",
+        "cn": "他左眼有点斜视。"
+      },
+      {
+        "c": "I have something in myeye.",
+        "cn": "我的眼睛里进了什么东西。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the eyes of",
+        "cn": "在…心目中；从…来看"
+      },
+      {
+        "c": "to the eyeadv.",
+        "cn": "从表面上看来；公然"
+      },
+      {
+        "c": "an eye for",
+        "cn": "对…很有兴趣，对…有很深的爱好；对…有敏锐的鉴赏力；能欣赏；能判断"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "眼睛；目光，所看之处；眼力，鉴赏力；眼光，视角；观点，态度；（钩）环，扣眼；（马铃薯上的）芽眼，芽；（飓风等风暴的）风眼；拍摄对象，取景器；（电）眼，（红外）眼，眼状探测装置；针眼，针鼻儿",
+        "ws": [
+          "vision",
+          "sight",
+          "organ"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "eye",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "eyes",
+              "cn": "复数"
+            },
+            {
+              "c": "eyes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "eyeing或eying",
+              "cn": "现在分词"
+            },
+            {
+              "c": "eyed",
+              "cn": "过去式"
+            },
+            {
+              "c": "eyed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "eye",
+        "d": "源自古英语 ēage，原始印欧语 *h₃okʷ-，意为「看见」。"
+      }
+    ]
+  },
+  {
+    "word": "family",
+    "phonetic0": " / ˈfæməli / ",
+    "phonetic1": " / ˈfæməli / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "家，家庭；家属，亲属；家族；子女，孩子；（动植物的）科；语族；祖先； 一窝（动物）； 有组织的犯罪团伙；（具有明显共同特征的）一类东西；（在某些方面）像家人一样的一群人；（数）族；派别；氏族"
+      },
+      {
+        "pos": "adj.",
+        "cn": "家庭的；一家所有的；老少咸宜的；全家用的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hisfamilyexpostulated with him.",
+        "cn": "他的家人反驳他。"
+      },
+      {
+        "c": "All myfamilyenjoy skiing.",
+        "cn": "我们全家都喜欢滑雪。"
+      },
+      {
+        "c": "He asked about herfamily.",
+        "cn": "他询问了她的家庭情况。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "family planningn.",
+        "cn": "计划生育"
+      },
+      {
+        "c": "family member",
+        "cn": "家庭成员；家族成员"
+      },
+      {
+        "c": "family life",
+        "cn": "家庭生活"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "家，家庭；家属，亲属；家族；子女，孩子；（动植物的）科；语族；祖先； 一窝（动物）； 有组织的犯罪团伙；（具有明显共同特征的）一类东西；（在某些方面）像家人一样的一群人；（数）族；派别；氏族",
+        "ws": [
+          "household",
+          "relatives",
+          "kin",
+          "clan"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "family",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "families",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "family",
+        "d": "源自拉丁语 familia，来自 famulus，意为「仆人、家庭成员」。原指「一家之主的全体仆人和亲属」。"
+      }
+    ]
+  },
+  {
+    "word": "farm",
+    "phonetic0": " / fɑːm / ",
+    "phonetic1": " / fɑːrm / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "农场，养殖场；农舍；生产企业"
+      },
+      {
+        "pos": "v.",
+        "cn": "耕种，养殖；（收取一定费用）将（税收）包出；承包，外包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Whose is thatfarmover yonder?",
+        "cn": "那边的农场是谁的？"
+      },
+      {
+        "c": "I told you. Get off thefarm.",
+        "cn": "我告诉过你，离开农场。"
+      },
+      {
+        "c": "Farmworkers milked cows by hand.",
+        "cn": "农场工人们手工给奶牛挤奶。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "farm products",
+        "cn": "农产品"
+      },
+      {
+        "c": "farm produce",
+        "cn": "农产品"
+      },
+      {
+        "c": "wind farm",
+        "cn": "有许多风车的农场"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "农场，养殖场；农舍；生产企业",
+        "ws": [
+          "ranch",
+          "plantation",
+          "homestead"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "farm",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "farms",
+              "cn": "复数"
+            },
+            {
+              "c": "farms",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "farming",
+              "cn": "现在分词"
+            },
+            {
+              "c": "farmed",
+              "cn": "过去式"
+            },
+            {
+              "c": "farmed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "farm",
+        "d": "源自古法语 ferme，来自拉丁语 firmare，意为「固定、确认」。原指「固定租金的地产」。"
+      }
+    ]
+  },
+  {
+    "word": "fast",
+    "phonetic0": " / fɑːst / ",
+    "phonetic1": " / fæst / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "快的，迅速的；系牢的，紧缚的；寻欢作乐的；不褪色的；忠实的，可靠的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "快速地；坚定地，牢固地"
+      },
+      {
+        "pos": "v.",
+        "cn": "斋戒，禁食"
+      },
+      {
+        "pos": "n.",
+        "cn": "斋戒，斋戒期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They work terrificallyfast.",
+        "cn": "他们工作极快。"
+      },
+      {
+        "c": "Night wasfastapproaching.",
+        "cn": "黑夜迅速降临。"
+      },
+      {
+        "c": "Events are movingfast.",
+        "cn": "事件进展很快。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fast food",
+        "cn": "速食，快餐"
+      },
+      {
+        "c": "as fast as",
+        "cn": "和…一样快"
+      },
+      {
+        "c": "fast growth",
+        "cn": "快速生长"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "快的，迅速的；系牢的，紧缚的；寻欢作乐的；不褪色的；忠实的，可靠的",
+        "ws": [
+          "quick",
+          "rapid",
+          "swift",
+          "speedy"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "fast",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "fasts",
+              "cn": "复数"
+            },
+            {
+              "c": "fasts",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "fasting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "fasted",
+              "cn": "过去式"
+            },
+            {
+              "c": "fasted",
+              "cn": "过去分词"
+            },
+            {
+              "c": "faster",
+              "cn": "比较级"
+            },
+            {
+              "c": "fastest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "fast",
+        "d": "源自古英语 fæst，原意为「固定的、牢固的」，后演变为「快速的」。"
+      }
+    ]
+  },
+  {
+    "word": "father",
+    "phonetic0": " / ˈfɑːðə(r) / ",
+    "phonetic1": " / ˈfɑːðər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "父亲，爸爸；祖先；发明者，创始人；（Father）天父，上帝；（Father）（尤指天主教和东正教的）神父；父亲般的人；（城邦、市镇等的）元老；（动物的）父代；保护人，庇护人；（Father）（用于拟人化的专有名称）……老人；早期基督教神学家"
+      },
+      {
+        "pos": "v.",
+        "cn": "是……的父亲；创立（新思想），创造，发明（新方法）；如父亲般对待（或抚养、照料）；确定（某人）的生父为……，确定（某事物）的责任应由……来承担"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Joan still mourns herfather.",
+        "cn": "琼还在哀悼她的父亲。"
+      },
+      {
+        "c": "I miss thee, belovedfather.",
+        "cn": "亲爱的父亲，我想念您。"
+      },
+      {
+        "c": "He's very like hisfather.",
+        "cn": "他很像他的父亲。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "father christmas",
+        "cn": "耶诞老人（等于Santa Claus）"
+      },
+      {
+        "c": "father and daughter",
+        "cn": "父与女（动画短片，曾获奥斯卡最佳动画短片奖）"
+      },
+      {
+        "c": "holy father",
+        "cn": "基督教圣父（指上帝）；天主教徒对罗马教皇的尊称"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "父亲，爸爸；祖先；发明者，创始人；（Father）天父，上帝；（Father）（尤指天主教和东正教的）神父；父亲般的人；（城邦、市镇等的）元老；（动物的）父代；保护人，庇护人；（Father）（用于拟人化的专有名称）……老人；早期基督教神学家",
+        "ws": [
+          "dad",
+          "daddy",
+          "papa",
+          "parent"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "father",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "fathers",
+              "cn": "复数"
+            },
+            {
+              "c": "fathers",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "fathering",
+              "cn": "现在分词"
+            },
+            {
+              "c": "fathered",
+              "cn": "过去式"
+            },
+            {
+              "c": "fathered",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "father",
+        "d": "源自古英语 fæder，原始印欧语 *ph₂tḗr，意为「父亲」。"
+      }
+    ]
+  },
+  {
+    "word": "fish",
+    "phonetic0": " / fɪʃ / ",
+    "phonetic1": " / fɪʃ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "鱼；鱼肉；双鱼座；接合板；<非正式>鱼雷；<非正式>（在某方面怪异的）怪人"
+      },
+      {
+        "pos": "v.",
+        "cn": "钓鱼，捕鱼；搜寻；在……中捕鱼；打听消息；用接合板修补"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thesefishare very aggressive.",
+        "cn": "这些鱼十分好斗。"
+      },
+      {
+        "c": "The lakes abound withfish.",
+        "cn": "这些湖泊盛产鱼。"
+      },
+      {
+        "c": "They caught severalfish.",
+        "cn": "他们捉到了几条鱼。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "big fish",
+        "cn": "大鱼；重要人物"
+      },
+      {
+        "c": "fish for",
+        "cn": "摸索；寻找"
+      },
+      {
+        "c": "fish oil",
+        "cn": "鱼油，鱼肝油"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "鱼；鱼肉；双鱼座；接合板；<非正式>鱼雷；<非正式>（在某方面怪异的）怪人",
+        "ws": [
+          "seafood",
+          "aquatic animal"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "fish",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "fish或fishes",
+              "cn": "复数"
+            },
+            {
+              "c": "fishes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "fishing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "fished",
+              "cn": "过去式"
+            },
+            {
+              "c": "fished",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "fish",
+        "d": "源自古英语 fisc，原始日耳曼语 *fiskaz，原始印欧语 *peysk-。"
+      }
+    ]
+  },
+  {
+    "word": "five",
+    "phonetic0": " / faɪv / ",
+    "phonetic1": " / faɪv / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "五，五个；五美元钞票"
+      },
+      {
+        "pos": "num.",
+        "cn": "五，五个"
+      },
+      {
+        "pos": "adj.",
+        "cn": "五的；五个的"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Five）人名；（挪）菲弗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She brought upfivechildren.",
+        "cn": "她抚育了五个孩子。"
+      },
+      {
+        "c": "Britain wonfivegold medals.",
+        "cn": "英国夺取了五块金牌。"
+      },
+      {
+        "c": "He arrived aroundfiveo'clock.",
+        "cn": "他大约是五点钟到的。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "five hundred",
+        "cn": "五百分（牌戏，一种以得500分为胜局的游戏）"
+      },
+      {
+        "c": "five star",
+        "cn": "五星级的；第一流的"
+      },
+      {
+        "c": "five dynasties",
+        "cn": "五代"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "五，五个；五美元钞票",
+        "ws": [
+          "5",
+          "quintet"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "five",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "fives",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "five",
+        "d": "源自古英语 fīf，原始印欧语 *pénkʷe，意为「五」。"
+      }
+    ]
+  },
+  {
+    "word": "flower",
+    "phonetic0": " / ˈflaʊə(r) / ",
+    "phonetic1": " / ˈflaʊər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "花，开花植物；精华，最好的部分"
+      },
+      {
+        "pos": "v.",
+        "cn": "开花；繁荣，兴旺"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thefloweropens to reveal a bee.",
+        "cn": "花开了，露出来一只蜜蜂。"
+      },
+      {
+        "c": "I've been weeding theflowerbeds.",
+        "cn": "我一直在除花坛里的杂草。"
+      },
+      {
+        "c": "Cut theflowerstems on the slant.",
+        "cn": "把花茎斜着切断。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wild flower",
+        "cn": "野花"
+      },
+      {
+        "c": "in flower",
+        "cn": "开着花"
+      },
+      {
+        "c": "flower bud",
+        "cn": "花芽，花蕾"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "花，开花植物；精华，最好的部分",
+        "ws": [
+          "bloom",
+          "blossom",
+          "plant"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "flower",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "flowers",
+              "cn": "复数"
+            },
+            {
+              "c": "flowers",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "flowering",
+              "cn": "现在分词"
+            },
+            {
+              "c": "flowered",
+              "cn": "过去式"
+            },
+            {
+              "c": "flowered",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "flower",
+        "d": "源自古法语 flour，拉丁语 flos，意为「花」。"
+      }
+    ]
+  },
+  {
+    "word": "four",
+    "phonetic0": " / fɔː(r) / ",
+    "phonetic1": " / fɔːr / ",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "四，四个"
+      },
+      {
+        "pos": "n.",
+        "cn": "四个人（或事）的一组；（板球）四分的一击；（衣服等）四号；四点的纸牌；四浆赛艇，四人划船队"
+      },
+      {
+        "pos": "adj.",
+        "cn": "四的；四个的"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Four）（法、美）福尔（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She'sfouryears his junior.",
+        "cn": "她比他小四岁。"
+      },
+      {
+        "c": "There's onlyfourdays left.",
+        "cn": "只剩下四天了。"
+      },
+      {
+        "c": "Fourquarters make a whole.",
+        "cn": "四个四分之一构成一个整体。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "four seasons",
+        "cn": "四季"
+      },
+      {
+        "c": "four hundred",
+        "cn": "名流；绅士"
+      },
+      {
+        "c": "four modernizations",
+        "cn": "四个现代化（农，工，国防，科技）；四化"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "num.",
+        "cn": "四，四个",
+        "ws": [
+          "4",
+          "quartet"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "four",
+      "rels": [
+        {
+          "pos": "num.",
+          "words": [
+            {
+              "c": "fours",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "four",
+        "d": "源自古英语 fēower，原始印欧语 *kʷetwóres，意为「四」。"
+      }
+    ]
+  },
+  {
+    "word": "fox",
+    "phonetic0": " / fɒks / ",
+    "phonetic1": " / fɑːks / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "狐狸；狐裘；狡猾的人；<非正式> 妖精，性感的人；福克斯族，福克斯族语；<非正式>妖精，性感的人"
+      },
+      {
+        "pos": "v.",
+        "cn": "欺骗，耍弄；把……难住，使……猜不透"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He was as cunning as afox.",
+        "cn": "他像狐狸一样狡猾。"
+      },
+      {
+        "c": "The boss is a wily oldfox.",
+        "cn": "老板是个狡猾的老狐狸。"
+      },
+      {
+        "c": "He's a wily oldfox.",
+        "cn": "他是个诡计多端的老狐狸。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "old fox",
+        "cn": "老狐狸；老油条"
+      },
+      {
+        "c": "arctic foxn.",
+        "cn": "北极狐，白狐"
+      },
+      {
+        "c": "silver fox[",
+        "cn": "动]银狐"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "狐狸；狐裘；狡猾的人；<非正式> 妖精，性感的人；福克斯族，福克斯族语；<非正式>妖精，性感的人",
+        "ws": [
+          "vixen",
+          "canine"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "fox",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "foxes或fox",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "fox",
+        "d": "源自古英语 fox，原始日耳曼语 *fuhsaz，意为「尾巴浓密者」。"
+      }
+    ]
+  },
+  {
+    "word": "friend",
+    "phonetic0": " / frend / ",
+    "phonetic1": " / frend / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "朋友，友人；（社交网站上的）好友；（与……是） 朋友，朋友关系（friends）；（组织或政治运动等的）支持者，（尤指）赞助者；自己人，同盟者；熟悉（或有帮助）的事物；相识的人，（偶然遇见的）陌生人（常作礼貌称呼语或讽刺用语）；友好国家；<英>（议员间或律师间的一种称呼）朋友，阁下，同人；（基督教）公谊会教友，贵格会成员，教友派信徒（Friend）"
+      },
+      {
+        "pos": "v.",
+        "cn": "（在社交网站上） 把（某人）加为好友；<古>与……为友，帮助"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Myfriendhere saw it happen.",
+        "cn": "我的这位朋友目睹了事情的经过。"
+      },
+      {
+        "c": "She's a very specialfriend.",
+        "cn": "她是我特别要好的朋友。"
+      },
+      {
+        "c": "You're supposed to be myfriend!",
+        "cn": "你还是我的朋友呢！查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "best friend",
+        "cn": "最好的朋友，好朋友"
+      },
+      {
+        "c": "good friend",
+        "cn": "好朋友，挚友"
+      },
+      {
+        "c": "friend of mine",
+        "cn": "我的朋友"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "朋友，友人；（社交网站上的）好友；（与……是） 朋友，朋友关系（friends）；（组织或政治运动等的）支持者，（尤指）赞助者；自己人，同盟者；熟悉（或有帮助）的事物；相识的人，（偶然遇见的）陌生人（常作礼貌称呼语或讽刺用语）；友好国家；<英>（议员间或律师间的一种称呼）朋友，阁下，同人；（基督教）公谊会教友，贵格会成员，教友派信徒（Friend）",
+        "ws": [
+          "pal",
+          "buddy",
+          "companion",
+          "mate"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "friend",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "friends",
+              "cn": "复数"
+            },
+            {
+              "c": "friends",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "friending",
+              "cn": "现在分词"
+            },
+            {
+              "c": "friended",
+              "cn": "过去式"
+            },
+            {
+              "c": "friended",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "friend",
+        "d": "源自古英语 frēond，来自 frēogan，意为「爱」。原意为「所爱的人」。"
+      }
+    ]
+  },
+  {
+    "word": "garden",
+    "phonetic0": " / ˈɡɑːd(ə)n / ",
+    "phonetic1": " / ˈɡɑːrdn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "花园，菜园，果园；庭园；公园；（用于街名）街，广场"
+      },
+      {
+        "pos": "v.",
+        "cn": "做园艺工作，种植花木"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Caspar was weeding thegarden.",
+        "cn": "卡斯帕正在给花园除草。"
+      },
+      {
+        "c": "Having agardenis therapeutic.",
+        "cn": "有个花园能让人放松心情。"
+      },
+      {
+        "c": "Thegardenlooked uncared for.",
+        "cn": "这花园似乎无人管理。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the garden",
+        "cn": "在花园里"
+      },
+      {
+        "c": "tea garden",
+        "cn": "茶叶种植场；茶室"
+      },
+      {
+        "c": "botanical garden",
+        "cn": "植物园"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "花园，菜园，果园；庭园；公园；（用于街名）街，广场",
+        "ws": [
+          "yard",
+          "park",
+          "backyard",
+          "orchard"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "garden",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "gardens",
+              "cn": "复数"
+            },
+            {
+              "c": "gardens",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "gardening",
+              "cn": "现在分词"
+            },
+            {
+              "c": "gardened",
+              "cn": "过去式"
+            },
+            {
+              "c": "gardened",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "garden",
+        "d": "源自古北方法语 gardin，来自日耳曼语 gart，意为「围起来的地方」。"
+      }
+    ]
+  },
+  {
+    "word": "giraffe",
+    "phonetic0": " / dʒəˈrɑːf / ",
+    "phonetic1": " / dʒəˈræf / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "长颈鹿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You have twogiraffetoys.",
+        "cn": "你有两个长颈鹿玩具。"
+      },
+      {
+        "c": "Thegiraffeeats leaves.",
+        "cn": "长颈鹿吃树叶。"
+      },
+      {
+        "c": "Agiraffecannot cough.",
+        "cn": "长颈鹿没办法咳嗽。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "giraffe",
+        "cn": "长颈鹿"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "长颈鹿",
+        "ws": [
+          "tall animal",
+          "mammal"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "giraffe",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "giraffes或giraffe",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "giraffe",
+        "d": "源自阿拉伯语 zarāfah，可能来自非洲语言。通过意大利语 giraffa 传入英语。"
+      }
+    ]
+  },
+  {
+    "word": "give",
+    "phonetic0": " / ɡɪv / ",
+    "phonetic1": " / ɡɪv / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "给，交给；赠送，赠与，送给；提供，供给；捐赠；支付，付款；将（时间、精力等）用于；举办，举行；表演，公开进行；允许；使产生（某种感觉）；使拥有（某一特性）；生产，引起；给（某人）打（电话）；告诉，说出，说明；给……评定（等级）；（把药等）注入，服入；看待，承认；做（动作）；传染；使受惩罚，让（某人）做；作出（决定或判决）；预计将持续（时间）；伸长，弯曲，断裂；让步，妥协；表示一种可能的情况或状态"
+      },
+      {
+        "pos": "n.",
+        "cn": "伸展性，弹性；适应（或顺应）能力，灵活性"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'llgiveyou a ring.",
+        "cn": "我会给你打电话的。"
+      },
+      {
+        "c": "I'llgiveyou a demo.",
+        "cn": "我来给你作个示范。"
+      },
+      {
+        "c": "Larger modelsgivemore bass.",
+        "cn": "更大的型号能奏出更多的低音。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "give oneself（",
+        "cn": "为...）献身"
+      },
+      {
+        "c": "give up",
+        "cn": "放弃；交出"
+      },
+      {
+        "c": "give out",
+        "cn": "分发，发出；公布，发表；用尽，精疲力竭"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "给，交给；赠送，赠与，送给；提供，供给；捐赠；支付，付款；将（时间、精力等）用于；举办，举行；表演，公开进行；允许；使产生（某种感觉）；使拥有（某一特性）；生产，引起；给（某人）打（电话）；告诉，说出，说明；给……评定（等级）；（把药等）注入，服入；看待，承认；做（动作）；传染；使受惩罚，让（某人）做；作出（决定或判决）；预计将持续（时间）；伸长，弯曲，断裂；让步，妥协；表示一种可能的情况或状态",
+        "ws": [
+          "offer",
+          "provide",
+          "hand",
+          "donate"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "give",
+      "rels": [
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "gives",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "giving",
+              "cn": "现在分词"
+            },
+            {
+              "c": "gave",
+              "cn": "过去式"
+            },
+            {
+              "c": "given",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "give",
+        "d": "源自古英语 giefan，原始日耳曼语 *gebaną，意为「给予」。"
+      }
+    ]
+  },
+  {
+    "word": "go",
+    "phonetic0": " / ɡəʊ / ",
+    "phonetic1": " / ɡoʊ / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "去，走；（尤指与某人）去（某处或出席某项活动）；可能要，打算做；移动，行走；在移动中做；做某个动作；离开；（为某目的）去（某处）；去做（某事）；被发送，被传递；参加（电视或电台节目）；通向，延伸到；上升；放在（通常的位置上）；放得进，适合；相配，协调；除尽，除；进行，进展；被接受，被允许；开始做（某事），进入（某种状态）；变为，变得（尤指朝坏的方面）；处于（尤指令人不快的状况）；（故事、歌词等）内容是；发出（某种声音）；发出信号（或警告）；<非正式>说；开始（活动）；<非正式>走开，滚开；参与（表示对所提到行为不赞成）；运转，工作；停止正常运转；消失，不见；得辞掉，被扔掉；（官能）衰退，下降；死亡；用掉，花掉；卖掉，归于；出价购买；促成，显示；流逝，消逝；继续，持续；<非正式>上厕所；（某人的话）算数；（决定、判决等）对…...不利；取得（某成绩、比分等）"
+      },
+      {
+        "pos": "n.",
+        "cn": "（游戏或活动中）轮到的机会；尝试；<英>精力，活力；<美>某事顺利进行；围棋"
+      },
+      {
+        "pos": "adj.",
+        "cn": "<非正式>运行正常的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "\"Go! Pleasego.\"—\"You must be joking!\"“",
+        "cn": "走吧！请走吧。”—“你一定是在开玩笑！”《柯林斯英汉双解大词典》"
+      },
+      {
+        "c": "Very well, if you want togo,goyou shall.",
+        "cn": "很好，如果你想走的话，你可以走了。"
+      },
+      {
+        "c": "Okay, let'sgo.",
+        "cn": "好了，咱们走吧。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "going on",
+        "cn": "进行，发生"
+      },
+      {
+        "c": "go home",
+        "cn": "回家"
+      },
+      {
+        "c": "let go",
+        "cn": "放开；释放；发射"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "去，走；（尤指与某人）去（某处或出席某项活动）；可能要，打算做；移动，行走；在移动中做；做某个动作；离开；（为某目的）去（某处）；去做（某事）；被发送，被传递；参加（电视或电台节目）；通向，延伸到；上升；放在（通常的位置上）；放得进，适合；相配，协调；除尽，除；进行，进展；被接受，被允许；开始做（某事），进入（某种状态）；变为，变得（尤指朝坏的方面）；处于（尤指令人不快的状况）；（故事、歌词等）内容是；发出（某种声音）；发出信号（或警告）；<非正式>说；开始（活动）；<非正式>走开，滚开；参与（表示对所提到行为不赞成）；运转，工作；停止正常运转；消失，不见；得辞掉，被扔掉；（官能）衰退，下降；死亡；用掉，花掉；卖掉，归于；出价购买；促成，显示；流逝，消逝；继续，持续；<非正式>上厕所；（某人的话）算数；（决定、判决等）对…...不利；取得（某成绩、比分等）",
+        "ws": [
+          "leave",
+          "move",
+          "travel",
+          "depart"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "go",
+      "rels": [
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "goes",
+              "cn": "复数"
+            },
+            {
+              "c": "goes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "going",
+              "cn": "现在分词"
+            },
+            {
+              "c": "went",
+              "cn": "过去式"
+            },
+            {
+              "c": "gone或been",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "go",
+        "d": "源自古英语 gān，原始日耳曼语 *gāną，意为「去、走」。"
+      }
+    ]
+  },
+  {
+    "word": "good",
+    "phonetic0": " / ɡʊd / ",
+    "phonetic1": " / ɡʊd / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "优良的；能干的，擅长的；令人愉快的，满意的；合适的，方便的；有益的；乖的；虔诚的；健康的；善良的；正直的；相当大的，相当多的；至少；彻底的；明智的，合理的；划算的，收益可观的；赢得赞许的，令人尊敬的；（用于表示回应）好的；表示惊讶、生气或者加强语气；（用于打招呼）好；有趣的；有效的；能提供……的；（踢、射、投）命中；亲密的；<非正式>够了"
+      },
+      {
+        "pos": "n.",
+        "cn": "善，正义；好事；商品，所有物；<英>（运载的）货物（goods）；优势，利益；<非正式>真货，正品（the goods）；好人，有道德的人（the good）"
+      },
+      {
+        "pos": "adv.",
+        "cn": "<非正式>好地；<美>彻底地，完全地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We remainedgoodfriends.",
+        "cn": "我们一直是好朋友。"
+      },
+      {
+        "c": "She speaksgoodEnglish.",
+        "cn": "她英语说得很好。"
+      },
+      {
+        "c": "That tastes realgood.",
+        "cn": "味道好极了。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "good at",
+        "cn": "善于"
+      },
+      {
+        "c": "good and",
+        "cn": "完全，非常"
+      },
+      {
+        "c": "good for",
+        "cn": "有效的；会产生；有支付…能力的"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "优良的；能干的，擅长的；令人愉快的，满意的；合适的，方便的；有益的；乖的；虔诚的；健康的；善良的；正直的；相当大的，相当多的；至少；彻底的；明智的，合理的；划算的，收益可观的；赢得赞许的，令人尊敬的；（用于表示回应）好的；表示惊讶、生气或者加强语气；（用于打招呼）好；有趣的；有效的；能提供……的；（踢、射、投）命中；亲密的；<非正式>够了",
+        "ws": [
+          "great",
+          "nice",
+          "fine",
+          "excellent",
+          "wonderful"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "good",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "goods",
+              "cn": "复数"
+            },
+            {
+              "c": "better",
+              "cn": "比较级"
+            },
+            {
+              "c": "best",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "good",
+        "d": "源自古英语 gōd，原始日耳曼语 *gōdaz，意为「合适的、好的」。"
+      }
+    ]
+  },
+  {
+    "word": "grandfather",
+    "phonetic0": " / ˈɡrænfɑːðə(r) / ",
+    "phonetic1": " / ˈɡrænfɑːðər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "祖父；始祖"
+      },
+      {
+        "pos": "vt.",
+        "cn": "不受新规定限制"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hisgrandfatherwas a professor.",
+        "cn": "他爷爷曾是位教授。"
+      },
+      {
+        "c": "Hisgrandfatherwas a Muslim cleric.",
+        "cn": "他祖父是一位穆斯林教士。"
+      },
+      {
+        "c": "Hergrandfathertaught her to conjure.",
+        "cn": "她的祖父教她变魔术。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "grandfather clock",
+        "cn": "落地式大摆钟"
+      },
+      {
+        "c": "maternal grandfather",
+        "cn": "外公，外祖父"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "祖父；始祖",
+        "ws": [
+          "grandpa",
+          "granddad",
+          "elder"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "grandfather",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "grandfathers",
+              "cn": "复数"
+            },
+            {
+              "c": "grandfathers",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "grandfathering",
+              "cn": "现在分词"
+            },
+            {
+              "c": "grandfathered",
+              "cn": "过去式"
+            },
+            {
+              "c": "grandfathered",
+              "cn": "过去分词"
+            },
+            {
+              "c": "grandfather clock",
+              "cn": "落地式大摆钟2"
+            },
+            {
+              "c": "maternal grandfather",
+              "cn": "外公，外祖父"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "grandfather",
+        "d": "grand-（大的、隔代的）+ father（父亲）。grand- 源自古法语 grant，意为「大的、伟大的」。"
+      }
+    ]
+  },
+  {
+    "word": "grandma",
+    "phonetic0": " / ˈɡrænmɑː / ",
+    "phonetic1": " / ˈɡrænmɑː / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "奶奶；外婆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Grandmawas from Scotland.",
+        "cn": "奶奶来自苏格兰。"
+      },
+      {
+        "c": "Unfortunately,Grandmaalways seems to awaken at awkward moments.",
+        "cn": "可惜的是，奶奶好像总是在不合适的时间叫醒我。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "grandma",
+        "cn": "奶奶；外婆"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "奶奶；外婆",
+        "ws": [
+          "grandmother",
+          "granny",
+          "nana",
+          "elder"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "grandma",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "grandmas",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "grandma",
+        "d": "grandmother 的口语缩写。grand- 源自古法语 grant（大的），ma 是 mother 的儿童简化形式。"
+      }
+    ]
+  },
+  {
+    "word": "grandmother",
+    "phonetic0": " / ˈɡrænmʌðə(r) / ",
+    "phonetic1": " / ˈɡrænmʌðər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（外）祖母，奶奶，外婆；女祖先"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hergrandmothermumbled in her sleep.",
+        "cn": "她祖母睡觉时咕哝了。"
+      },
+      {
+        "c": "He often runs errands for hisgrandmother.",
+        "cn": "他经常给他的祖母跑腿儿。"
+      },
+      {
+        "c": "and still going strong.",
+        "cn": "我奶奶"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "maternal grandmother",
+        "cn": "外祖母；外婆；姥姥"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "（外）祖母，奶奶，外婆；女祖先",
+        "ws": [
+          "grandma",
+          "granny",
+          "elder"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "grandmother",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "grandmothers",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "grandmother",
+        "d": "grand-（大的、隔代的）+ mother（母亲）。grand- 源自古法语 grant。"
+      }
+    ]
+  },
+  {
+    "word": "grandpa",
+    "phonetic0": " / ˈɡrænpɑː / ",
+    "phonetic1": " / ˈɡrænpɑː / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "爷爷；外公"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Grandpawas not yet back from the war.",
+        "cn": "爷爷那时还没从战场归来。"
+      },
+      {
+        "c": "Grandpadotes on his grandson.",
+        "cn": "爷爷疼孙子。"
+      },
+      {
+        "c": "We'll buyGrandpaa new one.",
+        "cn": "我们会给爷爷买一个新的。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "grandpa",
+        "cn": "爷爷；外公"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "爷爷；外公",
+        "ws": [
+          "grandfather",
+          "granddad",
+          "gramps",
+          "elder"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "grandpa",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "grandpas",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "grandpa",
+        "d": "grandfather 的口语缩写。grand- 源自古法语 grant（大的），pa 是 father 的儿童简化形式 papa 的缩写。"
+      }
+    ]
+  },
+  {
+    "word": "grape",
+    "phonetic0": " / ɡreɪp / ",
+    "phonetic1": " / ɡreɪp / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "葡萄；葡萄酒（the grape）；霰弹，葡萄弹（grapeshot 的简称）；葡萄树；葡萄色"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The colouring pigments from the skins are not allowed to bleed into thegrapejuice.",
+        "cn": "这些果皮的色素不允许掺混进葡萄汁中。"
+      },
+      {
+        "c": "Is it agrapeor a plum?",
+        "cn": "这是葡萄还是李子？"
+      },
+      {
+        "c": "Juice blends contain various fruits likegrape, apple and pear.",
+        "cn": "混合果汁含有各种水果，如葡萄、苹果和梨。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "grape wine",
+        "cn": "葡萄酒"
+      },
+      {
+        "c": "grape juice",
+        "cn": "葡萄汁"
+      },
+      {
+        "c": "grape seed oil",
+        "cn": "葡萄籽油"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "葡萄；葡萄酒（the grape）；霰弹，葡萄弹（grapeshot 的简称）；葡萄树；葡萄色",
+        "ws": [
+          "fruit",
+          "vine fruit"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "grape",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "grape",
+        "d": "源自古法语 grape，意为「一串」。原指「采摘葡萄用的钩子」，后指葡萄本身。"
+      }
+    ]
+  },
+  {
+    "word": "grass",
+    "phonetic0": " / ɡrɑːs / ",
+    "phonetic1": " / ɡræs / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "草；草地，草坪；<非正式>大麻；<英，非正式> 告密者；草地网球场；牧场；<英，非正式>告密者"
+      },
+      {
+        "pos": "v.",
+        "cn": "在……上种草；<英，非正式>（向警方）告发；捕（鱼）并带上河岸；将（某人）撞倒；<美>给（牲畜）喂草"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thegrasswas dry and patchy.",
+        "cn": "草都干了，东一片西一片的。"
+      },
+      {
+        "c": "Thegrasshad grown waist-high.",
+        "cn": "草长得齐腰高了。"
+      },
+      {
+        "c": "Thegrassgrew thick and velvety.",
+        "cn": "草长得又茂密又柔软光滑。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the grass",
+        "cn": "在草地上"
+      },
+      {
+        "c": "green grass",
+        "cn": "绿色草，青草"
+      },
+      {
+        "c": "forage grass",
+        "cn": "饲草"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "草；草地，草坪；<非正式>大麻；<英，非正式> 告密者；草地网球场；牧场；<英，非正式>告密者",
+        "ws": [
+          "lawn",
+          "turf",
+          "meadow",
+          "green"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "grass",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "grasses",
+              "cn": "复数"
+            },
+            {
+              "c": "grasses",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "grassing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "grassed",
+              "cn": "过去式"
+            },
+            {
+              "c": "grassed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "grass",
+        "d": "源自古英语 græs，原始日耳曼语 *grasą，意为「草、绿色植物」。与 green 同源。"
+      }
+    ]
+  },
+  {
+    "word": "green",
+    "phonetic0": " / ɡriːn / ",
+    "phonetic1": " / ɡriːn / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "绿色的；青春的"
+      },
+      {
+        "pos": "n.",
+        "cn": "绿色；青春"
+      },
+      {
+        "pos": "vt.",
+        "cn": "使……变绿色"
+      },
+      {
+        "pos": "vi.",
+        "cn": "变绿色"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Green）人名；（英、意）格林；（瑞典、芬）格伦"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He woregreen-tinted glasses.",
+        "cn": "他戴着染成绿色的眼镜。"
+      },
+      {
+        "c": "She was dressed all ingreen.",
+        "cn": "她全身绿装。"
+      },
+      {
+        "c": "She works for Bond &Green.",
+        "cn": "她在邦德—格林公司工作。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the green",
+        "cn": "在年富力强时"
+      },
+      {
+        "c": "on the green",
+        "cn": "在果岭上；在草地上"
+      },
+      {
+        "c": "green tea",
+        "cn": "绿茶"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "绿色的；青春的",
+        "ws": [
+          "emerald",
+          "lime",
+          "verdant",
+          "leafy"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "green",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "greens",
+              "cn": "复数"
+            },
+            {
+              "c": "greens",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "greening",
+              "cn": "现在分词"
+            },
+            {
+              "c": "greened",
+              "cn": "过去式"
+            },
+            {
+              "c": "greened",
+              "cn": "过去分词"
+            },
+            {
+              "c": "greener",
+              "cn": "比较级"
+            },
+            {
+              "c": "greenest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "green",
+        "d": "源自古英语 grēne，原始日耳曼语 *grōniz，意为「绿色的、生长的」。与 grass 同源。"
+      }
+    ]
+  },
+  {
+    "word": "hand",
+    "phonetic0": " / hænd / ",
+    "phonetic1": " / hænd / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "手；（钟表的）指针；一局牌，一手牌；帮助，援手；工人；船员，水手；支配，掌管；作用，影响；鼓掌，拍手喝彩；<文>字迹；一手之宽（用来测量马匹的高度）；<旧>（女方的）允婚；表演艺人，制作工匠"
+      },
+      {
+        "pos": "comb.",
+        "cn": "用……手的；手工"
+      },
+      {
+        "pos": "v.",
+        "cn": "交，递；支持，搀扶；卷（帆）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Herhandwas shaking noticeably.",
+        "cn": "很明显她的手在颤抖。"
+      },
+      {
+        "c": "Yourhandlooks badly burnt.",
+        "cn": "你的手似乎烧伤很重。"
+      },
+      {
+        "c": "Hishandmet hers.",
+        "cn": "他的手碰到她的手。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the other hand",
+        "cn": "另一方面"
+      },
+      {
+        "c": "in handadv.",
+        "cn": "在手头；在进行中；在控制中"
+      },
+      {
+        "c": "one hand（",
+        "cn": "双打开始时）一次发球权"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "手；（钟表的）指针；一局牌，一手牌；帮助，援手；工人；船员，水手；支配，掌管；作用，影响；鼓掌，拍手喝彩；<文>字迹；一手之宽（用来测量马匹的高度）；<旧>（女方的）允婚；表演艺人，制作工匠",
+        "ws": [
+          "palm",
+          "fist",
+          "limb"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "hand",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "hands",
+              "cn": "复数"
+            },
+            {
+              "c": "hands",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "handing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "handed",
+              "cn": "过去式"
+            },
+            {
+              "c": "handed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "hand",
+        "d": "源自古英语 hand，原始日耳曼语 *handuz。"
+      }
+    ]
+  },
+  {
+    "word": "have",
+    "phonetic0": " / hæv; həv / ",
+    "phonetic1": " / hæv; həv / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "拥有；有（想法、主意、观点等）；显示出，带有（性质、特征）；做，进行（活动）；吃，喝，抽（烟）；患病，得病；得到，收到；经历，经受；担负（责任）；导致，产生（影响）；生，生育；包括；使保持，使处于；明白，懂得；抓住，紧握；<非正式>欺骗；让，叫，命令；照看；（在家中）招待，款待；允许，容忍；<非正式>辩过，胜过；已经，曾经（与过去分词连用构成完成时）；与（某人）性交"
+      },
+      {
+        "pos": "n.",
+        "cn": "<非正式>有钱人（the haves）；<英，非正式>诈骗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Timeshavechanged and sohaveI.",
+        "cn": "时代变了，我也变了。"
+      },
+      {
+        "c": "Profitshavestagnated.",
+        "cn": "利润原地踏步。"
+      },
+      {
+        "c": "Haveyou been able tohaveany kind of contact?",
+        "cn": "你取得任何联系了吗?查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "have some",
+        "cn": "有一些；吃一点吧"
+      },
+      {
+        "c": "have to be",
+        "cn": "必定是，无疑是"
+      },
+      {
+        "c": "have to do",
+        "cn": "不得不做某事"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "拥有；有（想法、主意、观点等）；显示出，带有（性质、特征）；做，进行（活动）；吃，喝，抽（烟）；患病，得病；得到，收到；经历，经受；担负（责任）；导致，产生（影响）；生，生育；包括；使保持，使处于；明白，懂得；抓住，紧握；<非正式>欺骗；让，叫，命令；照看；（在家中）招待，款待；允许，容忍；<非正式>辩过，胜过；已经，曾经（与过去分词连用构成完成时）；与（某人）性交",
+        "ws": [
+          "possess",
+          "own",
+          "hold",
+          "keep"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "have",
+      "rels": [
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "has",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "having",
+              "cn": "现在分词"
+            },
+            {
+              "c": "had",
+              "cn": "过去式"
+            },
+            {
+              "c": "had",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "have",
+        "d": "源自古英语 habban，原始日耳曼语 *habjaną，意为「拥有、持有」。"
+      }
+    ]
+  },
+  {
+    "word": "help",
+    "phonetic0": " / help / ",
+    "phonetic1": " / help / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "帮助，援助；改善状况，对……有益；给（自己或某人）食物或饮料；擅自拿走，窃取；搀扶，带领"
+      },
+      {
+        "pos": "n.",
+        "cn": "帮助，协助；有助益的东西（如忠告、钱等）；有用；救助；有帮助的人（或事物）；佣人；（计算机程序提供使用说明的）求助程序"
+      },
+      {
+        "pos": "int.",
+        "cn": "救命（呼救用语）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd appreciate somehelp.",
+        "cn": "如果有人帮忙我将非常感激。"
+      },
+      {
+        "c": "This charity aims tohelppeople (to)helpthemselves.",
+        "cn": "这个慈善机构的宗旨是帮助人们自力更生。"
+      },
+      {
+        "c": "'Helpme,' he implored.“",
+        "cn": "救救我吧。”他哀求道。《牛津词典》查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "help oneself",
+        "cn": "自用；自取所需"
+      },
+      {
+        "c": "with the help of",
+        "cn": "在…的帮助下"
+      },
+      {
+        "c": "help someone with something",
+        "cn": "帮某人干某事"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "帮助，援助；改善状况，对……有益；给（自己或某人）食物或饮料；擅自拿走，窃取；搀扶，带领",
+        "ws": [
+          "aid",
+          "assist",
+          "support",
+          "serve"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "help",
+      "rels": [
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "helps或help",
+              "cn": "复数"
+            },
+            {
+              "c": "helps",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "helping",
+              "cn": "现在分词"
+            },
+            {
+              "c": "helped",
+              "cn": "过去式"
+            },
+            {
+              "c": "helped",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "help",
+        "d": "源自古英语 helpan，原始日耳曼语 *helpaną，意为「帮助」。"
+      }
+    ]
+  },
+  {
+    "word": "like",
+    "phonetic0": " / laɪk / ",
+    "phonetic1": " / laɪk / ",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "像，如同；符合……的方式；（指某人常做的事）符合……的特点，像……才会；（用于询问）……怎么样；例如，好比；（用于否定式短语中）比得上；大约，左右"
+      },
+      {
+        "pos": "v.",
+        "cn": "喜欢，喜爱；希望，想要；（用于请求）想要，希望得到；喜欢（做某事、习惯某事）；（用于询问）你觉得……怎么样；对……反感，讨厌；喜好（某种环境）"
+      },
+      {
+        "pos": "conj.",
+        "cn": "像……一样，如同；好像，似乎"
+      },
+      {
+        "pos": "n.",
+        "cn": "喜好，爱好（常复数）；类似或同类的人或物"
+      },
+      {
+        "pos": "adj.",
+        "cn": "类似的，相似的；（画像，图像）逼真的，像的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "（非正式口语，思考说下句话、解释或举例时用）大概，可能；（非正式口语）我说，他说，她说；（非正式口语，代替as）和…一样，像；（非正式口语，代替as）和……一样，像"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do youlikecauliflower?",
+        "cn": "你喜欢菜花吗？"
+      },
+      {
+        "c": "Do youlikemusic?",
+        "cn": "你喜欢音乐吗？"
+      },
+      {
+        "c": "Ilikeit here.",
+        "cn": "我喜欢这里。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "look like",
+        "cn": "看起来像…"
+      },
+      {
+        "c": "feel like",
+        "cn": "想要；感到好似"
+      },
+      {
+        "c": "something like",
+        "cn": "有点像；大约；差不多"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "prep.",
+        "cn": "像，如同；符合……的方式；（指某人常做的事）符合……的特点，像……才会；（用于询问）……怎么样；例如，好比；（用于否定式短语中）比得上；大约，左右",
+        "ws": [
+          "enjoy",
+          "love",
+          "prefer",
+          "fancy"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "like",
+      "rels": [
+        {
+          "pos": "prep.",
+          "words": [
+            {
+              "c": "likes",
+              "cn": "复数"
+            },
+            {
+              "c": "likes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "liking",
+              "cn": "现在分词"
+            },
+            {
+              "c": "liked",
+              "cn": "过去式"
+            },
+            {
+              "c": "liked",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "like",
+        "d": "源自古英语 līcian，意为「令人愉悦的」。与 lich（身体、样子）同源。"
+      }
+    ]
+  },
+  {
+    "word": "lion",
+    "phonetic0": " / ˈlaɪən / ",
+    "phonetic1": " / ˈlaɪən / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "狮子；名人；勇猛的人；社交场合的名流"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Lion）人名；（西、葡）利昂；（德、法、意、捷、瑞典）利翁；（英）莱昂"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thelionwas stalking a zebra.",
+        "cn": "狮子偷偷接近斑马。"
+      },
+      {
+        "c": "Alionis a dangerous animal.",
+        "cn": "狮子是猛兽。"
+      },
+      {
+        "c": "Thelionroared once and sprang.",
+        "cn": "狮子吼了一声，跳了起来。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lion dance",
+        "cn": "舞狮"
+      },
+      {
+        "c": "sea lionn. [",
+        "cn": "动]海狮"
+      },
+      {
+        "c": "great lion",
+        "cn": "名人，名流；备受欢迎的人"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "狮子；名人；勇猛的人；社交场合的名流",
+        "ws": [
+          "big cat",
+          "feline",
+          "king of beasts"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "lion",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "lions或lion",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "lion",
+        "d": "源自古法语 lion，拉丁语 leo，希腊语 leōn。可能源自埃及语。"
+      }
+    ]
+  },
+  {
+    "word": "listen",
+    "phonetic0": " / ˈlɪs(ə)n / ",
+    "phonetic1": " / ˈlɪs(ə)n / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "听，倾听；听从，听信；努力听，留神地听（listen for/listen out for）；<非正式>听着"
+      },
+      {
+        "pos": "n.",
+        "cn": "听，倾听"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "'Listen!' said Doyle suddenly.“",
+        "cn": "你听！”多伊尔突然说。《牛津词典》"
+      },
+      {
+        "c": "Why couldn't helistento her?",
+        "cn": "为什么他不能听她的话？"
+      },
+      {
+        "c": "Why won't youlistento reason ?",
+        "cn": "你怎么就不听劝呢？查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "listen to music",
+        "cn": "听音乐"
+      },
+      {
+        "c": "listen to the radio",
+        "cn": "听广播，听收音机"
+      },
+      {
+        "c": "listen to the music",
+        "cn": "听音乐"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "听，倾听；听从，听信；努力听，留神地听（listen for/listen out for）；<非正式>听着",
+        "ws": [
+          "hear",
+          "pay attention",
+          "attend"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "listen",
+      "rels": [
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "listens",
+              "cn": "复数"
+            },
+            {
+              "c": "listens",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "listening",
+              "cn": "现在分词"
+            },
+            {
+              "c": "listened",
+              "cn": "过去式"
+            },
+            {
+              "c": "listened",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "listen",
+        "d": "源自古英语 hlysnan，原始日耳曼语 *hlusnijaną，意为「听」。"
+      }
+    ]
+  },
+  {
+    "word": "make",
+    "phonetic0": " / meɪk / ",
+    "phonetic1": " / meɪk / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "制造；制定，拟定；使变得，使处于；造成，引起；整理（床铺）；做，作出；强迫；挑选，任命；成为，适合；合计，等于；计算，估算；安排，组织；表现，描绘；挣钱，赚钱；（体育比赛）得分；（尽力）赶往，到达；排成 （某图案）；使形成，留下（印记、洞等）；使成功，使圆满；在……占一席之地；似乎要做；朝（特定方向）走去；<美，非正式>求欢；（桥牌等）赢一墩牌；（潮）涨，（潮）退"
+      },
+      {
+        "pos": "n.",
+        "cn": "（机器、设备等的）品牌，型号；结构，构造；通电，接电"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Four quartersmakea whole.",
+        "cn": "四个四分之一构成一个整体。"
+      },
+      {
+        "c": "Photosmakeuseful teaching aids.",
+        "cn": "照片可以成为有用的教具。"
+      },
+      {
+        "c": "This sentence doesn'tmakesense.",
+        "cn": "这个句子不通。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "make sure",
+        "cn": "确信；证实"
+      },
+      {
+        "c": "make up",
+        "cn": "弥补；组成；化妆；整理"
+      },
+      {
+        "c": "make full use of",
+        "cn": "充分利用"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "制造；制定，拟定；使变得，使处于；造成，引起；整理（床铺）；做，作出；强迫；挑选，任命；成为，适合；合计，等于；计算，估算；安排，组织；表现，描绘；挣钱，赚钱；（体育比赛）得分；（尽力）赶往，到达；排成 （某图案）；使形成，留下（印记、洞等）；使成功，使圆满；在……占一席之地；似乎要做；朝（特定方向）走去；<美，非正式>求欢；（桥牌等）赢一墩牌；（潮）涨，（潮）退",
+        "ws": [
+          "create",
+          "build",
+          "produce",
+          "form"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "make",
+      "rels": [
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "makes",
+              "cn": "复数"
+            },
+            {
+              "c": "makes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "making",
+              "cn": "现在分词"
+            },
+            {
+              "c": "made",
+              "cn": "过去式"
+            },
+            {
+              "c": "made",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "make",
+        "d": "源自古英语 macian，原始日耳曼语 *makōną，意为「做、制造」。"
+      }
+    ]
+  },
+  {
+    "word": "me",
+    "phonetic0": " / miː; mi / ",
+    "phonetic1": " / miː; mi / ",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "我（宾格）"
+      },
+      {
+        "pos": "n.",
+        "cn": "自我；极端自私的人；自我的一部分"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Me）人名；（日）马（姓）；（朝）袂；（阿拉伯、柬、老）梅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They spat atmeand tauntedme.",
+        "cn": "他们又朝我吐唾沫又嘲弄我。"
+      },
+      {
+        "c": "The way he treatsmereally burnsmeup.",
+        "cn": "他这样对待我真使我恼火。"
+      },
+      {
+        "c": "She sawme, recognizedmeand cutmedead.",
+        "cn": "她看见了我，也认出了我，却不理睬我。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "me",
+        "cn": "我（宾格）"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "pron.",
+        "cn": "我（宾格）",
+        "ws": [
+          "myself",
+          "I"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "me",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "me",
+        "d": "源自古英语 mē，原始印欧语 *h₁me-，第一人称单数宾格。"
+      }
+    ]
+  },
+  {
+    "word": "Miss",
+    "phonetic0": " / mɪs / ",
+    "phonetic1": " / mɪs / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "女士，小姐，年轻未婚女子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Will that be all,Miss?",
+        "cn": "就这些吗，小姐？"
+      },
+      {
+        "c": "Imissthee, beloved father.",
+        "cn": "亲爱的父亲，我想念您。"
+      },
+      {
+        "c": "Missanother class and you'll fail.",
+        "cn": "你再缺一次课就会不及格了。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "miss you so much",
+        "cn": "真的好想你"
+      },
+      {
+        "c": "miss out",
+        "cn": "错过；遗漏；省略"
+      },
+      {
+        "c": "miss out on",
+        "cn": "错过机会；错失了…"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "女士，小姐，年轻未婚女子",
+        "ws": [
+          "Ms",
+          "young lady",
+          "maiden"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "Miss",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "Misses",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "Miss",
+        "d": "mistress（女主人）的缩写。17世纪开始用于称呼未婚女性。与 Mrs（已婚女性）和 Ms（婚姻状况不明）形成对照。"
+      }
+    ]
+  },
+  {
+    "word": "monkey",
+    "phonetic0": " / ˈmʌŋki / ",
+    "phonetic1": " / ˈmʌŋki / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "猴子；顽皮儿童，淘气鬼；受支配的人，受控制的人；<英，非正式>五百英镑；锤式打桩机；<美，非正式>毒瘾"
+      },
+      {
+        "pos": "v.",
+        "cn": "胡闹，捣蛋；<旧>模仿，学……的样子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You cheekymonkey!",
+        "cn": "你这厚脸皮的猴崽子！"
+      },
+      {
+        "c": "The woolly spidermonkeyis the largest primate in the Americas.",
+        "cn": "绒毛蛛猴是美洲最大的灵长目动物。"
+      },
+      {
+        "c": "Amonkeysuddenly appeared!",
+        "cn": "有一只猴子突然间出现！查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "monkey business",
+        "cn": "胡闹，骗人的把戏；欺骗；恶作剧"
+      },
+      {
+        "c": "monkey king",
+        "cn": "美猴王，孙悟空"
+      },
+      {
+        "c": "golden monkey",
+        "cn": "金丝猴"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "猴子；顽皮儿童，淘气鬼；受支配的人，受控制的人；<英，非正式>五百英镑；锤式打桩机；<美，非正式>毒瘾",
+        "ws": [
+          "ape",
+          "primate",
+          "chimpanzee"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "monkey",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "monkeys",
+              "cn": "复数"
+            },
+            {
+              "c": "monkeys",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "monkeying",
+              "cn": "现在分词"
+            },
+            {
+              "c": "monkeyed",
+              "cn": "过去式"
+            },
+            {
+              "c": "monkeyed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "monkey",
+        "d": "源自中古低地德语 Moneke，可能是人名 Martin 的昵称。最早指从非洲引入欧洲的小型灵长类动物。"
+      }
+    ]
+  },
+  {
+    "word": "mother",
+    "phonetic0": " / ˈmʌðə(r) / ",
+    "phonetic1": " / ˈmʌðər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "母亲；大娘；女修道院院长"
+      },
+      {
+        "pos": "vt.",
+        "cn": "生下；养育；像母亲般关怀或照管"
+      },
+      {
+        "pos": "adj.",
+        "cn": "母亲的；出生地的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm friendly with hismother.",
+        "cn": "我和他的母亲很要好。"
+      },
+      {
+        "c": "Hermotherhad never remarried.",
+        "cn": "她的母亲没有再婚。"
+      },
+      {
+        "c": "Hismotheris partially blind.",
+        "cn": "他的母亲失去了部分视力。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "mother tongue",
+        "cn": "母语；本国语言"
+      },
+      {
+        "c": "mother liquor",
+        "cn": "母液"
+      },
+      {
+        "c": "mother nature",
+        "cn": "大自然；自然的力量"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "母亲；大娘；女修道院院长",
+        "ws": [
+          "mum",
+          "mom",
+          "mama",
+          "parent"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "mother",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "mothers",
+              "cn": "复数"
+            },
+            {
+              "c": "mothers",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "mothering",
+              "cn": "现在分词"
+            },
+            {
+              "c": "mothered",
+              "cn": "过去式"
+            },
+            {
+              "c": "mothered",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "mother",
+        "d": "源自古英语 mōdor，原始印欧语 *méh₂tēr，意为「母亲」。"
+      }
+    ]
+  },
+  {
+    "word": "mouth",
+    "phonetic0": " / maʊθ / ",
+    "phonetic1": " / maʊθ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "嘴，口腔；需要供养的人，食客；入口，开口；入海口，河口；讲话方式，言谈；<非正式>饶舌，出言不逊；（受嚼子控制的）马口；（葡萄酒的不同于气味的）口感"
+      },
+      {
+        "pos": "v.",
+        "cn": "不出声地说，用口型默示；言不由衷地说，（自己并不明白却）信口开河；（清晰明确地）说，发……的音；吃，用嘴触碰；训练（马）使之习惯于服从嚼子"
+      },
+      {
+        "pos": "comb.",
+        "cn": "有……嘴的，……口的(-mouthed)；言谈……的，口齿……的(-mouthed)"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mymouthfelt completely dry.",
+        "cn": "我感到口干舌燥。"
+      },
+      {
+        "c": "The news spread by word ofmouth.",
+        "cn": "这消息是口头传开的。"
+      },
+      {
+        "c": "She popped a mint into hermouth.",
+        "cn": "她往嘴里丢了块儿薄荷糖。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "mouth on someone[",
+        "cn": "美国俚语]告发某人"
+      },
+      {
+        "c": "river mouth",
+        "cn": "河口"
+      },
+      {
+        "c": "from mouth to mouth",
+        "cn": "广泛流传"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "嘴，口腔；需要供养的人，食客；入口，开口；入海口，河口；讲话方式，言谈；<非正式>饶舌，出言不逊；（受嚼子控制的）马口；（葡萄酒的不同于气味的）口感",
+        "ws": [
+          "lips",
+          "oral cavity"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "mouth",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "mouths",
+              "cn": "复数"
+            },
+            {
+              "c": "mouths",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "mouthing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "mouthed",
+              "cn": "过去式"
+            },
+            {
+              "c": "mouthed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "mouth",
+        "d": "源自古英语 mūþ，原始日耳曼语 *munþaz，意为「嘴」。"
+      }
+    ]
+  },
+  {
+    "word": "mum",
+    "phonetic0": " / mʌm / ",
+    "phonetic1": " / mʌm / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（非正式）妈妈；（非正式）（栽培的）菊花；啤酒"
+      },
+      {
+        "pos": "adj.",
+        "cn": "沉默的；守密的"
+      },
+      {
+        "pos": "v.",
+        "cn": "在传统假面哑剧中扮演（角色）；在英格兰民俗剧中扮演（角色）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mymumsays I can't go.",
+        "cn": "我妈说我不能去。"
+      },
+      {
+        "c": "Mum, I'm still hungry!",
+        "cn": "妈，我还饿！"
+      },
+      {
+        "c": "Mum, my tummy hurts.",
+        "cn": "妈妈，我肚子痛。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "keep mum",
+        "cn": "保持沉默"
+      },
+      {
+        "c": "mum's the word[",
+        "cn": "口语]别多话!别声张(禁令)!保守秘密!"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "（非正式）妈妈；（非正式）（栽培的）菊花；啤酒",
+        "ws": [
+          "mother",
+          "mom",
+          "mama"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "mum",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "mum",
+        "d": "mother 的儿童简化形式。mama 在多种语言中都是母亲的自然发音。"
+      }
+    ]
+  },
+  {
+    "word": "name",
+    "phonetic0": " / neɪm / ",
+    "phonetic1": " / neɪm / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "名字，名称；名声，名誉；<非正式>名人，有名的事物；（侮辱人的）绰号，别称；（英国）属劳埃德保险社辛迪加的承保人"
+      },
+      {
+        "pos": "v.",
+        "cn": "命名，给……取名；说出……的名称，叫出……的名字；说定，确定；任命，委任；<英>（下议院议长）点名开除（立法委员会成员）的议员身份"
+      },
+      {
+        "pos": "adj.",
+        "cn": "有名的，出名的；姓名的，据以取名的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "\"What's hisname?\"—\"Peter.\"“",
+        "cn": "他叫什么名字？”—“彼得。”《柯林斯英汉双解大词典》"
+      },
+      {
+        "c": "Is yournamehyphenated?",
+        "cn": "你的名字有用连字符吗？"
+      },
+      {
+        "c": "What's yourname, dear?",
+        "cn": "你叫什么名字，亲爱的？查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the name of",
+        "cn": "以…的名义"
+      },
+      {
+        "c": "your name",
+        "cn": "您的姓名"
+      },
+      {
+        "c": "name forvt.",
+        "cn": "以...命名"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "名字，名称；名声，名誉；<非正式>名人，有名的事物；（侮辱人的）绰号，别称；（英国）属劳埃德保险社辛迪加的承保人",
+        "ws": [
+          "title",
+          "label",
+          "designation"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "name",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "names",
+              "cn": "复数"
+            },
+            {
+              "c": "names",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "naming",
+              "cn": "现在分词"
+            },
+            {
+              "c": "named",
+              "cn": "过去式"
+            },
+            {
+              "c": "named",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "name",
+        "d": "源自古英语 nama，原始印欧语 *h₁nómn̥，意为「名字」。"
+      }
+    ]
+  },
+  {
+    "word": "need",
+    "phonetic0": " / niːd / ",
+    "phonetic1": " / niːd / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "需要；（表示应该或不得不做）有必要；<古>需要"
+      },
+      {
+        "pos": "n.",
+        "cn": "需要，必须； 特别需要，迫切要求；需要的事物，欲望；（食物、钱或生活来源的）短缺，缺乏"
+      },
+      {
+        "pos": "aux.",
+        "cn": "必要（用于劝告或建议）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Childrenneedtheir parents.",
+        "cn": "孩子们需要父母。"
+      },
+      {
+        "c": "He'llneedintensive physiotherapy.",
+        "cn": "他需要高强度的理疗。"
+      },
+      {
+        "c": "Ineeda shave.",
+        "cn": "我需要刮胡子了。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in need",
+        "cn": "在危难中；在穷困中的"
+      },
+      {
+        "c": "need for",
+        "cn": "对……的需要；需要……"
+      },
+      {
+        "c": "in need of",
+        "cn": "需要…时"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "需要；（表示应该或不得不做）有必要；<古>需要",
+        "ws": [
+          "require",
+          "want",
+          "demand",
+          "necessity"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "need",
+      "rels": [
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "needs",
+              "cn": "复数"
+            },
+            {
+              "c": "needs",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "needing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "needed",
+              "cn": "过去式"
+            },
+            {
+              "c": "needed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "need",
+        "d": "源自古英语 nēod，原始日耳曼语 *naudiz，意为「需要、困境」。"
+      }
+    ]
+  },
+  {
+    "word": "new",
+    "phonetic0": " / njuː / ",
+    "phonetic1": " / nuː / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "新出现的，新兴的；新买的；未用过的，崭新的；有别于从前的，新颖的；新发现的，新近知道的；生疏的，未体验过的；现代的，最新型的；新时期的，新开始的；富有朝气的，生气勃勃的；时鲜的（蔬菜）；更新的，变样的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "（用于构成复合词）新的，新近的"
+      },
+      {
+        "pos": "n.",
+        "cn": "新东西，新事物（the new）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "NewEngland is beautiful.",
+        "cn": "新英格兰很迷人。"
+      },
+      {
+        "c": "This idea isn'tnew.",
+        "cn": "这主意不新鲜。"
+      },
+      {
+        "c": "Mynewshoes squeak.",
+        "cn": "我的新皮鞋走路嘎吱嘎吱响。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "new type",
+        "cn": "新型"
+      },
+      {
+        "c": "new year",
+        "cn": "新年"
+      },
+      {
+        "c": "new york",
+        "cn": "纽约"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "新出现的，新兴的；新买的；未用过的，崭新的；有别于从前的，新颖的；新发现的，新近知道的；生疏的，未体验过的；现代的，最新型的；新时期的，新开始的；富有朝气的，生气勃勃的；时鲜的（蔬菜）；更新的，变样的",
+        "ws": [
+          "fresh",
+          "modern",
+          "recent",
+          "novel"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "new",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "new",
+        "d": "源自古英语 nīwe，原始印欧语 *néwos，意为「新的」。"
+      }
+    ]
+  },
+  {
+    "word": "nice",
+    "phonetic0": " / naɪs / ",
+    "phonetic1": " / naɪs / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "美好的，令人愉快的；好心的，友好的；（天气）温暖的，宜人的；（观点、区别等）细致的，微妙的；（用于打招呼）很高兴见到你；干得好的，出色的；坏的，令人不愉快的；正派的，有教养的；<古>挑剔的，谨慎的"
+      },
+      {
+        "pos": "n.",
+        "cn": "尼斯（法国城市，Nice）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's beennicemeeting you.",
+        "cn": "这次见到你真高兴。"
+      },
+      {
+        "c": "He's a reallyniceguy.",
+        "cn": "他真是个好人。"
+      },
+      {
+        "c": "You look verynice.",
+        "cn": "你很好看。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "nice and",
+        "cn": "很，挺"
+      },
+      {
+        "c": "nice to meet you",
+        "cn": "很高兴见到你"
+      },
+      {
+        "c": "nice day",
+        "cn": "美好的一天"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "美好的，令人愉快的；好心的，友好的；（天气）温暖的，宜人的；（观点、区别等）细致的，微妙的；（用于打招呼）很高兴见到你；干得好的，出色的；坏的，令人不愉快的；正派的，有教养的；<古>挑剔的，谨慎的",
+        "ws": [
+          "good",
+          "pleasant",
+          "kind",
+          "lovely",
+          "fine"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "nice",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "nicer",
+              "cn": "比较级"
+            },
+            {
+              "c": "nicest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "nice",
+        "d": "源自古法语 nice，拉丁语 nescius，原意为「无知的、愚蠢的」。词义从「愚蠢的」经过「挑剔的」逐渐演变为「好的」。"
+      }
+    ]
+  },
+  {
+    "word": "nine",
+    "phonetic0": " / naɪn / ",
+    "phonetic1": " / naɪn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "九，九个"
+      },
+      {
+        "pos": "num.",
+        "cn": "九；九个"
+      },
+      {
+        "pos": "adj.",
+        "cn": "九的，九个的"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Nine）人名；（塞）尼内"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We still sightednineyachts.",
+        "cn": "我们还是看到了九艘游艇。"
+      },
+      {
+        "c": "Ninecases are still pending.",
+        "cn": "尚有九宗案件待决。"
+      },
+      {
+        "c": "I got here just afternine.",
+        "cn": "我到达这里时刚过九点。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "nine out of ten",
+        "cn": "十分之九，百分之九十"
+      },
+      {
+        "c": "cloud ninen. [",
+        "cn": "俚]九重天（想象中的天堂）；[俚]极乐心境；[俚]狂喜状态"
+      },
+      {
+        "c": "nine to five",
+        "cn": "朝九晚五"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "九，九个",
+        "ws": [
+          "9",
+          "nonet"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "nine",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "nines",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "nine",
+        "d": "源自古英语 nigon，原始印欧语 *h₁néwn̥，意为「九」。"
+      }
+    ]
+  },
+  {
+    "word": "o'clock",
+    "phonetic0": " / əˈklɒk / ",
+    "phonetic1": " / əˈklɑːk / ",
+    "trans": [
+      {
+        "pos": "abbr.",
+        "cn": "……点钟（等于 of the clock）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The clock said threeo'clock.",
+        "cn": "时钟显示三点整。"
+      },
+      {
+        "c": "It's gone sixo'clockalready.",
+        "cn": "过了六点了。"
+      },
+      {
+        "c": "He arrived around fiveo'clock.",
+        "cn": "他大约是五点钟到的。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ten o'clock",
+        "cn": "十点"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "abbr.",
+        "cn": "……点钟（等于 of the clock）",
+        "ws": []
+      }
+    ],
+    "relWords": {
+      "root": "o'clock",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "o'clock",
+        "d": "of the clock 的缩写。用于表示整点时间。"
+      }
+    ]
+  },
+  {
+    "word": "old",
+    "phonetic0": " / əʊld / ",
+    "phonetic1": " / oʊld / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "（人）……岁的，（事物）存在……久的；年老的，年纪大的；衰老的；古老的，历史悠久的；陈旧的；过去的，从前的；原来（属于自己的）的；结识久的；<非正式>（表示亲昵）老……；（语言形式）古的，早期的；老派的，守旧的；老一套的，经历多次的"
+      },
+      {
+        "pos": "n.",
+        "cn": "老年人；某个年龄段的人；古时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Oldhouses are often damp.",
+        "cn": "老房子大多都潮湿。"
+      },
+      {
+        "c": "Oldbones break easily.",
+        "cn": "老骨头容易骨折。"
+      },
+      {
+        "c": "It's a lovelyoldfarm.",
+        "cn": "那是个宜人的老农场。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "of old",
+        "cn": "古时的；从前"
+      },
+      {
+        "c": "years old…",
+        "cn": "岁（年龄）"
+      },
+      {
+        "c": "old man",
+        "cn": "情人；丈夫；老头子；父亲"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "（人）……岁的，（事物）存在……久的；年老的，年纪大的；衰老的；古老的，历史悠久的；陈旧的；过去的，从前的；原来（属于自己的）的；结识久的；<非正式>（表示亲昵）老……；（语言形式）古的，早期的；老派的，守旧的；老一套的，经历多次的",
+        "ws": [
+          "aged",
+          "ancient",
+          "elderly",
+          "senior"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "old",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "old",
+        "d": "源自古英语 eald，原始日耳曼语 *aldaz，意为「长大的、老的」。"
+      }
+    ]
+  },
+  {
+    "word": "one",
+    "phonetic0": " / wʌn / ",
+    "phonetic1": " / wʌn / ",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "一；一个；一岁；一点钟"
+      },
+      {
+        "pos": "pron.",
+        "cn": "一个人；任何人，人们（表泛指）；那个人；（特指的）那种人"
+      },
+      {
+        "pos": "det.",
+        "cn": "一个（强调某人或某事）；一个（用于比较相似的人或物）；某个（用于不认识的人的名字前）"
+      },
+      {
+        "pos": "adj.",
+        "cn": "唯一的；一的"
+      },
+      {
+        "pos": "n.",
+        "cn": "一；一美元纸币"
+      },
+      {
+        "pos": "n.",
+        "cn": "（One）（印、马、美）温（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Knitonerow, purlonerow.",
+        "cn": "织一趟平针，织一趟反针。"
+      },
+      {
+        "c": "Oneminusoneis zero.",
+        "cn": "一减一等于零。"
+      },
+      {
+        "c": "Onemore, please!",
+        "cn": "请再来一个！查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "one of",
+        "cn": "其中之一，之一"
+      },
+      {
+        "c": "one day（",
+        "cn": "将来）有一天；总有一天；（过去）某一天"
+      },
+      {
+        "c": "in oneadv.",
+        "cn": "成为一体；[口]只试一次"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "num.",
+        "cn": "一；一个；一岁；一点钟",
+        "ws": [
+          "1",
+          "single",
+          "sole",
+          "only"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "one",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "one",
+        "d": "源自古英语 ān，原始印欧语 *óynos，意为「一」。"
+      }
+    ]
+  },
+  {
+    "word": "orange",
+    "phonetic0": " / ˈɒrɪndʒ / ",
+    "phonetic1": " / ˈɔrɪndʒ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "橙，柑橘；橙汁，橘汁饮料；橙树，橘树；橙色，橘黄色；橙黄色蝴蝶"
+      },
+      {
+        "pos": "adj.",
+        "cn": "橙红色的，橘黄色的；奥兰治党或社团的"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Orange）（美、法、俄、英）奥林奇（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I plucked anorangefrom the tree.",
+        "cn": "我从树上摘了一个橙子。"
+      },
+      {
+        "c": "Orangeis the big colour this year.",
+        "cn": "橘黄色是今年的流行色。"
+      },
+      {
+        "c": "Would you care for someorangejuice?",
+        "cn": "你想要些橙汁吗？查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "orange juice",
+        "cn": "橘子汁"
+      },
+      {
+        "c": "orange peel",
+        "cn": "橙皮；橘皮皱"
+      },
+      {
+        "c": "methyl orange[",
+        "cn": "化]甲基橙；甲橙"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "橙，柑橘；橙汁，橘汁饮料；橙树，橘树；橙色，橘黄色；橙黄色蝴蝶",
+        "ws": [
+          "tangerine",
+          "citrus",
+          "fruit"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "orange",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "oranges",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "orange",
+        "d": "源自梵语 nāraṅga，经波斯语、阿拉伯语传入欧洲。最初指水果，后指颜色。"
+      }
+    ]
+  },
+  {
+    "word": "panda",
+    "phonetic0": " / ˈpændə / ",
+    "phonetic1": " / ˈpændə / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "熊猫；猫熊"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Panda）人名；（印、塞）潘达"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thepandais a shy creature.",
+        "cn": "熊猫是一种胆小的动物。"
+      },
+      {
+        "c": "Pandacame back to the bench.",
+        "cn": "熊猫回到长椅上。"
+      },
+      {
+        "c": "\"That's right,\" said thepanda.“",
+        "cn": "没错。”熊猫说。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "giant panda[",
+        "cn": "动]大熊猫；大猫熊"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "熊猫；猫熊",
+        "ws": [
+          "bear",
+          "giant panda"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "panda",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "pandas",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "panda",
+        "d": "源自尼泊尔语 nigalya ponya，意为「吃竹子的动物」。通过法语 panda 传入英语。"
+      }
+    ]
+  },
+  {
+    "word": "pet",
+    "phonetic0": " / pet / ",
+    "phonetic1": " / pet / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "宠物；宠儿，得宠的人；<英，非正式>宝贝，亲爱的；生气"
+      },
+      {
+        "pos": "v.",
+        "cn": "抚摸；（男女间）亲吻，爱抚；宠爱；生气"
+      },
+      {
+        "pos": "adj.",
+        "cn": "很喜欢的，钟爱的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They had had theirpetdog stuffed.",
+        "cn": "他们请人把他们的宠物狗制成了标本。"
+      },
+      {
+        "c": "I sell my surplus birds to a localpetshop.",
+        "cn": "我把我多余的鸟卖给一家当地的宠物店。"
+      },
+      {
+        "c": "The familypetwas left in the trust of a neighbour.",
+        "cn": "这家的宠物委托邻居代管。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pet food",
+        "cn": "宠物食品"
+      },
+      {
+        "c": "pet dog",
+        "cn": "宠物狗；宠物犬"
+      },
+      {
+        "c": "pet shop",
+        "cn": "宠物商店，玩赏动物商店"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "宠物；宠儿，得宠的人；<英，非正式>宝贝，亲爱的；生气",
+        "ws": [
+          "companion animal",
+          "domestic animal"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "pet",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "pets",
+              "cn": "复数"
+            },
+            {
+              "c": "pets",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "petting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "petted",
+              "cn": "过去式"
+            },
+            {
+              "c": "petted",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "pet",
+        "d": "源自苏格兰盖尔语 peata，原意为「驯服的动物」。"
+      }
+    ]
+  },
+  {
+    "word": "pink",
+    "phonetic0": " / pɪŋk / ",
+    "phonetic1": " / pɪŋk / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "粉红色的；（因窘迫、愤怒或剧烈活动而）脸色发红的；同性恋的；<非正式，贬>左倾的；石竹科的；兴奋的（tickled pink）"
+      },
+      {
+        "pos": "n.",
+        "cn": "粉红色；粉红色衣服或衣料；<非正式>粉红色葡萄酒；石竹；<史>尖尾帆船；满面红光，容光焕发（in the pink (of)）；粉红色桌球；<旧>微黄颜料；<非正式>左倾的人；<旧>精英，典范"
+      },
+      {
+        "pos": "v.",
+        "cn": "<英>（车辆引擎）发响爆声，爆震；变成粉红色；<澳新>（贴身地）剪（羊毛）；剪成锯齿状；<罕>（用武器或投掷物）刺，戳，扎；嘲笑，批评；<古>装饰"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Her dress was a violentpink.",
+        "cn": "她的连衣裙是非常鲜艳的粉红色。"
+      },
+      {
+        "c": "Judi's favourite colour ispink.",
+        "cn": "朱迪最喜欢的颜色是粉红色。"
+      },
+      {
+        "c": "His face was a queerpinkcolour.",
+        "cn": "他满脸奇怪的粉红色。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the pink",
+        "cn": "非常健康；气色红润；精力充沛"
+      },
+      {
+        "c": "pale pink",
+        "cn": "浅桃红，苍桃红色"
+      },
+      {
+        "c": "light pink",
+        "cn": "淡粉红色"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "粉红色的；（因窘迫、愤怒或剧烈活动而）脸色发红的；同性恋的；<非正式，贬>左倾的；石竹科的；兴奋的（tickled pink）",
+        "ws": [
+          "rose",
+          "rosy",
+          "blush",
+          "salmon"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "pink",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "pinks",
+              "cn": "复数"
+            },
+            {
+              "c": "pinks",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "pinking",
+              "cn": "现在分词"
+            },
+            {
+              "c": "pinked",
+              "cn": "过去式"
+            },
+            {
+              "c": "pinked",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "pink",
+        "d": "源自荷兰语 pinck，意为「小」。原指一种石竹花（Dianthus），后指其颜色。"
+      }
+    ]
+  },
+  {
+    "word": "plant",
+    "phonetic0": " / plɑːnt / ",
+    "phonetic1": " / plænt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "植物；工厂，发电厂；<美>房屋，设施；重型机械，机械设备；栽赃物品；密探，卧底；（斯诺克）击接触球犯规"
+      },
+      {
+        "pos": "v.",
+        "cn": "栽种，种植；灌输（思想）；栽赃；安放（炸弹），（秘密）放置；安插（眼线、密探等）；把……牢牢插进，稳固地放置……；（通常出于不可告人的目的）发布，散布；移栽，移植（室外）；<非正式>埋葬（人）；创建，建立（殖民地，城市，社区）；（在河流或湖泊中）放养（鱼苗、鱼卵、牡蛎等）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thisplantis a vigorous grower.",
+        "cn": "这种植物生长起来茂盛茁壮。"
+      },
+      {
+        "c": "Theplantexudes a sticky fluid.",
+        "cn": "这种植物分泌出一种黏液。"
+      },
+      {
+        "c": "Theplantnaturalizes well in grass.",
+        "cn": "这棵植物适应了环境，在草中生长得很好。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "plant oneself◎",
+        "cn": "站立不动，处于固定位置"
+      },
+      {
+        "c": "power plant",
+        "cn": "发电厂；动力装置"
+      },
+      {
+        "c": "in plant",
+        "cn": "在生长发育中"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "植物；工厂，发电厂；<美>房屋，设施；重型机械，机械设备；栽赃物品；密探，卧底；（斯诺克）击接触球犯规",
+        "ws": [
+          "vegetation",
+          "flora",
+          "greenery",
+          "seedling"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "plant",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "plants",
+              "cn": "复数"
+            },
+            {
+              "c": "plants",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "planting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "planted",
+              "cn": "过去式"
+            },
+            {
+              "c": "planted",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "plant",
+        "d": "源自拉丁语 planta，原意为「芽、幼苗」。"
+      }
+    ]
+  },
+  {
+    "word": "purple",
+    "phonetic0": " / ˈpɜːp(ə)l / ",
+    "phonetic1": " / ˈpɜːrp(ə)l / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "紫色的，紫红色的；（作品）词藻华丽的，华而不实的；帝王的"
+      },
+      {
+        "pos": "n.",
+        "cn": "紫色，紫红色；紫色衣服（或料子）；（古罗马，拜占庭）紫色衣服（the purple）；（从某些软体动物提取的）深红色染料；（古罗马）要职，高位，拥有特权的职位（the purple）；（红衣主教的）大红袍（the purple）"
+      },
+      {
+        "pos": "v.",
+        "cn": "（使）成紫色，（使）发紫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She worepurpleand green silk.",
+        "cn": "她穿着紫色和绿色的丝绸。"
+      },
+      {
+        "c": "His face waspurplewith rage.",
+        "cn": "他气得脸色发紫。"
+      },
+      {
+        "c": "She was dressed inpurple.",
+        "cn": "她穿一身紫色衣裳。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dark purple",
+        "cn": "深紫；暗紫色"
+      },
+      {
+        "c": "purple soil",
+        "cn": "紫色土；紫土"
+      },
+      {
+        "c": "purple flower",
+        "cn": "紫花；紫罗兰"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "紫色的，紫红色的；（作品）词藻华丽的，华而不实的；帝王的",
+        "ws": [
+          "violet",
+          "lavender",
+          "mauve",
+          "lilac"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "purple",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "purples",
+              "cn": "复数"
+            },
+            {
+              "c": "purples",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "purpling",
+              "cn": "现在分词"
+            },
+            {
+              "c": "purpled",
+              "cn": "过去式"
+            },
+            {
+              "c": "purpled",
+              "cn": "过去分词"
+            },
+            {
+              "c": "purpler",
+              "cn": "比较级"
+            },
+            {
+              "c": "purplest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "purple",
+        "d": "源自古英语 purpure，拉丁语 purpura，希腊语 porphyra，原指一种昂贵的紫色染料。"
+      }
+    ]
+  },
+  {
+    "word": "rabbit",
+    "phonetic0": " / ˈræbɪt / ",
+    "phonetic1": " / ˈræbɪt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "兔；兔肉，兔毛；<非正式>（运动）新手，蹩脚运动员（尤指蹩脚板球击球手）；<英，非正式>闲聊，拉呱；<美>（长跑头几圈的）领跑者"
+      },
+      {
+        "pos": "v.",
+        "cn": "猎兔；<英，非正式>喋喋不休，唠叨；<非正式>快速移动，逃跑"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The dog had smelt arabbit.",
+        "cn": "狗嗅到了兔子的气味。"
+      },
+      {
+        "c": "The dog scented arabbit.",
+        "cn": "狗嗅到了兔子的气息。"
+      },
+      {
+        "c": "She jumped back like a startledrabbit.",
+        "cn": "她像受惊的兔子似的跳了回去。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "rabbit hair",
+        "cn": "兔毛"
+      },
+      {
+        "c": "rabbit meat",
+        "cn": "兔肉"
+      },
+      {
+        "c": "rabbit on",
+        "cn": "唠叨，喋喋不休"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "兔；兔肉，兔毛；<非正式>（运动）新手，蹩脚运动员（尤指蹩脚板球击球手）；<英，非正式>闲聊，拉呱；<美>（长跑头几圈的）领跑者",
+        "ws": [
+          "bunny",
+          "hare",
+          "buck"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "rabbit",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "rabbits或rabbit",
+              "cn": "复数"
+            },
+            {
+              "c": "rabbits",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "rabbiting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "rabbited",
+              "cn": "过去式"
+            },
+            {
+              "c": "rabbited",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "rabbit",
+        "d": "源自中古荷兰语 robbe，可能来自瓦隆语。替代了原有的 coney（因 coney 发音粗俗）。"
+      }
+    ]
+  },
+  {
+    "word": "red",
+    "phonetic0": " / red / ",
+    "phonetic1": " / red / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "红的，红色的；（毛发）红褐色的；（脸）涨红的；（眼睛）红肿的；革命的，激进的；（人）红种的；（纸牌中）红桃的，红方块的；（葡萄酒）红的；（表示停止）红（灯），红（旗）；被禁止的，危险的；（滑雪道上用红色标志指示）第二高难度的；（物理）表示夸克三种颜色之一的红色；赤色的（尤指冷战期间用于指前苏联）；沾有鲜血的；（古或诗/文）流血的；（科萨人）来自传统部落文化的"
+      },
+      {
+        "pos": "n.",
+        "cn": "红色，红颜料；红衣；红葡萄酒；红色物（或人）；赤字，亏空；激进分子"
+      },
+      {
+        "pos": "v.",
+        "cn": "整理（同 redd）"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Red）雷德（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She was wearingredlipstick.",
+        "cn": "她涂着红色唇膏。"
+      },
+      {
+        "c": "My skin goesredand blotchy.",
+        "cn": "我的皮肤变红而且起了斑点。"
+      },
+      {
+        "c": "Her eyes wereredfrom crying.",
+        "cn": "她的眼睛都哭红了。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the red",
+        "cn": "负债，亏损；赤字"
+      },
+      {
+        "c": "in red",
+        "cn": "穿红衣"
+      },
+      {
+        "c": "red wine",
+        "cn": "红葡萄酒"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "红的，红色的；（毛发）红褐色的；（脸）涨红的；（眼睛）红肿的；革命的，激进的；（人）红种的；（纸牌中）红桃的，红方块的；（葡萄酒）红的；（表示停止）红（灯），红（旗）；被禁止的，危险的；（滑雪道上用红色标志指示）第二高难度的；（物理）表示夸克三种颜色之一的红色；赤色的（尤指冷战期间用于指前苏联）；沾有鲜血的；（古或诗/文）流血的；（科萨人）来自传统部落文化的",
+        "ws": [
+          "crimson",
+          "scarlet",
+          "ruby",
+          "cherry"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "red",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "reds",
+              "cn": "复数"
+            },
+            {
+              "c": "reds",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "redding",
+              "cn": "现在分词"
+            },
+            {
+              "c": "redded",
+              "cn": "过去式"
+            },
+            {
+              "c": "redded",
+              "cn": "过去分词"
+            },
+            {
+              "c": "redder或more red",
+              "cn": "比较级"
+            },
+            {
+              "c": "reddest或most red",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "red",
+        "d": "源自古英语 rēad，原始印欧语 *h₁rewdʰ-，意为「红色」。是唯一在原始印欧语中可重构的颜色词。"
+      }
+    ]
+  },
+  {
+    "word": "red panda",
+    "phonetic0": " / ˌred ˈpændə / ",
+    "phonetic1": " / ˌred ˈpændə / ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": ""
+      }
+    ],
+    "sentences": [
+      {
+        "c": "RedPandaFossils Found in Tennessee",
+        "cn": "田纳西州发现红熊猫化石"
+      },
+      {
+        "c": "A Chineseredpanda. Solitary and quiet, it spends much of its time in the tree tops.",
+        "cn": "一只中国小熊猫，这位沉默寡言的隐士将自己生命的大部分置于树的顶端。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "red panda",
+        "cn": "red panda"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "",
+        "ws": [
+          "lesser panda",
+          "firefox"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "red panda",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "red panda",
+        "d": "red（红色的）+ panda（熊猫）。因毛色偏红而得名，与小熊猫（Ailurus fulgens）同名。"
+      }
+    ]
+  },
+  {
+    "word": "say",
+    "phonetic0": " / seɪ / ",
+    "phonetic1": " / seɪ / ",
+    "trans": [
+      {
+        "pos": "vt.",
+        "cn": "说，讲；宣称，说明；认为，据说；发音，读；确信，确定（事实）；（对某人）意味着；表达，传达；指明，表明；假设，比如说；让某人做（某事）；复述，诵念；念，背诵；替（某人或某事）说好话（坏话）"
+      },
+      {
+        "pos": "n.",
+        "cn": "发言权，决定权"
+      },
+      {
+        "pos": "int.",
+        "cn": "<美，非正式> （吃惊或吸引注意力）哎呀，喂"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What did she actuallysay?",
+        "cn": "她到底是怎么说的？"
+      },
+      {
+        "c": "Nobody knew what tosay.",
+        "cn": "谁也不知道该说什么。"
+      },
+      {
+        "c": "What else did hesay?",
+        "cn": "他还说了些什么？查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "say to oneself",
+        "cn": "心里想；自言自语"
+      },
+      {
+        "c": "that is to say",
+        "cn": "就是；即；换言之"
+      },
+      {
+        "c": "they say",
+        "cn": "据说；人们说"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "说，讲；宣称，说明；认为，据说；发音，读；确信，确定（事实）；（对某人）意味着；表达，传达；指明，表明；假设，比如说；让某人做（某事）；复述，诵念；念，背诵；替（某人或某事）说好话（坏话）",
+        "ws": [
+          "speak",
+          "tell",
+          "utter",
+          "state"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "say",
+      "rels": [
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "says",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "saying",
+              "cn": "现在分词"
+            },
+            {
+              "c": "said",
+              "cn": "过去式"
+            },
+            {
+              "c": "said",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "say",
+        "d": "源自古英语 secgan，原始日耳曼语 *sagjaną，意为「说」。"
+      }
+    ]
+  },
+  {
+    "word": "school",
+    "phonetic0": " / skuːl / ",
+    "phonetic1": " / skuːl / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（中、小）学校；全校师生；上学时间；上学期间；专科学校；大学，大学期间；（大学的）系，学院；学派，流派；（鱼、鲸、海豚等的）群；<英>（牛津大学的）期末考试大厅；（牛津大学的）期末考试；<英>一伙赌徒；（轮番到酒吧请客喝酒的）酒友"
+      },
+      {
+        "pos": "v.",
+        "cn": "教育，培养（儿童）；训练，教育；（尤指为竞赛）驯马；（鱼，海兽）成群；强迫自己（做难事）"
+      },
+      {
+        "pos": "adj.",
+        "cn": "<南非>（科萨人）受过西化教育的；（名字）源自西方的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Whichschooldo they attend?",
+        "cn": "他们上的是哪一所学校？"
+      },
+      {
+        "c": "Conditions vary fromschooltoschool.",
+        "cn": "各所学校的情况不同。"
+      },
+      {
+        "c": "He's in lawschool.",
+        "cn": "他在读法学院。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in school",
+        "cn": "在求学"
+      },
+      {
+        "c": "at school",
+        "cn": "在学校；在上课；在求学"
+      },
+      {
+        "c": "high school",
+        "cn": "中学"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "（中、小）学校；全校师生；上学时间；上学期间；专科学校；大学，大学期间；（大学的）系，学院；学派，流派；（鱼、鲸、海豚等的）群；<英>（牛津大学的）期末考试大厅；（牛津大学的）期末考试；<英>一伙赌徒；（轮番到酒吧请客喝酒的）酒友",
+        "ws": [
+          "academy",
+          "institute",
+          "college"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "school",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "school",
+        "d": "源自古英语 scōl，拉丁语 schola，希腊语 scholē，原意为「闲暇、学习的地方」。"
+      }
+    ]
+  },
+  {
+    "word": "sea",
+    "phonetic0": " / siː / ",
+    "phonetic1": " / siː / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "海洋；内海；海（指月球或火星表面的一片广阔平原）；海面情况，海浪状况；大量，茫茫一片；（用于海名）海（Sea）；巨浪（seas）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thesearippled and sparkled.",
+        "cn": "大海波光粼粼。"
+      },
+      {
+        "c": "The clear blueseabeckoned.",
+        "cn": "清澈蔚蓝的大海令人向往。"
+      },
+      {
+        "c": "They scattered his ashes atsea.",
+        "cn": "他们把他的骨灰撒向大海。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "china sea",
+        "cn": "中国海"
+      },
+      {
+        "c": "in the sea",
+        "cn": "在海上；在海洋里"
+      },
+      {
+        "c": "at sea",
+        "cn": "在海上；茫然；感觉困惑"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "海洋；内海；海（指月球或火星表面的一片广阔平原）；海面情况，海浪状况；大量，茫茫一片；（用于海名）海（Sea）；巨浪（seas）",
+        "ws": [
+          "ocean",
+          "marine",
+          "waters",
+          "deep"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "sea",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "sea",
+        "d": "源自古英语 sǣ，原始日耳曼语 *saiwiz，意为「湖、海」。"
+      }
+    ]
+  },
+  {
+    "word": "seven",
+    "phonetic0": " / ˈsev(ə)n / ",
+    "phonetic1": " / ˈsev(ə)n / ",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "七个，七"
+      },
+      {
+        "pos": "n.",
+        "cn": "七个人；七点钟；七岁"
+      },
+      {
+        "pos": "adj.",
+        "cn": "七的；七个的"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Seven）（土、法、俄）谢文（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We started German in yearseven.",
+        "cn": "我们在七年级开始学习德语。"
+      },
+      {
+        "c": "The performance starts atseven.",
+        "cn": "演出七点开始。"
+      },
+      {
+        "c": "Twenty-eight is divisible byseven.",
+        "cn": "二十八可以被七整除。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "seven years",
+        "cn": "七年"
+      },
+      {
+        "c": "at sixes and sevens",
+        "cn": "乱七八糟"
+      },
+      {
+        "c": "seven seas",
+        "cn": "世界七大洋"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "num.",
+        "cn": "七个，七",
+        "ws": [
+          "7",
+          "septet"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "seven",
+      "rels": [
+        {
+          "pos": "num.",
+          "words": [
+            {
+              "c": "sevens",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "seven",
+        "d": "源自古英语 seofon，原始印欧语 *septḿ̥，意为「七」。"
+      }
+    ]
+  },
+  {
+    "word": "share",
+    "phonetic0": " / ʃeə(r) / ",
+    "phonetic1": " / ʃer / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "共享，合用；分享；分配；分担（责任），分摊（费用）；共同拥有（看法、特质或经历）；倾诉，吐露"
+      },
+      {
+        "pos": "n.",
+        "cn": "股份，股票；（共有财产的）部分所有权；责任，贡献；份额；（某物的）一个合理（或正常）的量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "p.",
+        "cn": "股票价格停滞在"
+      },
+      {
+        "c": "Theysharethe housework equally.",
+        "cn": "他们平均分担家务。"
+      },
+      {
+        "c": "Shareprices are fizzing.",
+        "cn": "股价活力十足。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "market share",
+        "cn": "市场占有率"
+      },
+      {
+        "c": "share of…",
+        "cn": "的份额；…的部份"
+      },
+      {
+        "c": "share with",
+        "cn": "分与，分配；和…分享"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "共享，合用；分享；分配；分担（责任），分摊（费用）；共同拥有（看法、特质或经历）；倾诉，吐露",
+        "ws": [
+          "divide",
+          "split",
+          "distribute",
+          "give"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "share",
+      "rels": [
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "shares",
+              "cn": "复数"
+            },
+            {
+              "c": "shares",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "sharing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "shared",
+              "cn": "过去式"
+            },
+            {
+              "c": "shared",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "share",
+        "d": "源自古英语 scearu，意为「剪下的一块」。原指「分配、分割」。"
+      }
+    ]
+  },
+  {
+    "word": "sister",
+    "phonetic0": " / ˈsɪstə(r) / ",
+    "phonetic1": " / ˈsɪstər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "姐姐，妹妹；（称志同道合者）姐妹；（女权运动中的）姐妹；姊妹，大姐，妹妹（妇女对其他妇女表示友好和支持时的用语）；<非正式>姐妹，大姐，妹子（用作女性间的称呼）；<美>大姐，小妹（美国黑人妇女之间使用的称呼）；修女，女教友（Sister）；<英>护士（长）（Sister）；（美国大学）女生联谊会会员；（尤指组织之间的）姐妹（关系）"
+      },
+      {
+        "pos": "adj.",
+        "cn": "同类的，同质的，如同姐妹的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "And how is my saintedsister?",
+        "cn": "我那大好人姐姐怎么样？"
+      },
+      {
+        "c": "HissisterSarah helped him.",
+        "cn": "他姐姐萨拉帮助了他。"
+      },
+      {
+        "c": "My othersisteris a doctor.",
+        "cn": "我的另一个妹妹是医生。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "younger sister",
+        "cn": "妹妹"
+      },
+      {
+        "c": "elder sister",
+        "cn": "姐姐，姊姊"
+      },
+      {
+        "c": "little sister",
+        "cn": "小妹妹，小女孩"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "姐姐，妹妹；（称志同道合者）姐妹；（女权运动中的）姐妹；姊妹，大姐，妹妹（妇女对其他妇女表示友好和支持时的用语）；<非正式>姐妹，大姐，妹子（用作女性间的称呼）；<美>大姐，小妹（美国黑人妇女之间使用的称呼）；修女，女教友（Sister）；<英>护士（长）（Sister）；（美国大学）女生联谊会会员；（尤指组织之间的）姐妹（关系）",
+        "ws": [
+          "sibling",
+          "kin"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "sister",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "sisters",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "sister",
+        "d": "源自古英语 sweostor，原始印欧语 *swésōr，意为「姐妹」。"
+      }
+    ]
+  },
+  {
+    "word": "six",
+    "phonetic0": " / sɪks / ",
+    "phonetic1": " / sɪks / ",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "数字6；六个；六个人（或物）一组；六岁；六点钟"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Six）（美、德）西克斯（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sixbottles should be enough.",
+        "cn": "六瓶应该够了。"
+      },
+      {
+        "c": "It's gonesixo'clock already.",
+        "cn": "过了六点了。"
+      },
+      {
+        "c": "She has completedsixlaps.",
+        "cn": "她跑完六圈了。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "six months",
+        "cn": "六个月；半年"
+      },
+      {
+        "c": "at six",
+        "cn": "在六点"
+      },
+      {
+        "c": "six sigma",
+        "cn": "六标准差"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "num.",
+        "cn": "数字6；六个；六个人（或物）一组；六岁；六点钟",
+        "ws": [
+          "6",
+          "sextet"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "six",
+      "rels": [
+        {
+          "pos": "num.",
+          "words": [
+            {
+              "c": "sixes",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "six",
+        "d": "源自古英语 siex，原始印欧语 *swéḱs，意为「六」。"
+      }
+    ]
+  },
+  {
+    "word": "small",
+    "phonetic0": " / smɔːl / ",
+    "phonetic1": " / smɔːl / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "小型的；（数量）少的；小规模的；无关紧要的，不重要的；幼小的，年幼的；（字母）小写的；（嗓音）微弱的，轻柔的；一般的，非极端的；出丑的，羞愧的"
+      },
+      {
+        "pos": "n.",
+        "cn": "<英，非正式>小件衣服（尤指内衣）（smalls）；后腰（the small of the/sb.'s back）；<西印度>小费，小额礼金（smalls）；小件物品；矮小的人"
+      },
+      {
+        "pos": "adv.",
+        "cn": "成小块地；小小地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The room was disappointinglysmall.",
+        "cn": "屋子小得令人失望。"
+      },
+      {
+        "c": "Smallvillages dot the countryside.",
+        "cn": "小村庄星罗棋布于乡间。"
+      },
+      {
+        "c": "He issmallin stature.",
+        "cn": "他个头小。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "small size",
+        "cn": "小号，小码；小尺寸"
+      },
+      {
+        "c": "small town",
+        "cn": "小城镇，集镇"
+      },
+      {
+        "c": "small amount",
+        "cn": "小额；小批量"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "小型的；（数量）少的；小规模的；无关紧要的，不重要的；幼小的，年幼的；（字母）小写的；（嗓音）微弱的，轻柔的；一般的，非极端的；出丑的，羞愧的",
+        "ws": [
+          "little",
+          "tiny",
+          "miniature",
+          "petite",
+          "short"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "small",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "smalls",
+              "cn": "复数"
+            },
+            {
+              "c": "smaller",
+              "cn": "比较级"
+            },
+            {
+              "c": "smallest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "small",
+        "d": "源自古英语 smæl，原意为「细的、窄的」，后演变为「小的」。"
+      }
+    ]
+  },
+  {
+    "word": "smile",
+    "phonetic0": " / smaɪl / ",
+    "phonetic1": " / smaɪl / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "微笑；微笑着说，以微笑表示；现出（笑容）；觉得好笑，觉得高兴；惠及，赞许"
+      },
+      {
+        "pos": "n.",
+        "cn": "微笑，笑容；一脸笑意，喜滋滋的（all smiles）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Asmilebrightened her face.",
+        "cn": "她的脸上露出了灿烂的笑容。"
+      },
+      {
+        "c": "Hersmilewas devastating.",
+        "cn": "她的笑容令人倾倒。"
+      },
+      {
+        "c": "He never seems tosmile.",
+        "cn": "他好像从来都不笑。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "smile to oneself",
+        "cn": "暗笑"
+      },
+      {
+        "c": "smile on",
+        "cn": "向…微笑；对…加以赞许"
+      },
+      {
+        "c": "all smiles",
+        "cn": "满面笑容；喜气洋洋"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "微笑；微笑着说，以微笑表示；现出（笑容）；觉得好笑，觉得高兴；惠及，赞许",
+        "ws": [
+          "grin",
+          "beam",
+          "smirk",
+          "laugh"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "smile",
+      "rels": [
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "smiles",
+              "cn": "复数"
+            },
+            {
+              "c": "smiles",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "smiling",
+              "cn": "现在分词"
+            },
+            {
+              "c": "smiled",
+              "cn": "过去式"
+            },
+            {
+              "c": "smiled",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "smile",
+        "d": "源自中古英语 smilen，可能来自斯堪的纳维亚语。与 smirk（假笑）同源。"
+      }
+    ]
+  },
+  {
+    "word": "some",
+    "phonetic0": " / sʌm; səm / ",
+    "phonetic1": " / sʌm; səm / ",
+    "trans": [
+      {
+        "pos": "det.",
+        "cn": "若干，一些；某个，某种；相当多，大量；少量的，不多的；了不起的，很不错的；不怎么样的，算不上……的"
+      },
+      {
+        "pos": "pron.",
+        "cn": "有些，一部分"
+      },
+      {
+        "pos": "adv.",
+        "cn": "<美>有些，稍微；大约"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Robin openedsomechampagne.",
+        "cn": "罗宾打开了一些香槟酒。"
+      },
+      {
+        "c": "I pickedsomeflowers.",
+        "cn": "我摘了一些花。"
+      },
+      {
+        "c": "We'll eatsomenow and savesomefor tomorrow.",
+        "cn": "我们现在吃一些，留一些明天吃。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "some of",
+        "cn": "一些"
+      },
+      {
+        "c": "some of them",
+        "cn": "他们中的一些"
+      },
+      {
+        "c": "some one",
+        "cn": "有人；某人"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "det.",
+        "cn": "若干，一些；某个，某种；相当多，大量；少量的，不多的；了不起的，很不错的；不怎么样的，算不上……的",
+        "ws": [
+          "a few",
+          "several",
+          "certain",
+          "various"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "some",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "some",
+        "d": "源自古英语 sum，原始印欧语 *sem-，意为「一、某个」。"
+      }
+    ]
+  },
+  {
+    "word": "sun",
+    "phonetic0": " / sʌn / ",
+    "phonetic1": " / sʌn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "太阳（the sun）；日光，阳光；恒星；<文>成功，荣耀；<文>一天，一年；<文>被视为荣誉（或灵感、理解）源泉的人（或物）"
+      },
+      {
+        "pos": "v.",
+        "cn": "晒太阳，（尤指）日光浴"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thesundisappeared from view.",
+        "cn": "太阳看不见了。"
+      },
+      {
+        "c": "Clouds blotted out thesun.",
+        "cn": "云遮住了太阳。"
+      },
+      {
+        "c": "Thesuncame out, briefly.",
+        "cn": "太阳出来了，时间很短。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the sun",
+        "cn": "在阳光下，无忧无虑"
+      },
+      {
+        "c": "under the sun",
+        "cn": "天下；究竟"
+      },
+      {
+        "c": "with the sun",
+        "cn": "朝着太阳转动的方向，顺时针方向"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "太阳（the sun）；日光，阳光；恒星；<文>成功，荣耀；<文>一天，一年；<文>被视为荣誉（或灵感、理解）源泉的人（或物）",
+        "ws": [
+          "sunshine",
+          "star",
+          "daystar",
+          "solar"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "sun",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "suns",
+              "cn": "复数"
+            },
+            {
+              "c": "suns",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "sunning",
+              "cn": "现在分词"
+            },
+            {
+              "c": "sunned",
+              "cn": "过去式"
+            },
+            {
+              "c": "sunned",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "sun",
+        "d": "源自古英语 sunne，原始印欧语 *sóh₂wl̥，意为「太阳」。"
+      }
+    ]
+  },
+  {
+    "word": "tall",
+    "phonetic0": " / tɔːl / ",
+    "phonetic1": " / tɔːl / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "高的，高大的；（用于指高度）有……高的，身高……的；过分的，夸大的；（饮料）含少量酒精的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He wastall, lean and muscular.",
+        "cn": "他高挑瘦削，强壮有力。"
+      },
+      {
+        "c": "She wastalland slim.",
+        "cn": "她是个瘦高个儿。"
+      },
+      {
+        "c": "Howtallare you?",
+        "cn": "你身高多少？查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tall building",
+        "cn": "高层建筑物"
+      },
+      {
+        "c": "walk tall",
+        "cn": "理直气壮，挺直腰杆；不低三下四"
+      },
+      {
+        "c": "tall tree",
+        "cn": "乔木"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "高的，高大的；（用于指高度）有……高的，身高……的；过分的，夸大的；（饮料）含少量酒精的",
+        "ws": [
+          "high",
+          "lofty",
+          "towering",
+          "elevated"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "tall",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "taller",
+              "cn": "比较级"
+            },
+            {
+              "c": "tallest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "tall",
+        "d": "源自古英语 getæl，原意为「快的、准备好的」，后演变为「高的」。"
+      }
+    ]
+  },
+  {
+    "word": "ten",
+    "phonetic0": " / ten / ",
+    "phonetic1": " / ten / ",
+    "trans": [
+      {
+        "pos": "num.",
+        "cn": "十个，十"
+      },
+      {
+        "pos": "adj.",
+        "cn": "十的"
+      },
+      {
+        "pos": "det.",
+        "cn": "十个；十个（东西）"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Ten）（美、俄、加、德、荷、西、英）登（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tenmen compose the committee.",
+        "cn": "委员会由十人组成。"
+      },
+      {
+        "c": "Tickets costtendollars each.",
+        "cn": "每张票价为十元。"
+      },
+      {
+        "c": "It'stenpast twelve.",
+        "cn": "现在十二点十分。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tens of thousands",
+        "cn": "成千上万；好几万"
+      },
+      {
+        "c": "ten thousand",
+        "cn": "一万"
+      },
+      {
+        "c": "top ten",
+        "cn": "前十名；十佳排行榜"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "num.",
+        "cn": "十个，十",
+        "ws": [
+          "10",
+          "decade"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "ten",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "ten",
+        "d": "源自古英语 tīen，原始印欧语 *déḱm̥，意为「十」。"
+      }
+    ]
+  },
+  {
+    "word": "them",
+    "phonetic0": " / ðem; ðəm / ",
+    "phonetic1": " / ðem; ðəm / ",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "他们；她们；它们"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Them）（老）探（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I will explain tothemthat I can't paythem.",
+        "cn": "我会向他们解释说我无法付钱给他们。"
+      },
+      {
+        "c": "He would barge intothemand kickthemin the shins.",
+        "cn": "他会冲撞他们，踢他们的小腿。"
+      },
+      {
+        "c": "The cabs cut in front ofthem, trying to boxthemin.",
+        "cn": "出租车超车跑在他们前面，试图堵住他们。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "one of them",
+        "cn": "他们中的一个"
+      },
+      {
+        "c": "all of them",
+        "cn": "他们全部；他们大家"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "pron.",
+        "cn": "他们；她们；它们",
+        "ws": [
+          "those",
+          "they"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "them",
+      "rels": []
+    },
+    "etymology": [
+      {
+        "t": "them",
+        "d": "源自古挪威语 þeim，替代了古英语的他称复数形式。"
+      }
+    ]
+  },
+  {
+    "word": "three",
+    "phonetic0": " / θriː / ",
+    "phonetic1": " / θriː / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "三，三个"
+      },
+      {
+        "pos": "num.",
+        "cn": "三"
+      },
+      {
+        "pos": "adj.",
+        "cn": "三的，三个的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They havethreesmall children.",
+        "cn": "他们有三个年幼的孩子。"
+      },
+      {
+        "c": "Threerunners sprinted past.",
+        "cn": "三名运动员飞跑了过去。"
+      },
+      {
+        "c": "He's gotthreechildren.",
+        "cn": "他有三个孩子。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "three years",
+        "cn": "三年，盼三年"
+      },
+      {
+        "c": "three months",
+        "cn": "三个月"
+      },
+      {
+        "c": "three times",
+        "cn": "三次"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "三，三个",
+        "ws": [
+          "3",
+          "trio",
+          "triplet"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "three",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "threes",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "three",
+        "d": "源自古英语 þrēo，原始印欧语 *tréyes，意为「三」。"
+      }
+    ]
+  },
+  {
+    "word": "tiger",
+    "phonetic0": " / ˈtaɪɡə(r) / ",
+    "phonetic1": " / ˈtaɪɡər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "老虎；凶暴的人"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Tiger）人名；（英）泰格；（法）蒂热；（瑞典）蒂格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thetigeris native to India.",
+        "cn": "这种虎产于印度。"
+      },
+      {
+        "c": "Which has spots, a leopard or atiger?",
+        "cn": "有斑点的是豹还是虎？"
+      },
+      {
+        "c": "Which has spots, the leopard or thetiger?",
+        "cn": "有斑点的是豹还是虎？查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tiger woodsn.",
+        "cn": "老虎·伍兹（世界著名高尔夫球手）"
+      },
+      {
+        "c": "paper tiger",
+        "cn": "纸老虎"
+      },
+      {
+        "c": "bengal tiger",
+        "cn": "孟加拉虎"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "老虎；凶暴的人",
+        "ws": [
+          "big cat",
+          "feline",
+          "predator"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "tiger",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "tigers或tiger",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "tiger",
+        "d": "源自古法语 tigre，拉丁语 tigris，希腊语 tigris。可能源自伊朗语。"
+      }
+    ]
+  },
+  {
+    "word": "tree",
+    "phonetic0": " / triː / ",
+    "phonetic1": " / triː / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "树；木料；树状物"
+      },
+      {
+        "pos": "vt.",
+        "cn": "把……赶上树"
+      },
+      {
+        "pos": "vi.",
+        "cn": "爬上树；逃上树"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Tree）人名；（英）特里"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's rest under yondertree.",
+        "cn": "我们在那边的树下休息吧。"
+      },
+      {
+        "c": "The car smashed into atree.",
+        "cn": "汽车猛地撞到了树上。"
+      },
+      {
+        "c": "Thetreeis in bud already.",
+        "cn": "树已发芽。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fault tree",
+        "cn": "故障树；失效树"
+      },
+      {
+        "c": "christmas tree",
+        "cn": "圣诞树"
+      },
+      {
+        "c": "decision tree",
+        "cn": "决策树，决策图表"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "树；木料；树状物",
+        "ws": [
+          "plant",
+          "sapling",
+          "wood",
+          "timber"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "tree",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "trees",
+              "cn": "复数"
+            },
+            {
+              "c": "trees",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "treeing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "treed",
+              "cn": "过去式"
+            },
+            {
+              "c": "treed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "tree",
+        "d": "源自古英语 trēow，原始印欧语 *dóru，意为「树木、木材」。"
+      }
+    ]
+  },
+  {
+    "word": "two",
+    "phonetic0": " / tuː / ",
+    "phonetic1": " / tuː / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "两个"
+      },
+      {
+        "pos": "adj.",
+        "cn": "两个的"
+      },
+      {
+        "pos": "num.",
+        "cn": "二"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Twoprisoners have escaped.",
+        "cn": "两名犯人逃走了。"
+      },
+      {
+        "c": "They'retwofeet thick.",
+        "cn": "它们两英尺厚。"
+      },
+      {
+        "c": "Twoof the men were leftists andtwowere centrists.",
+        "cn": "这些人其中两人是左派分子，两人是中间派。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in two",
+        "cn": "分为两部分"
+      },
+      {
+        "c": "one or two",
+        "cn": "几个；一、二个；很少的"
+      },
+      {
+        "c": "two or three",
+        "cn": "两三个，几个"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "两个",
+        "ws": [
+          "2",
+          "pair",
+          "couple",
+          "duo"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "two",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "twos",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "two",
+        "d": "源自古英语 twā，原始印欧语 *dwóh₁，意为「二」。"
+      }
+    ]
+  },
+  {
+    "word": "uncle",
+    "phonetic0": " / ˈʌŋk(ə)l / ",
+    "phonetic1": " / ˈʌŋk(ə)l / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "叔叔；伯父；伯伯；舅父；姨丈；姑父"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Myuncletaught me to juggle.",
+        "cn": "我叔叔教我玩杂耍。"
+      },
+      {
+        "c": "MyUncleJim had a high fever.",
+        "cn": "我的叔叔吉姆发高烧了。"
+      },
+      {
+        "c": "I'm going to visit myuncle.",
+        "cn": "我要去看我舅舅。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "your uncle",
+        "cn": "你的叔叔；你的舅舅"
+      },
+      {
+        "c": "uncle sam[",
+        "cn": "口]山姆大叔（美国政府的绰号）"
+      },
+      {
+        "c": "uncle tom",
+        "cn": "汤姆叔叔；逆来顺受的美国黑人"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "叔叔；伯父；伯伯；舅父；姨丈；姑父",
+        "ws": [
+          "relative",
+          "kinsman"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "uncle",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "uncles",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "uncle",
+        "d": "源自古法语 oncle，拉丁语 avunculus，意为「母亲的兄弟」。"
+      }
+    ]
+  },
+  {
+    "word": "water",
+    "phonetic0": " / ˈwɔːtə(r) / ",
+    "phonetic1": " / ˈwɔːtər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "水，雨水；水域，（江、河、湖、海等）大片的水；（某个国家的）领海，海域（waters）；不明朗（或未知的、困难、危险等）局面（waters）；羊水（waters）；（湖、海的）水面；水位；乘船，走水路"
+      },
+      {
+        "pos": "v.",
+        "cn": "给……浇水，灌溉；给…...水喝，饮（动物）；（风等使眼睛）流泪；流口水；（江河）流经并给（某地区）供水；加水冲淡，稀释"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thewaterdeepened gradually.",
+        "cn": "水渐渐变深了。"
+      },
+      {
+        "c": "Watergurgled through the pipes.",
+        "cn": "水汩汩地从管道中流过。"
+      },
+      {
+        "c": "Salt dissolves inwater.",
+        "cn": "盐溶于水。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "water quality",
+        "cn": "水质"
+      },
+      {
+        "c": "water supply",
+        "cn": "供水系统；水源"
+      },
+      {
+        "c": "water treatment",
+        "cn": "水处理；水的处理"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "水，雨水；水域，（江、河、湖、海等）大片的水；（某个国家的）领海，海域（waters）；不明朗（或未知的、困难、危险等）局面（waters）；羊水（waters）；（湖、海的）水面；水位；乘船，走水路",
+        "ws": [
+          "liquid",
+          "aqua",
+          "H2O",
+          "fluid"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "water",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "waters",
+              "cn": "复数"
+            },
+            {
+              "c": "waters",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "watering",
+              "cn": "现在分词"
+            },
+            {
+              "c": "watered",
+              "cn": "过去式"
+            },
+            {
+              "c": "watered",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "water",
+        "d": "源自古英语 wæter，原始印欧语 *wódr̥，意为「水」。"
+      }
+    ]
+  },
+  {
+    "word": "white",
+    "phonetic0": " / waɪt / ",
+    "phonetic1": " / waɪt / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "白色的；白种人的，白肤色的；苍白的；加牛奶（或奶油）的；（葡萄酒）白的，淡黄色的；（面粉）精白的；<美>空白的；树皮淡色的；（玻璃）透明的，无色的；<非正式>完全公正的，非常诚实的；（魔法）善意的；（血细胞）白的；<史>（政治）反动的；纯洁的"
+      },
+      {
+        "pos": "n.",
+        "cn": "白色，白颜料；白种人，白人；白葡萄酒；眼白；蛋清，蛋白；白色运动服（whites）；要洗涤的白色织物（whites）；白衣服；执白棋者，白方；白色的东西，白球；白粉蝶"
+      },
+      {
+        "pos": "v.",
+        "cn": "<古>把……漆成白色，使变白"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I swigged down twowhitewines.",
+        "cn": "我大口喝完两杯白葡萄酒。"
+      },
+      {
+        "c": "The bride was dressed inwhite.",
+        "cn": "新娘身穿白色礼服。"
+      },
+      {
+        "c": "His face was ghastlywhite.",
+        "cn": "他的脸色惨白。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "white housen.",
+        "cn": "白宫（美国政府的行政机关，美国总统官邸）"
+      },
+      {
+        "c": "black and white",
+        "cn": "白纸黑字；单色；黑白片"
+      },
+      {
+        "c": "white wine",
+        "cn": "白葡萄酒"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "白色的；白种人的，白肤色的；苍白的；加牛奶（或奶油）的；（葡萄酒）白的，淡黄色的；（面粉）精白的；<美>空白的；树皮淡色的；（玻璃）透明的，无色的；<非正式>完全公正的，非常诚实的；（魔法）善意的；（血细胞）白的；<史>（政治）反动的；纯洁的",
+        "ws": [
+          "snowy",
+          "ivory",
+          "pale",
+          "pure"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "white",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "whites",
+              "cn": "复数"
+            },
+            {
+              "c": "whites",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "whiting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "whited",
+              "cn": "过去式"
+            },
+            {
+              "c": "whited",
+              "cn": "过去分词"
+            },
+            {
+              "c": "whiter",
+              "cn": "比较级"
+            },
+            {
+              "c": "whitest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "white",
+        "d": "源自古英语 hwīt，原始印欧语 *ḱweyd-，意为「白色的、明亮的」。"
+      }
+    ]
+  },
+  {
+    "word": "year",
+    "phonetic0": " / jɪə(r) / ",
+    "phonetic1": " / jɪr / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "年，日历年；年，一年时间；与某事相关的一年，年度；学年；年级，某年纪的学生；年龄，年纪，岁；很久，好长时间；年代，时代；年级，某年级的学生"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They separated lastyear.",
+        "cn": "他们于去年分居了。"
+      },
+      {
+        "c": "Spending has increasedyearonyear.",
+        "cn": "与去年同期比较，开销增加了。"
+      },
+      {
+        "c": ".",
+        "cn": "那是"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "last year",
+        "cn": "去年"
+      },
+      {
+        "c": "new year",
+        "cn": "新年"
+      },
+      {
+        "c": "next year",
+        "cn": "明年"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "年，日历年；年，一年时间；与某事相关的一年，年度；学年；年级，某年纪的学生；年龄，年纪，岁；很久，好长时间；年代，时代；年级，某年级的学生",
+        "ws": [
+          "12 months",
+          "annual",
+          "calendar year"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "year",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "years",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "year",
+        "d": "源自古英语 gēar，原始印欧语 *yeh₁r-，意为「年、季节」。"
+      }
+    ]
+  },
+  {
+    "word": "yellow",
+    "phonetic0": " / ˈjeləʊ / ",
+    "phonetic1": " / ˈjeloʊ / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "黄的，黄色的；黄色人种的，黄皮肤的；<非正式>胆怯的；（新闻报道）夸张失实的，耸人听闻的；黄色危险警报的；嫉妒的，猜疑的"
+      },
+      {
+        "pos": "n.",
+        "cn": "黄色，黄颜料；黄色衣服，黄色衣料；（运动或比赛中的）黄色球，黄色物（尤指斯诺克的黄球）；黄蛾（或黄蝴蝶）；（植物的）黄化病"
+      },
+      {
+        "pos": "v.",
+        "cn": "（使）变黄"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The walls were paintedyellow.",
+        "cn": "墙壁漆成了黄色。"
+      },
+      {
+        "c": "The wings are tipped withyellow.",
+        "cn": "翅膀的尖端呈黄色。"
+      },
+      {
+        "c": "His eyeballs were an unhealthyyellow.",
+        "cn": "他的眼球是不健康的蜡黄色。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "yellow river",
+        "cn": "黄河"
+      },
+      {
+        "c": "yellow sea",
+        "cn": "黄海"
+      },
+      {
+        "c": "turn yellow",
+        "cn": "变黄；胆怯起来"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "黄的，黄色的；黄色人种的，黄皮肤的；<非正式>胆怯的；（新闻报道）夸张失实的，耸人听闻的；黄色危险警报的；嫉妒的，猜疑的",
+        "ws": [
+          "golden",
+          "sunny",
+          "lemon",
+          "gold"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "yellow",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "yellows",
+              "cn": "复数"
+            },
+            {
+              "c": "yellows",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "yellowing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "yellowed",
+              "cn": "过去式"
+            },
+            {
+              "c": "yellowed",
+              "cn": "过去分词"
+            },
+            {
+              "c": "yellower或more yellow",
+              "cn": "比较级"
+            },
+            {
+              "c": "yellowest或most yellow",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "yellow",
+        "d": "源自古英语 geolu，原始印欧语 *ǵʰelh₃-，意为「黄色、绿色」。"
+      }
+    ]
+  },
+  {
+    "word": "zoo",
+    "phonetic0": " / zuː / ",
+    "phonetic1": " / zuː / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "动物园"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Zoo）人名；（朝）朱；（阿拉伯）祖"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He took his son Christopher to thezoo.",
+        "cn": "他带儿子克里斯托弗去了动物园。"
+      },
+      {
+        "c": "I thought we might go to thezooon Saturday.",
+        "cn": "我觉得周六我们可以去动物园。"
+      },
+      {
+        "c": "The kids had a ride on an elephant at thezoo.",
+        "cn": "在动物园里，孩子们骑着大象走了一圈。查看更多"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "beijing zoo",
+        "cn": "北京动物园"
+      },
+      {
+        "c": "shanghai zoo",
+        "cn": "上海动物园"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "动物园",
+        "ws": [
+          "animal park",
+          "menagerie",
+          "wildlife park"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "zoo",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "zoos",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "zoo",
+        "d": "zoological garden 的缩写。源自希腊语 zōion（动物） + logos（研究）。"
+      }
+    ]
+  }
+]

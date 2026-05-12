@@ -1,0 +1,8476 @@
+[
+  {
+    "word": "ago",
+    "phonetic0": " / əˈɡəʊ / ",
+    "phonetic1": " / əˈɡoʊ / ",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "以前，从前"
+      },
+      {
+        "pos": "adj.",
+        "cn": "以前的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She was hired three years ago.",
+        "cn": "她是三年前录用的。"
+      },
+      {
+        "c": "They kicked off an hour ago.",
+        "cn": "他们是1小时前开球的。"
+      },
+      {
+        "c": "Those skirts went out years ago.",
+        "cn": "那些裙子多年前就不时兴了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "more ago",
+              "cn": "比较级"
+            },
+            {
+              "c": "most ago",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "ago",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "along",
+    "phonetic0": " / əˈlɒŋ / ",
+    "phonetic1": " / əˈlɔːŋ / ",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "沿着，顺着；靠着……边；在某处"
+      },
+      {
+        "pos": "adv.",
+        "cn": "向前；一起，一道；进行，进展；（前）来，到某处；到相当的程度；传播"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Things are going along nicely.",
+        "cn": "情况进展良好。"
+      },
+      {
+        "c": "Claire hurried along the road.",
+        "cn": "克莱尔匆匆地沿路而行。"
+      },
+      {
+        "c": "The boat chugged slowly along.",
+        "cn": "船突突地缓慢前进。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "along with",
+        "cn": "沿（顺）着；连同…一起；与…一道；随同…一起"
+      }
+    ],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "along",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "app",
+    "phonetic0": " / æp / ",
+    "phonetic1": " / æp / ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "应用程序"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The Net's real killer app is email.",
+        "cn": "因特网真正的杀手应用软件是邮件。"
+      },
+      {
+        "c": "What is the core of your app?",
+        "cn": "你的应用程序的核心是什么？"
+      },
+      {
+        "c": "This app has you covered.",
+        "cn": "这个应用程序能提供你所需要的帮助。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "killer app",
+        "cn": "杀手级应用软体；极度成功与受欢迎的电脑应用软件"
+      }
+    ],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "app",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "April",
+    "phonetic0": " / ˈeɪprəl / ",
+    "phonetic1": " / ˈeɪprəl / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "四月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I arrived at the end of April.",
+        "cn": "我是四月底到达的。"
+      },
+      {
+        "c": "We went to Japan last April.",
+        "cn": "去年四月我们去了日本。"
+      },
+      {
+        "c": "Applications must be in by April 30.",
+        "cn": "申请务必于四月三十日之前寄到。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "april fool's day",
+        "cn": "愚人节（4月1日）"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Aprils",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "April",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "artist",
+    "phonetic0": " / ˈɑːtɪst / ",
+    "phonetic1": " / ˈɑːrtɪst / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "艺术家，美术家；表演艺术家；大师，行家"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He is little known as an artist.",
+        "cn": "几乎没人知道他是个艺术家。"
+      },
+      {
+        "c": "I explained that I was an artist.",
+        "cn": "我解释说我是一位艺术家。"
+      },
+      {
+        "c": "She continues to grow as an artist.",
+        "cn": "她作为艺术家不断有所提高。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "graphic artist",
+        "cn": "艺术家"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "artists",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "artist",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "August",
+    "phonetic0": " / ˈɔːɡəst / ",
+    "phonetic1": " / ˈɔːɡəst / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "八月；（美、德、英、波）奥古斯特（人名）"
+      },
+      {
+        "pos": "adj.",
+        "cn": "（august）威严的，令人敬畏的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This place is lousy with tourists in August.",
+        "cn": "在八月份，这个地方挤满游人。"
+      },
+      {
+        "c": "The player is contracted to play until August.",
+        "cn": "这位选手签约参加比赛到八月份。"
+      },
+      {
+        "c": "Grouse shooting begins in August.",
+        "cn": "松鸡狩猎8月份开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Augusts",
+              "cn": "复数"
+            },
+            {
+              "c": "more August",
+              "cn": "比较级"
+            },
+            {
+              "c": "most August",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "August",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "beach",
+    "phonetic0": " / biːtʃ / ",
+    "phonetic1": " / biːtʃ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "海滩，海滨"
+      },
+      {
+        "pos": "v.",
+        "cn": "把（船）拖上岸；搁浅；（垂钓者）钓（鱼）上岸；让（某人）受损"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We cantered along the beach.",
+        "cn": "我们骑着马沿海滩慢跑。"
+      },
+      {
+        "c": "This beach is ideal for children.",
+        "cn": "这个海滩是孩子的理想去处。"
+      },
+      {
+        "c": "The beach was nearly empty.",
+        "cn": "海滩几乎是空荡荡的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the beach",
+        "cn": "adj. 在海滩上；失业的；潦倒的；退休的"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "beaches",
+              "cn": "复数"
+            },
+            {
+              "c": "beaches",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "beaching",
+              "cn": "现在分词"
+            },
+            {
+              "c": "beached",
+              "cn": "过去式"
+            },
+            {
+              "c": "beached",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "beach",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "behind",
+    "phonetic0": " / bɪˈhaɪnd / ",
+    "phonetic1": " / bɪˈhaɪnd / ",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "在（或向）……的后面；落后于；是……背后的原因；支持；（……的外表）之下；成为（某人的）过去；低于；在……死后"
+      },
+      {
+        "pos": "adv.",
+        "cn": "在后面；留在原地；落后（于）；拖欠，不按时"
+      },
+      {
+        "pos": "n.",
+        "cn": "屁股；（澳橄）射门得分"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She heard footsteps behind her.",
+        "cn": "她听到背后有脚步声。"
+      },
+      {
+        "c": "Her scarf streamed behind her.",
+        "cn": "她的围巾在身后飘动。"
+      },
+      {
+        "c": "What's the idea behind this?",
+        "cn": "这背后的意图是什么？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "from behind",
+        "cn": "从…后面"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "behinds",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "behind",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "Beijing opera",
+    "phonetic0": " /'ɒprə/ ",
+    "phonetic1": " /'ɒprə/ ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "京剧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Beijing Opera is our national opera.",
+        "cn": "京剧是我们的国粹。"
+      },
+      {
+        "c": "Do you want to learn Beijing Opera?",
+        "cn": "你想学京剧吗？"
+      },
+      {
+        "c": "Beijing Opera is a kind of entertainment.",
+        "cn": "京剧是一种娱乐消遣。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Beijing operas",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "Beijing opera",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "beside",
+    "phonetic0": " / bɪˈsaɪd / ",
+    "phonetic1": " / bɪˈsaɪd / ",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "在……旁边，在……附近；与……相比；除……以外（还），除……以外（不再）"
+      },
+      {
+        "pos": "adv.",
+        "cn": "在附近；况且，此外"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She kneeled down beside him.",
+        "cn": "她在他身边跪下。"
+      },
+      {
+        "c": "He crouched down beside her.",
+        "cn": "他在她的旁边蹲了下来。"
+      },
+      {
+        "c": "He sat beside her all night.",
+        "cn": "整个晚上他都坐在她的身边。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "beside oneself",
+        "cn": "极度兴奋；发狂"
+      }
+    ],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "beside",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "between",
+    "phonetic0": " / bɪˈtwiːn / ",
+    "phonetic1": " / bɪˈtwiːn / ",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "（空间上）在……中间；（时间上）在……之间；（数量、重量、距离等）介于……之间；分隔着；（表示两方或多方关系）在……之间；合用，共享；通过共同努力，一起；（两人）私下间；往返于"
+      },
+      {
+        "pos": "adv.",
+        "cn": "（空间或时间上）介于……之间（in between）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I sat down between Jo and Diana.",
+        "cn": "我在乔和黛安娜中间坐下。"
+      },
+      {
+        "c": "He toggled between the two windows.",
+        "cn": "他在两个窗口之间来回切换。"
+      },
+      {
+        "c": "It weighed between nine and ten kilos.",
+        "cn": "重量在九到十公斤之间。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in between",
+        "cn": "在中间"
+      }
+    ],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "between",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "bike",
+    "phonetic0": " / baɪk / ",
+    "phonetic1": " / baɪk / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "自行车，脚踏车，单车；摩托车"
+      },
+      {
+        "pos": "v.",
+        "cn": "骑自行车（单车）； 用自行车（或摩托车）投递（信件，包裹）；用自行车（或摩托车）投递（信件，包裹）"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Bike)（土、土库、塞）比克"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you mend my bike for me?",
+        "cn": "你能帮我修一下自行车吗？"
+      },
+      {
+        "c": "The bike is rusty but usable.",
+        "cn": "自行车生锈了，但还能骑。"
+      },
+      {
+        "c": "I took my bike in for repair.",
+        "cn": "我把自行车送去修了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "by bike",
+        "cn": "骑自行车；骑单车"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "bikes",
+              "cn": "复数"
+            },
+            {
+              "c": "bikes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "biking",
+              "cn": "现在分词"
+            },
+            {
+              "c": "biked",
+              "cn": "过去式"
+            },
+            {
+              "c": "biked",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "bike",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "blog",
+    "phonetic0": " / blɒɡ / ",
+    "phonetic1": " / blɑːɡ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "网络日志，博客"
+      },
+      {
+        "pos": "v.",
+        "cn": "写博客"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When Barbieux started his blog, his aspirations were small; he simply hoped to communicate with a few people.",
+        "cn": "当巴布开始他的博客时，他的期望并不大。他只是希望能与几个人交流。"
+      },
+      {
+        "c": "I have to shut down my blog.",
+        "cn": "我得关掉我的博客。"
+      },
+      {
+        "c": "Do you have a blog about running?",
+        "cn": "你有一个关于跑步的博客吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "new blog",
+        "cn": "新日志"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "blogs",
+              "cn": "复数"
+            },
+            {
+              "c": "blogs",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "blogging",
+              "cn": "现在分词"
+            },
+            {
+              "c": "blogged",
+              "cn": "过去式"
+            },
+            {
+              "c": "blogged",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "blog",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "borrow",
+    "phonetic0": " / ˈbɒrəʊ / ",
+    "phonetic1": " / ˈbɔːroʊ / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "借，借入；（向……）借贷；采用，借用；（演算减法时）借（位）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I borrow your calculator?",
+        "cn": "我可以借用你的计算器吗？"
+      },
+      {
+        "c": "May I borrow your newspaper?",
+        "cn": "把你的报纸借我看行吗？"
+      },
+      {
+        "c": "Can I borrow a pen from you?",
+        "cn": "我可以借用你的钢笔吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "borrow money",
+        "cn": "借钱；借债"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "borrows",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "borrowing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "borrowed",
+              "cn": "过去式"
+            },
+            {
+              "c": "borrowed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "borrow",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "Britain",
+    "phonetic0": " / ˈbrɪt(ə)n / ",
+    "phonetic1": " / ˈbrɪt(ə)n / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "英国，不列颠(包括英格兰、苏格兰及威尔士)；英国，不列颠(包括英格兰、苏格兰及威尔士)"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Britain won five gold medals.",
+        "cn": "英国夺取了五块金牌。"
+      },
+      {
+        "c": "Britain is a constitutional monarchy.",
+        "cn": "英国是个君主立宪制国家。"
+      },
+      {
+        "c": "Fruit was a luxury in wartime Britain.",
+        "cn": "在战时的英国，水果是一种奢侈品。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "great britain",
+        "cn": "英国"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Britains",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "Britain",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "building",
+    "phonetic0": " / ˈbɪldɪŋ / ",
+    "phonetic1": " / ˈbɪldɪŋ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "建筑物，房屋，楼房；建筑，建筑业"
+      },
+      {
+        "pos": "v.",
+        "cn": "建造；发展，建立；逐渐增强（build 的现在分词形式）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Building costs have nosedived.",
+        "cn": "建筑费用猛跌下来。"
+      },
+      {
+        "c": "The building soared above us.",
+        "cn": "在我们眼前，那座大楼巍然高耸。"
+      },
+      {
+        "c": "The whole building was soon ablaze.",
+        "cn": "整栋大楼很快就熊熊燃烧起来。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "building up",
+        "cn": "建造；装配；堆焊；建立增长"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "buildings",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "building",
+        "d": "古英语 -ing/-ung，动名词后缀，源自原始日耳曼语 *-ingō。"
+      }
+    ]
+  },
+  {
+    "word": "Cairo",
+    "phonetic0": " / ˈkaɪərəʊ / ",
+    "phonetic1": " / ˈkaɪəroʊ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "开罗（埃及首都）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Cairo is the capital of Egypt.",
+        "cn": "开罗是埃及的首都。"
+      },
+      {
+        "c": "He was posted to GHQ Cairo.",
+        "cn": "他被派往开罗总司令部。"
+      },
+      {
+        "c": "No one is sure how the ancient Egyptians built the pyramids near Cairo.",
+        "cn": "没人知道古埃及人是如何在开罗附近建造金字塔的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Cairos",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "Cairo",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "camel",
+    "phonetic0": " / ˈkæm(ə)l / ",
+    "phonetic1": " / ˈkæm(ə)l / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "骆驼；驼绒织品；驼色，浅黄褐色；打捞浮筒"
+      },
+      {
+        "pos": "adj.",
+        "cn": "驼色的，暗棕色的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Was the camel carrying corn?",
+        "cn": "那头骆驼驮的是谷物吗？"
+      },
+      {
+        "c": "The camel that I rode had a bad temper.",
+        "cn": "我骑的骆驼脾气很坏。"
+      },
+      {
+        "c": "The camel is a mammal, but the kiwi is a bird.",
+        "cn": "骆驼是一种哺乳动物，但是几维鸟是一种鸟。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "camel hair",
+        "cn": "驼绒；骆驼毛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "camels",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "camel",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "carry",
+    "phonetic0": " / ˈkæri / ",
+    "phonetic1": " / ˈkæri / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "提，扛，背；携带，佩戴；运送，载运；传输（水、电等）；传播（疾病）；能记住，能回想起；支撑，承载；承担（责任）；推动，发展；具有（某种特质）；带有，导致；被判处（某种刑罚）；传得远；扔（或踢）到……距离；以多数同意批准（提议）；赢得……的支持；赢得（州或地区的）选举；标有，贴有；刊登，广播；出售；怀（胎）；保持姿态；（加法）进位；准确地唱；超重，超载"
+      },
+      {
+        "pos": "n.",
+        "cn": "搬运；带球跑；掷（击）球距离，（枪的）射程；随身携带（尤指枪）；（财政）转记，结转；水上运输的地方或路线；进位"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Only one carry-on is allowed.",
+        "cn": "随身只能携带一个小包。"
+      },
+      {
+        "c": "Carry this bag—it's the lightest.",
+        "cn": "你拿这个包—它最轻。"
+      },
+      {
+        "c": "Cigarettes carry a health warning.",
+        "cn": "香烟上标注着有害健康的警告。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "carry out",
+        "cn": "vt. 执行，实行；贯彻；实现；完成"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "carries",
+              "cn": "复数"
+            },
+            {
+              "c": "carries",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "carrying",
+              "cn": "现在分词"
+            },
+            {
+              "c": "carried",
+              "cn": "过去式"
+            },
+            {
+              "c": "carried",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "carry",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "catch",
+    "phonetic0": " / kætʃ / ",
+    "phonetic1": " / kætʃ / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "接住；抓住，握住；逮住，捕获；发现，撞见；钩住，绊住；击中，碰到；得病，染病；引起，吸引（注意或兴趣）；（对某事）感到兴奋；搭乘，赶上；及时做（或谈等）；出席，观看；表现，再现；使措手不及；察觉，瞥见；听清，理解；突然意识到；盛住（液体）；（板球）使被接杀出局；（棒球中）当接球手；受（光）照射；（风或水）裹挟，推动；着火，燃烧；遭遇，陷入（困境）；固定，系牢；被（悬浮物）覆盖"
+      },
+      {
+        "pos": "n.",
+        "cn": "接（球等）；（鱼的）捕获量，捕获物；理想的对象；门闩，吊扣；（声息）哽塞；隐患，隐藏的困难；（乐）轮唱片段；传接球游戏；捉人游戏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You'll be sorry if I catch you!",
+        "cn": "要是让我抓着，你会后悔的！"
+      },
+      {
+        "c": "We can catch the early morning train.",
+        "cn": "我们能赶上清晨的那班火车。"
+      },
+      {
+        "c": "Can you catch the waiter's eye?",
+        "cn": "你能引起服务员的注意吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "catch oneself",
+        "cn": "发觉自己讲错而突然住嘴"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "catches",
+              "cn": "复数"
+            },
+            {
+              "c": "catches",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "catching",
+              "cn": "现在分词"
+            },
+            {
+              "c": "caught",
+              "cn": "过去式"
+            },
+            {
+              "c": "caught",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "catch",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "celebrate",
+    "phonetic0": " / ˈselɪbreɪt / ",
+    "phonetic1": " / ˈselɪbreɪt / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "庆祝，庆贺；赞扬，赞美；主持（宗教仪式）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I was in a mood to celebrate.",
+        "cn": "我很想庆祝一番。"
+      },
+      {
+        "c": "Scottish champs celebrate victory!",
+        "cn": "苏格兰的冠军庆祝胜利！"
+      },
+      {
+        "c": "We went out to a restaurant to celebrate.",
+        "cn": "我们到一家饭店里庆祝了一番。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "celebrate with",
+        "cn": "庆祝"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "celebrates",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "celebrating",
+              "cn": "现在分词"
+            },
+            {
+              "c": "celebrated",
+              "cn": "过去式"
+            },
+            {
+              "c": "celebrated",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "celebrate",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "Christmas",
+    "phonetic0": " / ˈkrɪsməs / ",
+    "phonetic1": " / ˈkrɪsməs / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "圣诞节；圣诞节期间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Christmas is a time of reunion.",
+        "cn": "圣诞节是团聚的日子。"
+      },
+      {
+        "c": "Christmas is still months away.",
+        "cn": "离圣诞节还有几个月。"
+      },
+      {
+        "c": "They're here till Christmas.",
+        "cn": "他们将在这里一直住到圣诞节。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "merry christmas",
+        "cn": "圣诞快乐"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Christmases",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "Christmas",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "cinema",
+    "phonetic0": " / ˈsɪnəmə / ",
+    "phonetic1": " / ˈsɪnəmə / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电影院；电影（the cinema）；电影业，电影艺术"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I like music, theatre and cinema.",
+        "cn": "我喜欢音乐、戏剧和电影。"
+      },
+      {
+        "c": "He took her to the cinema.",
+        "cn": "他带她去看电影了。"
+      },
+      {
+        "c": "I used to go to the cinema every week.",
+        "cn": "我过去每周都去看电影。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "cinemas",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "cinema",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "city",
+    "phonetic0": " / ˈsɪti / ",
+    "phonetic1": " / ˈsɪti / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "城市，都市；市民，全市居民；市政府；充满……的地方；伦敦金融、商业区；（国王或女王授权的）特许市；（由州政府划定市界并授予特权的）特权市"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The city is full of diversions.",
+        "cn": "城市里各种娱乐活动比比皆是。"
+      },
+      {
+        "c": "The city was shrouded in mist.",
+        "cn": "城市笼罩在雾霭之中。"
+      },
+      {
+        "c": "They shelled the city all night.",
+        "cn": "他们整夜炮轰那座城市。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "garden city",
+        "cn": "花园城市"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "cities",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "city",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "common",
+    "phonetic0": " / ˈkɒmən / ",
+    "phonetic1": " / ˈkɑːmən / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "共同的，共享的；常见的，普遍的，一般的；普通的，平凡的；出于礼貌的，起码的；粗俗的，庸俗的"
+      },
+      {
+        "pos": "n.",
+        "cn": "公共用地，公地；校园公共食堂；常识；（基督教教会适用于各种场合的）普通礼拜；平民"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's not a word in common usage.",
+        "cn": "这不是一个常用词。"
+      },
+      {
+        "c": "Jackson is a common English name.",
+        "cn": "杰克逊是常见的英语人名。"
+      },
+      {
+        "c": "Winters is a common enough surname.",
+        "cn": "温特斯是一个相当普通的姓。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in common",
+        "cn": "共同的；共有的"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "commons",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "common",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "Confucius",
+    "phonetic0": " / kənˈfjuːʃəs / ",
+    "phonetic1": " / kənˈfjuːʃəs / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "孔子（中国哲学家，教育家）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "As Confucius grew up he wanted to learn things.",
+        "cn": "随着孔子长大，他想学习一些东西。"
+      },
+      {
+        "c": "Confucius was good at music when he was fifteen.",
+        "cn": "孔子十五岁时就擅长音乐。"
+      },
+      {
+        "c": "Confucius was a pioneer in the field of education.",
+        "cn": "孔子是教育领域的先驱。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "confucius institute",
+        "cn": "孔子学院（非营利性公益机构）"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Confuciuses",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "Confucius",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "could",
+    "phonetic0": " / kʊd; kəd / ",
+    "phonetic1": " / kʊd; kəd / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "（礼貌地请求许可）可以，能；（礼貌地请求别人做事）能，能否；（表示可能）可能，也许；（表示未发生的事情）差点就，本能够；（用于提出建议）可以，能；本该，应该（用于对做过或未做某事表示恼怒）；（强调感觉）真想；好像，仿佛"
+      },
+      {
+        "pos": "v.",
+        "cn": "能（can的过去式）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could I stay tonight?",
+        "cn": "今晚我可以待在这吗？"
+      },
+      {
+        "c": "He could be spiteful.",
+        "cn": "他可能怀有恶意。"
+      },
+      {
+        "c": "If you could mobilize the resources, you could get it done.",
+        "cn": "如果你能调动资源，你就能完成它。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "could be",
+        "cn": "可能是；有可能"
+      }
+    ],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "could",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "country",
+    "phonetic0": " / ˈkʌntri / ",
+    "phonetic1": " / ˈkʌntri / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "国，国家；全国人民，全体国民（the country）；乡下，乡村；地区，区域；乡村音乐；故乡"
+      },
+      {
+        "pos": "adj.",
+        "cn": "乡下的，农村的；乡村音乐的；祖国的，故乡的；粗鲁的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He entered the country illegally.",
+        "cn": "他通过非法途径进入了这个国家。"
+      },
+      {
+        "c": "Australia's a big country.",
+        "cn": "澳大利亚是一个幅员辽阔的国家。"
+      },
+      {
+        "c": "I'm a simple country girl.",
+        "cn": "我是一个普普通通的乡村姑娘。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the country",
+        "cn": "在乡下"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "countries",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "country",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "CPC Founding Day",
+    "phonetic0": " /'faʊndɪŋ/ ",
+    "phonetic1": " /'faʊndɪŋ/ ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "建党节"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "CPC Founding Days",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "CPC Founding Day",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "culture",
+    "phonetic0": " / ˈkʌltʃə(r) / ",
+    "phonetic1": " / ˈkʌltʃər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "文化，文明；（团体或组织中共同的）态度，习俗；文化群落，（处于历史上特定时期的）社会；艺术活动；修养；（细胞、细菌等的）培养，培养物；栽培，养殖"
+      },
+      {
+        "pos": "v.",
+        "cn": "培育，养殖"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We are living in a consumer culture.",
+        "cn": "我们生活在一种消费文化之中。"
+      },
+      {
+        "c": "This tradition has no parallel in our culture.",
+        "cn": "这种传统在我们的文化中是没有的。"
+      },
+      {
+        "c": "She's very keen to learn about Japanese culture.",
+        "cn": "她渴望学习日本文化。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "traditional culture",
+        "cn": "传统文化"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "cultures",
+              "cn": "复数"
+            },
+            {
+              "c": "cultures",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "culturing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "cultured",
+              "cn": "过去式"
+            },
+            {
+              "c": "cultured",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "culture",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "cup",
+    "phonetic0": " / kʌp / ",
+    "phonetic1": " / kʌp / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "杯子；一杯（的量）；杯（烹饪的计量单位），量杯（金属或塑料量器）；优胜杯，奖杯；杯状物；（胸罩的）罩杯；（含酒精的）混合饮料；（高尔夫球的）球洞；（男子运动时穿的）护裆"
+      },
+      {
+        "pos": "v.",
+        "cn": "（用手）做成杯状；窝起手掌托住；为……拔火罐（或做吸杯治疗）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She pushed the cup towards me.",
+        "cn": "她把杯子推向我这边。"
+      },
+      {
+        "c": "She crumpled up her coffee cup.",
+        "cn": "她挤瘪了咖啡杯。"
+      },
+      {
+        "c": "Mind that cup, you clumsy oaf!",
+        "cn": "当心那个杯子，你这笨手笨脚的家伙！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "world cup",
+        "cn": "n. 世界杯"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "杯子",
+        "ws": [
+          "mug",
+          "glass",
+          "goblet",
+          "tumbler",
+          "chalice"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "cups",
+              "cn": "复数"
+            },
+            {
+              "c": "cups",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "cupping",
+              "cn": "现在分词"
+            },
+            {
+              "c": "cupped",
+              "cn": "过去式"
+            },
+            {
+              "c": "cupped",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "cup",
+        "d": "拉丁语 cupa（桶），源自原始印欧语 *kewp-（空洞）。"
+      }
+    ]
+  },
+  {
+    "word": "December",
+    "phonetic0": " / dɪˈsembə(r) / ",
+    "phonetic1": " / dɪˈsembər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "十二月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I keep forgetting it's December.",
+        "cn": "我总是忘了现在是12月份。"
+      },
+      {
+        "c": "He departed his job December 16.",
+        "cn": "他于12月16日离职。"
+      },
+      {
+        "c": "Prices edged up 2% in the year to December.",
+        "cn": "到12月为止的年度价格上涨了2%。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Decembers",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "December",
+        "d": "古英语 -ere，施动者后缀，源自拉丁语 -arius（从事……的人）。"
+      }
+    ]
+  },
+  {
+    "word": "desert",
+    "phonetic0": " / ˈdezət / ",
+    "phonetic1": " / ˈdezərt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "沙漠，荒漠；荒凉的地方；应得的赏罚"
+      },
+      {
+        "pos": "v.",
+        "cn": "离弃，舍弃（某地）；抛弃，遗弃（某人）；背弃，放弃；擅离，开小差；突然丧失"
+      },
+      {
+        "pos": "adj.",
+        "cn": "无人居住的，荒凉的；像沙漠的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Somalia is mostly desert.",
+        "cn": "索马里大部分地区都是荒漠。"
+      },
+      {
+        "c": "The heat in the desert was extreme.",
+        "cn": "沙漠中极其炎热。"
+      },
+      {
+        "c": "They drove 600 miles across the desert.",
+        "cn": "他们驱车600英里横穿沙漠。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "desert island",
+        "cn": "n. 荒岛"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "deserts",
+              "cn": "复数"
+            },
+            {
+              "c": "deserts",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "deserting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "deserted",
+              "cn": "过去式"
+            },
+            {
+              "c": "deserted",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "desert",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "direct",
+    "phonetic0": " / dəˈrekt / ",
+    "phonetic1": " / dəˈrekt / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "径直的，笔直的；坦率的；直射的；直接的，亲身的；正好的；直系的"
+      },
+      {
+        "pos": "v.",
+        "cn": "把……对准；管理，指导；给……指路；指引，引导；导演；指示，命令；交予，寄至"
+      },
+      {
+        "pos": "adv.",
+        "cn": "径直地，直达地；亲自，直接"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She prefers to act rather than direct.",
+        "cn": "她宁愿当演员，不愿当导演。"
+      },
+      {
+        "c": "Christopher will direct day-to-day operations.",
+        "cn": "克里斯托弗将指挥日常工作。"
+      },
+      {
+        "c": "The 10.40 goes direct to Leeds.",
+        "cn": "10:40这班火车直达利兹。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "direct investment",
+        "cn": "[经]直接投资"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "directs",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "directing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "directed",
+              "cn": "过去式"
+            },
+            {
+              "c": "directed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "direct",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "Dragon Boat Festival",
+    "phonetic0": " /'festɪvl/ ",
+    "phonetic1": " /'festɪvl/ ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "端午节"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's the Dragon Boat Festival.",
+        "cn": "今天是端午节。"
+      },
+      {
+        "c": "Happy Dragon Boat Festival!",
+        "cn": "端午节快乐！"
+      },
+      {
+        "c": "I wish a happy Dragon Boat Festival!",
+        "cn": "祝端午节快乐！"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "Dragon Boat Festival",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "early",
+    "phonetic0": " / ˈɜːli / ",
+    "phonetic1": " / ˈɜːrli / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "早期的，初期的；提早的，提前的；早开花的，早熟的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "在早期，在初期；提早，提前"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Early booking is recommended.",
+        "cn": "请提早订票。"
+      },
+      {
+        "c": "They determined to start early.",
+        "cn": "他们决定早点出发。"
+      },
+      {
+        "c": "Shooting began early this year.",
+        "cn": "拍摄于今年初开始。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "as early as",
+        "cn": "早在…的时候"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "earlier",
+              "cn": "比较级"
+            },
+            {
+              "c": "earliest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "early",
+        "d": "古英语 -līce，副词后缀，源自 līc（身体、形式），意为「以……方式」。"
+      }
+    ]
+  },
+  {
+    "word": "environment",
+    "phonetic0": " / ɪnˈvaɪrənmənt / ",
+    "phonetic1": " / ɪnˈvaɪrənmənt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "自然环境，生态环境；周围状况，条件；工作平台，软件包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Children need a caring environment.",
+        "cn": "儿童需要一个充满关怀的环境。"
+      },
+      {
+        "c": "He has always been pro the environment.",
+        "cn": "他一向支持环境保护。"
+      },
+      {
+        "c": "The environment has become a very hot issue.",
+        "cn": "环境已成为很热门的话题。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ecological environment",
+        "cn": "生态环境"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "environments",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "environment",
+        "d": "拉丁语 -mentum，名词后缀，表示动作的结果或手段。"
+      }
+    ]
+  },
+  {
+    "word": "even",
+    "phonetic0": " / ˈiːv(ə)n / ",
+    "phonetic1": " / ˈiːv(ə)n / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "平坦的，水平的；平静的，平和的；平齐的，挨着的；无变化的，平稳的；势均力敌的，不相上下的；双数的，偶数的；平等的，公平的；不变的，恒定的；（某事发生的概率）对半的，各半的；扯平的，互不相欠的；匀称的，同样大小的；正好的，不多不少的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "甚至，即使；更加，愈加；其实，实际上"
+      },
+      {
+        "pos": "v.",
+        "cn": "使相等，使平均；变平坦；使变平，使平整"
+      },
+      {
+        "pos": "n.",
+        "cn": "傍晚，晚上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She can't even change a nappy.",
+        "cn": "她连换尿布都不会。"
+      },
+      {
+        "c": "Even his praise is double-edged.",
+        "cn": "即使他的赞扬也是可以有两种解释的。"
+      },
+      {
+        "c": "Even friends disagree sometimes.",
+        "cn": "即便是朋友有时也有分歧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "and even",
+        "cn": "乃至"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "evens",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "evening",
+              "cn": "现在分词"
+            },
+            {
+              "c": "evened",
+              "cn": "过去式"
+            },
+            {
+              "c": "evened",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "even",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "everyday",
+    "phonetic0": " / ˈevrideɪ / ",
+    "phonetic1": " / ˈevrideɪ / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "日常的，每天的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The Internet has become part of everyday life.",
+        "cn": "互联网已成为日常生活的一部分。"
+      },
+      {
+        "c": "Complaints seemed to be an everyday occurrence.",
+        "cn": "投诉似乎成了天天发生的事。"
+      },
+      {
+        "c": "Her novels are anchored in everyday experience.",
+        "cn": "她的小说取材自日常生活经验。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "everyday life",
+        "cn": "日常生活"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "more everyday",
+              "cn": "比较级"
+            },
+            {
+              "c": "most everyday",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "everyday",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "explore",
+    "phonetic0": " / ɪkˈsplɔː(r) / ",
+    "phonetic1": " / ɪkˈsplɔːr / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "探讨，探究；考察，探索；（用手或身体其他部位）探查，仔细检查"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We will explore every avenue until we find an answer.",
+        "cn": "我们要探索一切途径，直到找到答案为止。"
+      },
+      {
+        "c": "I want to explore and get in touch with my inner self.",
+        "cn": "我想认真探索，了解我内在的个性。"
+      },
+      {
+        "c": "I just wanted to explore on my own.",
+        "cn": "我只是想独自考察一下。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "explores",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "exploring",
+              "cn": "现在分词"
+            },
+            {
+              "c": "explored",
+              "cn": "过去式"
+            },
+            {
+              "c": "explored",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "explore",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "far",
+    "phonetic0": " / fɑː(r) / ",
+    "phonetic1": " / fɑːr / ",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "远，遥远地；久远地；非常，很大程度上；发展，进展（到）；过分地"
+      },
+      {
+        "pos": "adj.",
+        "cn": "遥远的，久远的；另一边的，较远的；偏远的，极端的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's been quiet so far.",
+        "cn": "到目前为止还是安静的。"
+      },
+      {
+        "c": "Have you come far?",
+        "cn": "你是远道来的吗？"
+      },
+      {
+        "c": "We didn't go far.",
+        "cn": "我们没有走远。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "farer",
+              "cn": "比较级"
+            },
+            {
+              "c": "farest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "far",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "February",
+    "phonetic0": " / ˈfebruəri / ",
+    "phonetic1": " / ˈfebrueri / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "二月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Postal workers are getting a 5.2% pay rise, backdated to February.",
+        "cn": "邮政员工的工资将提高5.2%，追溯至二月份起算。"
+      },
+      {
+        "c": "He welshed on his agreement with the team that he would play for them in February.",
+        "cn": "他逃避履行他与球队合同中在二月为他们踢球的协议。"
+      },
+      {
+        "c": "His exhibition opens on February 5.",
+        "cn": "他的展览2月5日开幕。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Februaries",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "February",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "feel like",
+    "phonetic0": " / fiːl laɪk / ",
+    "phonetic1": " / fiːl laɪk / ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "感觉像；想要"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you feel like eating out tonight?",
+        "cn": "你今晚想下馆子吗？"
+      },
+      {
+        "c": "I feel like staying in tonight.",
+        "cn": "今晚我想待在家里。"
+      },
+      {
+        "c": "I feel like sleeping 24-7.",
+        "cn": "我每时每刻都想睡觉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "feel like",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "finally",
+    "phonetic0": " / ˈfaɪnəli / ",
+    "phonetic1": " / ˈfaɪnəli / ",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "终于；总之，最后；决定性地，不可变更地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Finally she drifted into sleep.",
+        "cn": "最后她不知不觉地睡着了。"
+      },
+      {
+        "c": "Her patience finally gave out.",
+        "cn": "她最终忍无可忍了。"
+      },
+      {
+        "c": "My patience finally snapped.",
+        "cn": "我终于忍不住了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "finally",
+        "d": "古英语 -līce，副词后缀，源自 līc（身体、形式），意为「以……方式」。"
+      }
+    ]
+  },
+  {
+    "word": "flash",
+    "phonetic0": " / flæʃ / ",
+    "phonetic1": " / flæʃ / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "闪光，闪亮；（快速）出示，显示；飞驰，掠过；闪现；迅速播出，传送（信息）；突然显露（强烈情感）；当众暴露（性器官）；（为引人注目而）展示，炫耀；（尤指用无线电或光波）通信，联络"
+      },
+      {
+        "pos": "n.",
+        "cn": "闪光；闪光灯；闪现；（军装上的）肩章；网站动画程序；花哨，噱头；突然理解，顿悟；（感情的）突发；炫耀财富，夸富；（产品包装上用来吸引顾客眼光的）色带，突显区域；（模塑过程中的）溢料，溢边；（尤指为帮助行船而从堰闸里放出的）水流；飞快的一瞥；（模塑过程中的）溢料，溢边"
+      },
+      {
+        "pos": "adj.",
+        "cn": "阔气的，爱显摆的；突然而短暂的；非常有才能的，杰出的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll need flash for this shot.",
+        "cn": "拍这个镜头我需要闪光灯。"
+      },
+      {
+        "c": "Stopping to rest, Pete shut off the flash.",
+        "cn": "停下来休息的时候，皮特关掉了手电筒。"
+      },
+      {
+        "c": "Another flash of lightning lit up the cave.",
+        "cn": "又一道闪电照亮了那个洞穴。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in a flash",
+        "cn": "瞬间；立刻"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "flashes",
+              "cn": "复数"
+            },
+            {
+              "c": "flashes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "flashing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "flashed",
+              "cn": "过去式"
+            },
+            {
+              "c": "flashed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "flash",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "foot",
+    "phonetic0": " / fʊt / ",
+    "phonetic1": " / fʊt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "脚，足；英尺；基础，底部；袜底；音步；步态，步伐；（缝纫机的）压脚板"
+      },
+      {
+        "pos": "adj.",
+        "cn": "（刹车或泵）用脚操作的，脚踏的；（巡逻队）步行的，步（兵）的"
+      },
+      {
+        "pos": "v.",
+        "cn": "支付（尤指大额或不合理账单）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He shifted from foot to foot.",
+        "cn": "他从一只脚换到另一只脚。"
+      },
+      {
+        "c": "Sam stamped his foot in anger.",
+        "cn": "萨姆气得直跺脚。"
+      },
+      {
+        "c": "She stamped her foot again.",
+        "cn": "她又跺了跺脚。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on foot",
+        "cn": "步行；在进行中"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "脚",
+        "ws": [
+          "feet",
+          "paw",
+          "hoof",
+          "toe"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "foots",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "footing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "footed",
+              "cn": "过去式"
+            },
+            {
+              "c": "footed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "foot",
+        "d": "古英语 fōt，源自原始印欧语 *pṓds（脚）。"
+      }
+    ]
+  },
+  {
+    "word": "foreign",
+    "phonetic0": " / ˈfɒrən / ",
+    "phonetic1": " / ˈfɔːrən / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "外国的，来自国外的；外交的，涉外的；陌生的，不熟悉的；外来的，异质的；外地的，不属于本地区的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Foreign News is on page 16.",
+        "cn": "国外新闻在第16版。"
+      },
+      {
+        "c": "For foreign orders postage is extra.",
+        "cn": "对于国外订单，邮资是另计的。"
+      },
+      {
+        "c": "They are arguing over foreign policy.",
+        "cn": "他们在讨论外交政策。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "foreign trade",
+        "cn": "外贸，对外贸易"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "more foreign",
+              "cn": "比较级"
+            },
+            {
+              "c": "most foreign",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "foreign",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "grassland",
+    "phonetic0": " / ˈɡrɑːslænd / ",
+    "phonetic1": " / ˈɡræslænd / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "草原；牧草地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tropical forest is felled to make way for grassland.",
+        "cn": "热带森林被砍伐，腾出地方做草地。"
+      },
+      {
+        "c": "Cows were roaming the grassland.",
+        "cn": "乳牛在草地上徘徊。"
+      },
+      {
+        "c": "In the distance is a stretch of grassland.",
+        "cn": "远处是连绵一片的草原。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "grasslands",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "grassland",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "guard",
+    "phonetic0": " / ɡɑːd / ",
+    "phonetic1": " / ɡɑːrd / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "卫兵，警卫；看守，保卫，警戒；列车长；保护装置；（英国的）禁卫军；（篮球）后卫；（拳击运动员的）防御姿势"
+      },
+      {
+        "pos": "v.",
+        "cn": "守卫，保卫；看守，监视；警惕，防范；保护，维护"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A guard was posted outside the building.",
+        "cn": "建筑物外设了一名警卫。"
+      },
+      {
+        "c": "You can't let your guard down.",
+        "cn": "你不能掉以轻心。"
+      },
+      {
+        "c": "He was upgraded to security guard.",
+        "cn": "他被提升为保安。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "guard against",
+        "cn": "防止；提防"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "guards",
+              "cn": "复数"
+            },
+            {
+              "c": "guards",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "guarding",
+              "cn": "现在分词"
+            },
+            {
+              "c": "guarded",
+              "cn": "过去式"
+            },
+            {
+              "c": "guarded",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "guard",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "Hawaii",
+    "phonetic0": " / həˈwaɪi / ",
+    "phonetic1": " / həˈwaɪi / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "夏威夷岛；夏威夷（美国州名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hawaii was the birthplace of surfing.",
+        "cn": "夏威夷是冲浪运动的发源地。"
+      },
+      {
+        "c": "His plane stopped in Hawaii to refuel.",
+        "cn": "他的飞机在夏威夷停下来加燃料。"
+      },
+      {
+        "c": "They're on vacation in Hawaii right now.",
+        "cn": "他们此时正在夏威夷度假。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hawaii volcanoes national park",
+        "cn": "夏威夷火山国家公园"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Hawaiis",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "Hawaii",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "health",
+    "phonetic0": " / helθ / ",
+    "phonetic1": " / helθ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "身体状况；健康；医疗，卫生；（组织或系统的）运行状况，运作状况；发达，兴旺"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Her health degenerated quickly.",
+        "cn": "她的健康状况迅速恶化。"
+      },
+      {
+        "c": "He's always enjoyed good health.",
+        "cn": "他一直都很健康。"
+      },
+      {
+        "c": "She was radiant with health.",
+        "cn": "她身体健康，容光焕发。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "health care",
+        "cn": "卫生保健"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "healths",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "health",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "high",
+    "phonetic0": " / haɪ / ",
+    "phonetic1": " / haɪ / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "高的；富含……的；重要的；先进的，高级的；崇高的；高音的，声音尖锐的；兴高采烈的；喝醉了的，（吸毒后）极度兴奋的；十分赞同的，非常尊敬的；中间的，全盛的；开始变质的，开始发馊的；（宗教或政治观点）极端的，偏激的；（元音）舌位高的"
+      },
+      {
+        "pos": "n.",
+        "cn": "最高水平，最大数量；兴奋，高兴；高气压区；（毒品引致的）快感；高中，中学；强档；高音，高音符"
+      },
+      {
+        "pos": "adv.",
+        "cn": "（成本、价值、音量）高，（数量）大；在高处，向高处"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The quality is uniformly high.",
+        "cn": "质量一律很高。"
+      },
+      {
+        "c": "The rooms had high ceilings.",
+        "cn": "那些房间的天花板很高。"
+      },
+      {
+        "c": "Oxygen has high reactivity.",
+        "cn": "氧的反应性很高。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "high quality",
+        "cn": "高品质"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "highs",
+              "cn": "复数"
+            },
+            {
+              "c": "higher",
+              "cn": "比较级"
+            },
+            {
+              "c": "highest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "high",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "hill",
+    "phonetic0": " / hɪl / ",
+    "phonetic1": " / hɪl / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "山丘，小山；（道路的）斜坡；土堆，小堆；国会山"
+      },
+      {
+        "pos": "v.",
+        "cn": "使成堆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A hawk hovered over the hill.",
+        "cn": "一只鹰在小山的上空翱翔。"
+      },
+      {
+        "c": "The ball rolled down the hill.",
+        "cn": "球滚下了山。"
+      },
+      {
+        "c": "The stone rolled down the hill.",
+        "cn": "石头滚下山坡。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "buried hill",
+        "cn": "潜山；埋藏山；掩丘"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "hills",
+              "cn": "复数"
+            },
+            {
+              "c": "hills",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "hilling",
+              "cn": "现在分词"
+            },
+            {
+              "c": "hilled",
+              "cn": "过去式"
+            },
+            {
+              "c": "hilled",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "hill",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "history",
+    "phonetic0": " / ˈhɪstri; ˈhɪstəri / ",
+    "phonetic1": " / ˈhɪstri; ˈhɪstəri / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "历史；沿革，发展过程；历史课，历史学；史书，历史记载；个人经历，履历"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm very interested in history.",
+        "cn": "我很喜欢历史。"
+      },
+      {
+        "c": "He studied History and Economics.",
+        "cn": "他学过历史和经济学。"
+      },
+      {
+        "c": "She's studying art history.",
+        "cn": "她正在研读艺术史。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the history",
+        "cn": "在历史上"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "histories",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "history",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "holiday",
+    "phonetic0": " / ˈhɒlədeɪ / ",
+    "phonetic1": " / ˈhɑːlədeɪ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "假日；度假期；法定节假日，节日；（分期付款、税费等的）暂缓缴付期"
+      },
+      {
+        "pos": "v.",
+        "cn": "度假"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Today is a holiday in Wales.",
+        "cn": "在威尔士今天是假日。"
+      },
+      {
+        "c": "We rented a holiday villa in Spain.",
+        "cn": "我们在西班牙租了一座假日别墅。"
+      },
+      {
+        "c": "They met while on holiday in Greece.",
+        "cn": "他们是在希腊度假时认识的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on holiday",
+        "cn": "在度假；在休假中"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "holidays",
+              "cn": "复数"
+            },
+            {
+              "c": "holidays",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "holidaying",
+              "cn": "现在分词"
+            },
+            {
+              "c": "holidayed",
+              "cn": "过去式"
+            },
+            {
+              "c": "holidayed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "holiday",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "hometown",
+    "phonetic0": " / ˈhəʊmtaʊn / ",
+    "phonetic1": " / ˈhoʊmtaʊn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "家乡，故乡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We asked Jason to write an essay about his hometown.",
+        "cn": "我们让杰森写一篇关于他家乡的短文。"
+      },
+      {
+        "c": "To introduce her hometown.",
+        "cn": "介绍她的家乡。"
+      },
+      {
+        "c": "It's my hometown, Xichang.",
+        "cn": "这是我的家乡，西昌。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "hometowns",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "hometown",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "hot pot",
+    "phonetic0": " /pɒt/ ",
+    "phonetic1": " /pɒt/ ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "火锅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Usually, I like to eat hot pot.",
+        "cn": "通常，我喜欢吃火锅。"
+      },
+      {
+        "c": "Let me see, how about hot pot?",
+        "cn": "我想想，吃火锅怎么样？"
+      },
+      {
+        "c": "Is it the chocolate hot pot?",
+        "cn": "这是巧克力火锅吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "hot pot",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "hurt",
+    "phonetic0": " / hɜːt / ",
+    "phonetic1": " / hɜːrt / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "使受伤，使疼痛；感到受伤，感到疼痛；损害；处于困境，手头拮据；伤心"
+      },
+      {
+        "pos": "adj.",
+        "cn": "（身体上）受伤的；（感情上）痛苦的"
+      },
+      {
+        "pos": "n.",
+        "cn": "心灵创伤，委屈；（身体上的）伤，痛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Did you hurt yourself ?",
+        "cn": "你伤着自己了吗？"
+      },
+      {
+        "c": "Have you hurt yourself?",
+        "cn": "你伤着自己了吗？"
+      },
+      {
+        "c": "Did you hurt yourself?",
+        "cn": "你伤着自己了吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "get hurt",
+        "cn": "受伤"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "hurts",
+              "cn": "复数"
+            },
+            {
+              "c": "hurts",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "hurting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "hurt",
+              "cn": "过去式"
+            },
+            {
+              "c": "hurt",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "hurt",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "ice",
+    "phonetic0": " / aɪs / ",
+    "phonetic1": " / aɪs / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "冰；冰块；冰冻甜食，刨冰；溜冰场；钻石，珠宝；（态度，表情）冰冷；一份冰淇淋"
+      },
+      {
+        "pos": "v.",
+        "cn": "在（糕饼上）加糖霜；冷却，冰镇；确保（胜利等）；杀死；结冰；长射（冰球）过全场越过对方球门线"
+      },
+      {
+        "pos": "adj.",
+        "cn": "冰的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll get you some ice cream.",
+        "cn": "我去给你拿些冰激凌。"
+      },
+      {
+        "c": "She was nicknamed 'The Ice Queen'.",
+        "cn": "她外号叫“冰上王后”。"
+      },
+      {
+        "c": "The ice started to crack.",
+        "cn": "冰开始裂了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ice cream",
+        "cn": "冰淇淋"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "冰",
+        "ws": [
+          "frost",
+          "glacier",
+          "icicle",
+          "frozen water",
+          "sleet"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "ices",
+              "cn": "复数"
+            },
+            {
+              "c": "more ice",
+              "cn": "比较级"
+            },
+            {
+              "c": "most ice",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "ice",
+        "d": "古英语 īs，源自原始日耳曼语 *īsą（冰）。"
+      }
+    ]
+  },
+  {
+    "word": "India",
+    "phonetic0": " / ˈɪndiə / ",
+    "phonetic1": " / ˈɪndiə / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "印度（南亚国家）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sarah's off in India somewhere.",
+        "cn": "萨拉远在印度某地。"
+      },
+      {
+        "c": "The tiger is native to India.",
+        "cn": "这种虎产于印度。"
+      },
+      {
+        "c": "She had lately returned from India.",
+        "cn": "不久前她从印度回来了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "east india",
+        "cn": "东印度（指印度，印度支那半岛，马来半岛和马来群岛等）"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Indias",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "India",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "information",
+    "phonetic0": " / ˌɪnfəˈmeɪʃ(ə)n / ",
+    "phonetic1": " / ˌɪnfərˈmeɪʃ(ə)n / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "消息，资料，情报；（计算机程序储存和使用的）数据，信息；问讯处，信息台；（向治安法院提起的）控告，起诉；知识"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We pooled ideas and information.",
+        "cn": "我们汇集了意见和信息。"
+      },
+      {
+        "c": "This information could prove useful.",
+        "cn": "这条信息往后也许有用。"
+      },
+      {
+        "c": "The research has yielded useful information.",
+        "cn": "这项研究提供了有用的资料。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "information desk",
+        "cn": "服务台，问询处"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "informations",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "information",
+        "d": "拉丁语 -tiō/-siō，名词后缀，表示动作或状态。"
+      }
+    ]
+  },
+  {
+    "word": "inside",
+    "phonetic0": " / ˌɪnˈsaɪd / ",
+    "phonetic1": " / ˌɪnˈsaɪd / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "内部，内侧；内脏，（尤指）胃；里道，内圈；（靠近路边的）慢车道"
+      },
+      {
+        "pos": "adv.",
+        "cn": "在（或向）里面；在监牢里"
+      },
+      {
+        "pos": "prep.",
+        "cn": "在（或向）……内，在（或向）……里；在……时间之内；（足球、英式橄榄球等体育运动）（比另一队员）更靠近球场中心"
+      },
+      {
+        "pos": "adj.",
+        "cn": "里面的；从内部了解到的，内线干的；（马路车道）靠近路边的，慢（道）的；（曲棍球、足球等体育运动）场地中心附近的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The tree trunk was hollow inside.",
+        "cn": "这树干里面是空的。"
+      },
+      {
+        "c": "Inside, Frannie was raging.",
+        "cn": "内心里，弗兰尼怒不可遏。"
+      },
+      {
+        "c": "You'll have to play inside today.",
+        "cn": "你今天只能在屋里玩耍。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "inside of",
+        "cn": "在…之内；少于"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "insides",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "inside",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "internet",
+    "phonetic0": " / ˈɪntənet / ",
+    "phonetic1": " / ˈɪntərnet / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "互联网，因特网（=the Internet）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I looked it up on the Internet.",
+        "cn": "我在互联网上查过此事。"
+      },
+      {
+        "c": "I'm jacking into the Internet now.",
+        "cn": "我正要接入互联网。"
+      },
+      {
+        "c": "Distance is no problem on the Internet.",
+        "cn": "在互联网上距离已不成为问题。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the internet",
+        "cn": "在网上"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "internets",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "internet",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "island",
+    "phonetic0": " / ˈaɪlənd / ",
+    "phonetic1": " / ˈaɪlənd / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "岛，岛屿；岛状物，孤立体；脑岛，胰岛"
+      },
+      {
+        "pos": "v.",
+        "cn": "使成岛（状），使孤立"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The island is thinly populated.",
+        "cn": "这个岛人口稀少。"
+      },
+      {
+        "c": "We rowed around the island.",
+        "cn": "我们绕着岛划船。"
+      },
+      {
+        "c": "The island is no longer inhabited.",
+        "cn": "这个岛已经没有人居住了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the island",
+        "cn": "在岛上"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "islands",
+              "cn": "复数"
+            },
+            {
+              "c": "islands",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "islanding",
+              "cn": "现在分词"
+            },
+            {
+              "c": "islanded",
+              "cn": "过去式"
+            },
+            {
+              "c": "islanded",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "island",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "Italy",
+    "phonetic0": " / ˈɪtəli / ",
+    "phonetic1": " / ˈɪtəli / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "意大利（欧洲南部国家）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "His father hailed from Italy.",
+        "cn": "他父亲出生于意大利。"
+      },
+      {
+        "c": "The ship was bound for Italy.",
+        "cn": "这艘船是开往意大利的。"
+      },
+      {
+        "c": "Did you get my card from Italy?",
+        "cn": "你收到我从意大利寄出的明信片了吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "little italy",
+        "cn": "小意大利（美国大城市的意大利移民区）"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Italies",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "Italy",
+        "d": "古英语 -līce，副词后缀，源自 līc（身体、形式），意为「以……方式」。"
+      }
+    ]
+  },
+  {
+    "word": "its",
+    "phonetic0": " / ɪts / ",
+    "phonetic1": " / ɪts / ",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "它的"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Its）人名；（俄）伊茨"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Its film industry operates in its own curiously hermetic way.",
+        "cn": "它的电影业以奇特而封闭的方式运作。"
+      },
+      {
+        "c": "This made its mini-computers incompatible with its mainframes.",
+        "cn": "这使得它的微型电脑与其主机不兼容。"
+      },
+      {
+        "c": "Her speech was memorable for its polemic rather than its substance.",
+        "cn": "她的演说之所以令人难忘，不是因其内容而是因其辩论方法。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "as it were",
+        "cn": "可以说是，似乎就是；好像"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "itses",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "its",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "January",
+    "phonetic0": " / ˈdʒænjuəri / ",
+    "phonetic1": " / ˈdʒænjueri / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "一月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "January is my least favourite month.",
+        "cn": "一月是我最不喜欢的月份。"
+      },
+      {
+        "c": "Rose is due to start school in January.",
+        "cn": "罗斯一月份就要开始上学了。"
+      },
+      {
+        "c": "The new President takes office in January.",
+        "cn": "新总统将于一月份就职。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Januaries",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "January",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "join",
+    "phonetic0": " / dʒɔɪn / ",
+    "phonetic1": " / dʒɔɪn / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "成为……的一员，参加；连接，接合；联合，汇合；上（火车、飞机等）；和……作伴，随同"
+      },
+      {
+        "pos": "n.",
+        "cn": "连接处，接合点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They may apply to join the organization.",
+        "cn": "他们可能申请加入该组织。"
+      },
+      {
+        "c": "Strangely, they hadn't invited her to join them.",
+        "cn": "令人奇怪的是，他们没邀请她参加。"
+      },
+      {
+        "c": "How do these two pieces join?",
+        "cn": "这两件东西怎样接合呢？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "join hands",
+        "cn": "携手，联手；齐心协力"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "joins",
+              "cn": "复数"
+            },
+            {
+              "c": "joins",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "joining",
+              "cn": "现在分词"
+            },
+            {
+              "c": "joined",
+              "cn": "过去式"
+            },
+            {
+              "c": "joined",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "join",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "July",
+    "phonetic0": " / dʒʊˈlaɪ / ",
+    "phonetic1": " / dʒʊˈlaɪ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "七月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The car is taxed until July.",
+        "cn": "这辆汽车的牌照税缴纳到了七月。"
+      },
+      {
+        "c": "It was the hottest July on record.",
+        "cn": "那是历史记载中最热的七月。"
+      },
+      {
+        "c": "The new hospital opens on July 1st.",
+        "cn": "这家新医院七月一日开诊。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in july",
+        "cn": "在七月"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Julies",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "July",
+        "d": "古英语 -līce，副词后缀，源自 līc（身体、形式），意为「以……方式」。"
+      }
+    ]
+  },
+  {
+    "word": "June",
+    "phonetic0": " / dʒuːn / ",
+    "phonetic1": " / dʒuːn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "六月；琼（人名，来源于拉丁语，含义是“年轻气盛的六月”）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ann's expecting a baby in June.",
+        "cn": "安六月份要生孩子。"
+      },
+      {
+        "c": "They are to be married in June.",
+        "cn": "他们计划于六月份结婚。"
+      },
+      {
+        "c": "Sales volumes fell 0.2% in June.",
+        "cn": "六月份的销售额下降了0.2%。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Junes",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "June",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "kangaroo",
+    "phonetic0": " / ˌkæŋɡəˈruː / ",
+    "phonetic1": " / ˌkæŋɡəˈruː / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "袋鼠"
+      },
+      {
+        "pos": "v.",
+        "cn": "（汽车）因离合控制不当而前移，使（汽车）突然猛地短距离前移；对婴儿进行袋鼠式护理；捕猎袋鼠；像袋鼠一样移动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The kangaroo is a native of Australia.",
+        "cn": "袋鼠是产于澳大利亚的动物。"
+      },
+      {
+        "c": "The kangaroo is indigenous to Australia.",
+        "cn": "袋鼠原产于澳大利亚。"
+      },
+      {
+        "c": "Kangaroo can jump very high.",
+        "cn": "袋鼠可以跳得非常高。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "kangaroo island",
+        "cn": "n. 袋鼠岛（澳大利亚岛，等于坎加鲁岛）"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "kangaroos",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "kangarooing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "kangarooed",
+              "cn": "过去式"
+            },
+            {
+              "c": "kangarooed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "kangaroo",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "koala",
+    "phonetic0": " / kəʊˈɑːlə / ",
+    "phonetic1": " / koʊˈɑːlə / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "树袋熊，无尾熊（产于澳大利亚，又名考拉）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The koala is unique to Australia.",
+        "cn": "树袋熊是澳大利亚独有的。"
+      },
+      {
+        "c": "The koala is listed among Australia's endangered animals.",
+        "cn": "树袋熊已列为澳大利亚濒临绝种的动物之一。"
+      },
+      {
+        "c": "The koala likes to fly a kite.",
+        "cn": "无尾熊喜欢放风筝。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "koala bear",
+        "cn": "考拉熊；无尾熊；树袋熊"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "koalas",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "koala",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "Labour Day",
+    "phonetic0": " /'leɪbə(r)/ ",
+    "phonetic1": " /'leɪbə(r)/ ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "劳动节"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The trading day is shortened in observance of the Labour Day holiday.",
+        "cn": "交易日为了庆祝劳动节而缩短。"
+      },
+      {
+        "c": "They're celebrating Labour Day.",
+        "cn": "他们正在庆祝劳动节。"
+      },
+      {
+        "c": "During my first year, I went to the beach for the Labour Day holiday.",
+        "cn": "第一年，我在劳动节假期去了海边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "Labour Day",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "last",
+    "phonetic0": " / lɑːst / ",
+    "phonetic1": " / læst / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "最后的；最近的，上一个的；最后剩下的；最不可能的；最末的；仅存的；最不重要的，最无关紧要的；最后遇见的"
+      },
+      {
+        "pos": "v.",
+        "cn": "持续；持久；维持，够用；坚持，支撑下去"
+      },
+      {
+        "pos": "n.",
+        "cn": "鞋楦；仅剩下的部分（或事项）；最后来的人（或发生的事）（the last）；残余，剩余（the last of）；末尾；结束，最后时刻（尤指死亡）（the last）；最后一次提及，最后一次看见（the last）"
+      },
+      {
+        "pos": "pron.",
+        "cn": "最近发生的事情；最后的人或事物；最后的人；最后一次；最后的动作，最后的话；用于指最新获得的消息"
+      },
+      {
+        "pos": "adv.",
+        "cn": "最近，上次；最后；（用于引出最后的话或信息）最后，最后一点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They separated last year.",
+        "cn": "他们于去年分居了。"
+      },
+      {
+        "c": "At last they were agreeing, at last they were getting somewhere.",
+        "cn": "最终他们取得了一致，最终他们取得了一些进展。"
+      },
+      {
+        "c": "Last night's vote was tied.",
+        "cn": "昨晚的表决得票相同。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at last",
+        "cn": "最后；终于"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "last",
+              "cn": "复数"
+            },
+            {
+              "c": "lasts",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "lasting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "lasted",
+              "cn": "过去式"
+            },
+            {
+              "c": "lasted",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "last",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "Left",
+    "phonetic0": " / left / ",
+    "phonetic1": " / left / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "左边的；剩余的；左派的，左翼的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "左边的"
+      },
+      {
+        "pos": "n.",
+        "cn": "左侧，左方（the left）；左边的道路，左侧的通道；（认为应将财产、金钱和权力更平等地分配的）左翼人士，左派组织（the Left）；（尤指拳击中的）左手拳；（在足球或类似运动中面向对手球门的）左半场；（军队的）左翼"
+      },
+      {
+        "pos": "v.",
+        "cn": "离开（某人或某处）；抛弃，丢弃；不立刻做（leave 的过去式和过去分词）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Carlos left ages ago.",
+        "cn": "卡洛斯老早就离开了。"
+      },
+      {
+        "c": "She left yesterday.",
+        "cn": "她昨天离开了。"
+      },
+      {
+        "c": "He left without saying goodbye.",
+        "cn": "他不辞而别。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the left",
+        "cn": "在左边"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "lefts",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "Left",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "line",
+    "phonetic0": " / laɪn / ",
+    "phonetic1": " / laɪn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "线，线条；（运动场地的）场界，场地线；皱纹，褶子；分界线，边界线；（思想或行为等的）界限；轮廓，外形；排，行，列；队列，队伍；一系列（类似事物），家族；各级人员；字行，诗行；（戏剧或电影的）台词，对白；罚抄写（对学童的处罚）（lines）；妙语，谎话；线，绳，索；电话线（路）；热线（电话），电话服务；（铁道或公交）线路；铁轨，轨道；管线；（行进的）方向，路线；路径，渠道；（尤指公开表明的）态度，看法；方法，方式；行业，行当；种类，类型；运输公司，航运公司；防线，前线，战线；生产线，流水线；一串音符；（准备吸用的）散放成细线的毒品；赤道（the Line）；（印刷，计算机）线条的；字母底部水平线（the line）；（正规）战斗部队（the line）"
+      },
+      {
+        "pos": "v.",
+        "cn": "沿……形成行（或列、排）；给……安衬里，铺，垫；（在某物的内部）形成一层；击出（平直球）；用线条标出，布满线条（lined）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Your bill includes line rental.",
+        "cn": "你的账单包括电话线路的租用费。"
+      },
+      {
+        "c": "I can't get an outside line.",
+        "cn": "我接不通外线。"
+      },
+      {
+        "c": "This line doesn't scan.",
+        "cn": "这一行不合韵律。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in line",
+        "cn": "adv. 协调；成一直线；有秩序"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "lines",
+              "cn": "复数"
+            },
+            {
+              "c": "lines",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "lining",
+              "cn": "现在分词"
+            },
+            {
+              "c": "lined",
+              "cn": "过去式"
+            },
+            {
+              "c": "lined",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "line",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "litter",
+    "phonetic0": " / ˈlɪtə(r) / ",
+    "phonetic1": " / ˈlɪtər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（公共场所内乱扔的）垃圾，废弃物；一堆杂乱的东西；（同时出生的）一窝（小动物）；猫砂；（森林里的）落叶，落叶层；（家畜睡觉用的）褥草，垫草；轿子；担架"
+      },
+      {
+        "pos": "v.",
+        "cn": "散乱覆盖；（在公共场所）乱扔（垃圾）；使（某事物）充满；（狗、猫等动物）产仔；（为马或其他动物）铺褥草"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Animals reject the runt of the litter.",
+        "cn": "动物们排斥一窝中最弱小的幼仔。"
+      },
+      {
+        "c": "If you see litter in the corridor, pick it up.",
+        "cn": "如果你看到走廊里有垃圾，就把它捡起来。"
+      },
+      {
+        "c": "The amount of litter in the streets is unbefitting for a historic city.",
+        "cn": "街道上垃圾之多与历史名城不协调。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "litters",
+              "cn": "复数"
+            },
+            {
+              "c": "litters",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "littering",
+              "cn": "现在分词"
+            },
+            {
+              "c": "littered",
+              "cn": "过去式"
+            },
+            {
+              "c": "littered",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "litter",
+        "d": "古英语 -ere，施动者后缀，源自拉丁语 -arius（从事……的人）。"
+      }
+    ]
+  },
+  {
+    "word": "Live",
+    "phonetic0": " / lɪv; laɪv / ",
+    "phonetic1": " / lɪv; laɪv / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "生存，活着；生活在；居住；生长，栖息；（以某种方式）生活，过日子；为……而生活；以……为生；继续存在，铭记；过精彩的生活，享受生活；（物）搁置在（某处）；恪守（规则、信念、理想等）；（船）逃过劫难，未沉没"
+      },
+      {
+        "pos": "adj.",
+        "cn": "活的，有生命的；含乳酸菌的；现场直播的，实况转播的；现场演出的；（电线或设备等）通电的，带电的；仍可爆炸的，随时可用的；（火、煤炭或火柴）燃烧的，可燃的；（火柴）未用过的；当前所关心的，时下重大的；（球类运动中的球）处于比赛状态的；（电子链接）有效的；（机器中轮或轴）转动的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "现场直播地，实况转播地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I live by myself.",
+        "cn": "我自己一个人生活。"
+      },
+      {
+        "c": "Our friends live close by.",
+        "cn": "我们的朋友住得不远。"
+      },
+      {
+        "c": "We live off Main Street.",
+        "cn": "我们住在大街附近。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "live in",
+        "cn": "住进"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "居住",
+        "ws": [
+          "reside",
+          "dwell",
+          "inhabit",
+          "stay",
+          "occupy",
+          "lodge",
+          "settle"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "lives",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "living",
+              "cn": "现在分词"
+            },
+            {
+              "c": "lived",
+              "cn": "过去式"
+            },
+            {
+              "c": "lived",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "Live",
+        "d": "古英语 libban，源自原始印欧语 *leyp-（粘附、留下）。"
+      }
+    ]
+  },
+  {
+    "word": "local",
+    "phonetic0": " / ˈləʊk(ə)l / ",
+    "phonetic1": " / ˈloʊk(ə)l / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "当地的，地方的；局部的；（汽车或火车）每站都停的，慢的；（计算机）局域的；（食品或饮料）低热量的"
+      },
+      {
+        "pos": "n.",
+        "cn": "当地人，本地人；住处附近的酒吧；（工会的）地方分会；慢车，市内公交车；炒股散户；本地新闻；局部"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He dabbles in local politics.",
+        "cn": "他开始涉足地方政坛。"
+      },
+      {
+        "c": "I could call the local doctor.",
+        "cn": "我可以给当地医生打电话。"
+      },
+      {
+        "c": "Police suspect a local gang.",
+        "cn": "警方怀疑当地的一个不良帮派。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "local government",
+        "cn": "地方政府；[总称]地方政府官员（或工作人员）"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "locals",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "local",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "lost",
+    "phonetic0": " / lɒst / ",
+    "phonetic1": " / lɔːst / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "迷路的，迷失的；失去的，丢失的；不复存在的，不再拥有的；不知所措，一筹莫展；糊涂的，困惑的；全神贯注的；（时间或机会）浪费的，错过的；输了的；遭难的，阵亡的；彻底毁坏的"
+      },
+      {
+        "pos": "v.",
+        "cn": "遗失，丢失；失去；输掉（比赛、战斗、争论等）（lose 的过去式和过去分词形式）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thousands have lost their jobs.",
+        "cn": "数千人都丢了工作。"
+      },
+      {
+        "c": "Harry was hopelessly lost.",
+        "cn": "哈里彻底迷路了。"
+      },
+      {
+        "c": "I've lost my keys.",
+        "cn": "我把钥匙丢了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lost in",
+        "cn": "迷失于；迷恋"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "loster",
+              "cn": "比较级"
+            },
+            {
+              "c": "lostest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "lost",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "magazine",
+    "phonetic0": " / ˌmæɡəˈziːn / ",
+    "phonetic1": " / ˈmæɡəziːn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "杂志，期刊；（电视、广播）专题节目；弹匣，弹仓；胶卷盒，底片盒；弹药库，军火库"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She used to edit a women's magazine.",
+        "cn": "她曾主编过妇女杂志。"
+      },
+      {
+        "c": "The new magazine has really taken off.",
+        "cn": "这份新杂志真是大受欢迎。"
+      },
+      {
+        "c": "He has produced his own sports magazine.",
+        "cn": "他已经创办了自己的体育杂志。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "weekly magazine",
+        "cn": "周刊"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "magazines",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "magazine",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "March",
+    "phonetic0": " / mɑːtʃ / ",
+    "phonetic1": " / mɑːrtʃ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "三月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We went skiing in France in March.",
+        "cn": "三月份我们去法国滑雪了。"
+      },
+      {
+        "c": "The trial reopened on 6 March.",
+        "cn": "审判在3月6日再次进行。"
+      },
+      {
+        "c": "I timed our visit for March 7.",
+        "cn": "我把我们访问时间定在3月7日。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in march",
+        "cn": "在三月；在三月份"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Marches",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "March",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "May",
+    "phonetic0": " / meɪ / ",
+    "phonetic1": " / meɪ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "五月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That may or may not be true.",
+        "cn": "这可能是真的，也可能不是。"
+      },
+      {
+        "c": "Other problems may follow.",
+        "cn": "其它问题也许会随之而来。"
+      },
+      {
+        "c": "He may yield control.",
+        "cn": "他可能放弃控制权。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Mays",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "May",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "maybe",
+    "phonetic0": " / ˈmeɪbi / ",
+    "phonetic1": " / ˈmeɪbi / ",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "（不确定）大概，或许；（提出建议）或许，也许；（赞同并补充信息）或许，也许；（不置可否）也许，或许"
+      },
+      {
+        "pos": "n.",
+        "cn": "可能性，不确定性"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Maybe he intends to leave her.",
+        "cn": "也许他打算离开她。"
+      },
+      {
+        "c": "Maybe you should socialize more.",
+        "cn": "也许你应该多和人交往。"
+      },
+      {
+        "c": "Maybe they've just gone shopping.",
+        "cn": "或许他们刚刚去买东西了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "maybes",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "maybe",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "middle",
+    "phonetic0": " / ˈmɪd(ə)l / ",
+    "phonetic1": " / ˈmɪd(ə)l / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "中间的，中等的；折中的，中庸之道的；（语言）中古的，介于现代与古代之间的；语法中动态的，中间反身态的；（英语及物动词）无被动态的"
+      },
+      {
+        "pos": "n.",
+        "cn": "中间，中部，中等；腰部；语法中动态，中间反身态"
+      },
+      {
+        "pos": "v.",
+        "cn": "（板球、网球等中）用球棒（或拍）中部击（球）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "His middle name is Justin.",
+        "cn": "他的中间名叫朱斯丁。"
+      },
+      {
+        "c": "Pens are kept in the middle drawer.",
+        "cn": "钢笔在中间那个抽屉里。"
+      },
+      {
+        "c": "The curtains don't meet in the middle.",
+        "cn": "这窗帘中间合不拢。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the middle",
+        "cn": "在中间；在中部"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "middles",
+              "cn": "复数"
+            },
+            {
+              "c": "middles",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "middling",
+              "cn": "现在分词"
+            },
+            {
+              "c": "middled",
+              "cn": "过去式"
+            },
+            {
+              "c": "middled",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "middle",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "Mount Taishan",
+    "phonetic0": " /maʊnt/ ",
+    "phonetic1": " /maʊnt/ ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "泰山"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When people work with one mind, they can even remove Mount Taishan.",
+        "cn": "人心齐，泰山移。"
+      },
+      {
+        "c": "Though death befalls all men alike, it may be weightier than Mount Taishan or lighter than a feather.",
+        "cn": "人固有一死， 或重于泰山， 或轻如鸿毛。"
+      },
+      {
+        "c": "I may take the same train to Shanghai, after I've visited Mount Taishan and Qufu.",
+        "cn": "我在游览了泰山和曲阜之后，可以再乘同一次车到上海。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "Mount Taishan",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "Ms",
+    "phonetic0": " / mɪz / ",
+    "phonetic1": " / mɪz / ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "女士"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Someone with suspected MS should see a neurologist specializing in the disease.",
+        "cn": "患有疑似MS的症状者需要去看此类疾病的神经病专科医生。"
+      },
+      {
+        "c": "Terri Garr announces she has battled MS for 19 years.",
+        "cn": "特瑞·加尔说，她与多发性硬化症已经斗争了19年了。"
+      },
+      {
+        "c": "The court could issue a citation and fine Ms. Robbins.",
+        "cn": "法庭可以发出传票并且罚罗宾斯女士的款。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ms office",
+        "cn": "办公软件；计算机等级考试"
+      }
+    ],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "Ms",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "must",
+    "phonetic0": " / mʌst; məst / ",
+    "phonetic1": " / mʌst; məst / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "必不可少的事物；（发酵前或发酵中的）葡萄汁；潮气，霉菌；（尤指发情期的公象、雄骆驼等的）狂暴状态（=musth）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "All income must be declared.",
+        "cn": "所有收益必须申报。"
+      },
+      {
+        "c": "Why must she interrupt?",
+        "cn": "她为什么偏要打断呢？"
+      },
+      {
+        "c": "She must have misheard.",
+        "cn": "她一定是听错了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "must be",
+        "cn": "一定；一定要；肯定是"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "musts",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "must",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "National Day",
+    "phonetic0": " / ˈnæʃnəl deɪ / ",
+    "phonetic1": " / ˈnæʃnəl deɪ / ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "国庆节"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's celebrate National Day.",
+        "cn": "让我们来庆祝国庆节吧。"
+      },
+      {
+        "c": "Yesterday was National Day.",
+        "cn": "昨天是国庆节。"
+      },
+      {
+        "c": "The National Day is coming.",
+        "cn": "国庆节就要到了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "National Day",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "next",
+    "phonetic0": " / nekst / ",
+    "phonetic1": " / nekst / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "下一个的，接下来的；（时间）紧接着来到的，下次的；紧邻的；其他的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "紧接着，随后；仅次于；下次，再次；（用于询问，表示吃惊或困惑）"
+      },
+      {
+        "pos": "n.",
+        "cn": "下一个人或事件"
+      },
+      {
+        "pos": "det.",
+        "cn": "下一（年、月、星期等）"
+      },
+      {
+        "pos": "pron.",
+        "cn": "下一个"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We're moving house next month.",
+        "cn": "我们下个月搬家。"
+      },
+      {
+        "c": "When is your next appointment?",
+        "cn": "你下一次预约时间是什么时候？"
+      },
+      {
+        "c": "We commence building next week.",
+        "cn": "我们下周破土动工。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "come next",
+        "cn": "紧随其后；再下来"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "nexts",
+              "cn": "复数"
+            },
+            {
+              "c": "nexter",
+              "cn": "比较级"
+            },
+            {
+              "c": "nextest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "next",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "northeast",
+    "phonetic0": " / ˌnɔːθˈiːst / ",
+    "phonetic1": " / ˌnɔːrθˈiːst / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "东北方，东北部"
+      },
+      {
+        "pos": "adj.",
+        "cn": "东北的；向东北的；（风等）来自东北的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "在东北；向东北；（风等）来自东北"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The northeast has been particularly hard hit..",
+        "cn": "东北部受影响尤其严重。"
+      },
+      {
+        "c": "This rural outpost, 400 miles northeast of Helena, has one stoplight.",
+        "cn": "这个在赫勒拿东北400英里处的农村居民点有一个交通信号灯。"
+      },
+      {
+        "c": "This latest attack was at Careysburg, twenty miles northeast of the capital, Monrovia.",
+        "cn": "最近这次袭击发生在凯里斯堡，首府蒙罗维亚东北方向20英里处。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "northeasts",
+              "cn": "复数"
+            },
+            {
+              "c": "more northeast",
+              "cn": "比较级"
+            },
+            {
+              "c": "most northeast",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "northeast",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "note",
+    "phonetic0": " / nəʊt / ",
+    "phonetic1": " / noʊt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "短笺，便条；笔记，记录；注释，批注；正式文件，票据，证明书；音，音符；语气，气氛；钞票；重要性，值得注意之处（of note）"
+      },
+      {
+        "pos": "v.",
+        "cn": "留意，注意；指出，提及；记录，记下"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Someone left this note for you.",
+        "cn": "有人给你送来了这张便条。"
+      },
+      {
+        "c": "She scribbled a note in pencil.",
+        "cn": "她用铅笔草草写了张便条。"
+      },
+      {
+        "c": "He didn't play one bum note.",
+        "cn": "他一个音也没奏错。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "notes",
+              "cn": "复数"
+            },
+            {
+              "c": "notes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "noting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "noted",
+              "cn": "过去式"
+            },
+            {
+              "c": "noted",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "note",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "November",
+    "phonetic0": " / nəʊˈvembə(r) / ",
+    "phonetic1": " / noʊˈvembər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "十一月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She left back in November.",
+        "cn": "她十一月份已经离开了。"
+      },
+      {
+        "c": "Retail sales fell in November by 10%.",
+        "cn": "十一月份零售额下降10%。"
+      },
+      {
+        "c": "The problems began last November.",
+        "cn": "问题于去年11月开始出现。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Novembers",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "November",
+        "d": "古英语 -ere，施动者后缀，源自拉丁语 -arius（从事……的人）。"
+      }
+    ]
+  },
+  {
+    "word": "October",
+    "phonetic0": " / ɒkˈtəʊbə(r) / ",
+    "phonetic1": " / ɑːkˈtoʊbər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "[天] 十月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The film festival takes place in October.",
+        "cn": "电影节将于十月举行。"
+      },
+      {
+        "c": "The official opening is planned for October.",
+        "cn": "正式开幕拟在十月。"
+      },
+      {
+        "c": "The number of tourists tails off in October.",
+        "cn": "十月份游客人数越来越少。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "october revolution",
+        "cn": "俄国十月革命"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Octobers",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "October",
+        "d": "古英语 -ere，施动者后缀，源自拉丁语 -arius（从事……的人）。"
+      }
+    ]
+  },
+  {
+    "word": "on foot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "步行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I left my car in a lay-by and set off on foot.",
+        "cn": "我把车留在路侧停车带，开始步行。"
+      },
+      {
+        "c": "Try going there on foot.",
+        "cn": "试着步行去那儿。"
+      },
+      {
+        "c": "Let's go on foot.",
+        "cn": "让我们步行去。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "on foot",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "open",
+    "phonetic0": " / ˈəʊpən / ",
+    "phonetic1": " / ˈoʊpən / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "开放的，营业的；开着的，敞开的；（身体部位）张开的；露天的，无遮盖的；开阔的，未围上的；可通行的，畅通的；伸开的，展开的；坦率的；不保密的，公开的；易受影响的，易受攻击的；人人可以参加的；（对特定群体）开放的 ；可得到的，可使用的；思想开明的；尚未决定的；（文件夹、文档等）正在使用中的；（胜利者）赢得公开赛的；（票子）未注明旅行日期的；（支票）未签注的；（数）（集合）开的；（元音）开的；（乐）开放的 ；（电路）开路的，断路的；（纺织品）松散的"
+      },
+      {
+        "pos": "v.",
+        "cn": "开，打开；开封，开启；睁开（眼睛），张开（嘴巴）；翻开，展开；开通，开放；开门，营业 ；开业，开幕；（股市）开盘，开市；着手，开始；启动（计算机程序或文件）；开立账户；通往，通向；展现，出现；使某人更乐意考虑某事；断开（电路）；畅谈"
+      },
+      {
+        "pos": "n.",
+        "cn": "户外，野外；公开，泄露；公开赛（Open）；断开（电路）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The door squeaked open.",
+        "cn": "门嘎吱一声开了。"
+      },
+      {
+        "c": "The door creaked open.",
+        "cn": "门嘎吱一声开了。"
+      },
+      {
+        "c": "The door crashed open.",
+        "cn": "那门砰的一声给砸开了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "open up",
+        "cn": "打开；开发；开始；展示，揭露"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "打开",
+        "ws": [
+          "unlock",
+          "unseal",
+          "unwrap",
+          "reveal",
+          "uncover",
+          "expose",
+          "unfold"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "opens",
+              "cn": "复数"
+            },
+            {
+              "c": "opens",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "opening",
+              "cn": "现在分词"
+            },
+            {
+              "c": "opened",
+              "cn": "过去式"
+            },
+            {
+              "c": "opened",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "open",
+        "d": "古英语 openian，源自原始日耳曼语 *upanaz（打开的）。"
+      }
+    ]
+  },
+  {
+    "word": "painting",
+    "phonetic0": " / ˈpeɪntɪŋ / ",
+    "phonetic1": " / ˈpeɪntɪŋ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（一幅）画，绘画作品；绘画创作，绘画；粉刷，上油漆"
+      },
+      {
+        "pos": "v.",
+        "cn": "给……上油漆（或涂料）；（用颜料）绘，画；往（指甲、嘴唇等上）施化妆品（paint 的现在分词形式）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He is painting a huge volcano.",
+        "cn": "他正在画一座巨型火山。"
+      },
+      {
+        "c": "Painting can be very therapeutic.",
+        "cn": "绘画可以使人很放松。"
+      },
+      {
+        "c": "The painting was hung upside down.",
+        "cn": "这幅画挂颠倒了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "chinese painting",
+        "cn": "国画"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "paintings",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "painting",
+        "d": "古英语 -ing/-ung，动名词后缀，源自原始日耳曼语 *-ingō。"
+      }
+    ]
+  },
+  {
+    "word": "palace",
+    "phonetic0": " / ˈpæləs / ",
+    "phonetic1": " / ˈpæləs / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "王宫，（官位极高者的）府邸；住在王宫里的人，王室（the Palace）；大厦，豪宅"
+      },
+      {
+        "pos": "adj.",
+        "cn": "王宫的，（总统）官邸的；与政府人员有关的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We drove through the palace gates.",
+        "cn": "我们驱车驶过重重宫门。"
+      },
+      {
+        "c": "The palace was bedecked with flags.",
+        "cn": "该宫殿装饰有许多旗子。"
+      },
+      {
+        "c": "The palace is closed for restoration.",
+        "cn": "王宫因整修而停止开放。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "palace museum",
+        "cn": "故宫博物院"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "palaces",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "palace",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "party",
+    "phonetic0": " / ˈpɑːti / ",
+    "phonetic1": " / ˈpɑːrti / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "聚会，派对；政党，党派；（契约或争论的）当事人，一方；队，组，群；参加者；人"
+      },
+      {
+        "pos": "v.",
+        "cn": "尽情欢乐，欢宴"
+      },
+      {
+        "pos": "adj.",
+        "cn": "（纹章）分割开的，分成不同颜色部分的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The party was arranged quickly.",
+        "cn": "聚会很快就安排好了。"
+      },
+      {
+        "c": "Plates overflowed with party food.",
+        "cn": "聚会上的食物碟满盘盈。"
+      },
+      {
+        "c": "The party soon warmed up.",
+        "cn": "聚会很快活跃起来。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "third party",
+        "cn": "第三方"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "parties",
+              "cn": "复数"
+            },
+            {
+              "c": "parties",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "partying",
+              "cn": "现在分词"
+            },
+            {
+              "c": "partied",
+              "cn": "过去式"
+            },
+            {
+              "c": "partied",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "party",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "password",
+    "phonetic0": " / ˈpɑːswɜːd / ",
+    "phonetic1": " / ˈpæswɜːrd / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "密码；口令，暗语"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You need a password to log on.",
+        "cn": "登录需要密码。"
+      },
+      {
+        "c": "If the wrong password is given the program aborts.",
+        "cn": "如果键入错误的密码，程序即中止。"
+      },
+      {
+        "c": "You need a password to get access to the computer system.",
+        "cn": "使用这个计算机系统需要口令。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "new password",
+        "cn": "新口令，新密码"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "passwords",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "password",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "PLA Day",
+    "phonetic0": "",
+    "phonetic1": "",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "中国人民解放军建军节"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "PLA Day",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "plan",
+    "phonetic0": " / plæn / ",
+    "phonetic1": " / plæn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（详细）规划；（养老金、储蓄、保险）方案；计划，打算；平面图，详图；分布图，示意图；（卫理公会教堂）巡回传教士名单；（手机流量、话费等）套餐"
+      },
+      {
+        "pos": "v.",
+        "cn": "计划，筹划；打算；设计；期望，预料"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "If Plan A fails, go to Plan B.",
+        "cn": "假如第一方案失败了，就执行第二方案。"
+      },
+      {
+        "c": "The plan worked brilliantly.",
+        "cn": "计划实施得十分顺利。"
+      },
+      {
+        "c": "Unsurprisingly, the plan failed.",
+        "cn": "果然不出所料，计划失败了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "plan for",
+        "cn": "为……制定计划"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "plans",
+              "cn": "复数"
+            },
+            {
+              "c": "plans",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "planning",
+              "cn": "现在分词"
+            },
+            {
+              "c": "planned",
+              "cn": "过去式"
+            },
+            {
+              "c": "planned",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "plan",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "plane",
+    "phonetic0": " / pleɪn / ",
+    "phonetic1": " / pleɪn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "飞机；（几何学中的）平面；（物体的）平面；（穿过或连接物体的）虚构平面；（存在、思想或发展）水平；木工刨，刨子；悬铃木；翼面"
+      },
+      {
+        "pos": "adj.",
+        "cn": "平的，平坦的；二维平面的，二维空间的"
+      },
+      {
+        "pos": "v.",
+        "cn": "滑翔；擦着水面疾驶；刨平；刨除；乘飞机旅行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The plane flipped and crashed.",
+        "cn": "飞机猛地翻转，撞毁了。"
+      },
+      {
+        "c": "A plane passed low overhead.",
+        "cn": "一架飞机从头上低空飞过。"
+      },
+      {
+        "c": "The plane landed at Geneva.",
+        "cn": "飞机在日内瓦降落。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "by plane",
+        "cn": "乘飞机"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "飞机",
+        "ws": [
+          "aircraft",
+          "airplane",
+          "jet",
+          "airliner",
+          "aero"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "planes",
+              "cn": "复数"
+            },
+            {
+              "c": "planes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "planing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "planed",
+              "cn": "过去式"
+            },
+            {
+              "c": "planed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "plane",
+        "d": "拉丁语 planus（平面的），源自原始印欧语 *pleh₂-（平坦）。"
+      }
+    ]
+  },
+  {
+    "word": "pyramid",
+    "phonetic0": " / ˈpɪrəmɪd / ",
+    "phonetic1": " / ˈpɪrəmɪd / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "金字塔；金字塔形的物体（或一堆东西）；角锥体，棱锥体；（解剖）锥体；金字塔式组织（体系）；金字塔式台球（pyramids）；金字塔式控股；金字塔式骗局（pyramid scheme）"
+      },
+      {
+        "pos": "v.",
+        "cn": "把……堆成尖塔（或角锥）形；在（小投资）上获得丰厚的收益；渐增，上涨；（使）渐增，（使）上涨"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A twenty-foot steel pyramid is to be hoisted into position on top of the tower.",
+        "cn": "一座20英尺高的钢制金字塔将被吊到塔顶该放的位置上。"
+      },
+      {
+        "c": "Traditionally, the Brahmins, or the priestly class, are set at the top of the social pyramid.",
+        "cn": "传统上，婆罗门或僧侣阶层位于社会金字塔的顶层。"
+      },
+      {
+        "c": "The last group put the stones into the pyramid.",
+        "cn": "最后一组把石头放进金字塔。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "the great pyramid",
+        "cn": "大金字塔"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "pyramids",
+              "cn": "复数"
+            },
+            {
+              "c": "pyramids",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "pyramiding",
+              "cn": "现在分词"
+            },
+            {
+              "c": "pyramided",
+              "cn": "过去式"
+            },
+            {
+              "c": "pyramided",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "pyramid",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "recycle",
+    "phonetic0": " / ˌriːˈsaɪkl / ",
+    "phonetic1": " / ˌriːˈsaɪk(ə)l / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "回收利用，再利用；（将可回收物品）送入回收加工厂；使再循环；再次应用，重新使用（观念、文章等）"
+      },
+      {
+        "pos": "n.",
+        "cn": "回收利用，循环使用"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The objective would be to recycle 98 percent of domestic waste.",
+        "cn": "该目标是循环使用98%的生活垃圾。"
+      },
+      {
+        "c": "The power of the Green movement in Germany has made that country a leader in the drive to recycle more waste materials.",
+        "cn": "德国环保运动的力量已经使该国成了循环利用更多废料运动中的领先者。"
+      },
+      {
+        "c": "We can recycle plastic bottles.",
+        "cn": "我们可以回收塑胶瓶。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "recycle bin",
+        "cn": "回收站；资源回收筒"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "recycles",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "recycling",
+              "cn": "现在分词"
+            },
+            {
+              "c": "recycled",
+              "cn": "过去式"
+            },
+            {
+              "c": "recycled",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "recycle",
+        "d": "拉丁语 re-（再、回），前缀，意为「再次、重新」。源自原始印欧语 *wret-（转回）。"
+      }
+    ]
+  },
+  {
+    "word": "return",
+    "phonetic0": " / rɪˈtɜːn / ",
+    "phonetic1": " / rɪˈtɜːrn / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "回来，回去；归还，退还；回报，回应；（感觉或情况）重新出现，恢复；重新开始，继续（某项活动）；带来，产生（利润或损失）；回击，击回； 宣告（裁决）；选举，选出；（建筑）（尤指成直角）转延（墙壁）；（高尔夫）打后九穴；（美橄）截获（对方传、踢或漏球）反攻；（桥牌）（尤指同伴所攻出的同花色牌赢墩后）跟着打出，回出；把（空瓶或空罐头盒）送到回收站"
+      },
+      {
+        "pos": "n.",
+        "cn": "回来，返回；归还，退回；重新开始，恢复；回报，收益； 往返票，来回票；返回键，回车键；（选举）结果；（网球等）回击球；（纳税）申报表，申报单；（建筑）转延，转延侧面；回路导线；被退回（或送回）的东西，退票；（可以回收的）空罐头盒，空瓶子（returns）"
+      },
+      {
+        "pos": "adj.",
+        "cn": "（票）双程的，往返的；（旅途）返回的，返程的；（比赛）回访的；再度的，再次的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Regulars return year after year.",
+        "cn": "常客年年都回来。"
+      },
+      {
+        "c": "He did not return her love.",
+        "cn": "他没有回报她的爱。"
+      },
+      {
+        "c": "He lip-synced 'Return to Sender'.",
+        "cn": "他对口形假唱了《退回寄信人》。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "and return",
+        "cn": "并且回程"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "returns",
+              "cn": "复数"
+            },
+            {
+              "c": "returns",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "returning",
+              "cn": "现在分词"
+            },
+            {
+              "c": "returned",
+              "cn": "过去式"
+            },
+            {
+              "c": "returned",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "return",
+        "d": "拉丁语 re-（再、回），前缀，意为「再次、重新」。源自原始印欧语 *wret-（转回）。"
+      }
+    ]
+  },
+  {
+    "word": "ride",
+    "phonetic0": " / raɪd / ",
+    "phonetic1": " / raɪd / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "骑马，骑车；乘坐；航行，漂浮；穿越，翻越；（车辆）行驶；数落，嘲弄；驾驭，被……所支配；取决于（ride on）；得益于；（骑马或车）参赛；运输（货物）；突伸，重叠；顺势退躲以缓冲（击打）；与……性交"
+      },
+      {
+        "pos": "n.",
+        "cn": "乘骑旅行，搭乘旅行；大型游乐设施，乘坐装置；免费搭车；搭载别人者；行车质量，乘坐感觉；机动车辆；骑马道；骑马表演；性交，交媾；节奏钹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They hitched a ride in a truck.",
+        "cn": "他们搭乘了一辆路过的货车。"
+      },
+      {
+        "c": "Do you want a ride? Jump in.",
+        "cn": "你想搭车吗？快上来吧。"
+      },
+      {
+        "c": "He could cadge a ride from somebody.",
+        "cn": "他可以求别人搭个便车。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ride on",
+        "cn": "依靠；骑在…上面；取决于"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "rides",
+              "cn": "复数"
+            },
+            {
+              "c": "rides",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "riding",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "ride",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "scare",
+    "phonetic0": " / skeə(r) / ",
+    "phonetic1": " / sker / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "使惊恐，吓唬；害怕，恐惧"
+      },
+      {
+        "pos": "n.",
+        "cn": "惊恐，惊吓；（社会上的）大恐慌"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He doesn't scare easily.",
+        "cn": "他不轻易害怕。"
+      },
+      {
+        "c": "We've had quite a scare.",
+        "cn": "我们吓得不轻。"
+      },
+      {
+        "c": "A loudhailer blared warnings of a bomb scare.",
+        "cn": "扩音器大声播报炸弹恐吓的警告。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "scare away",
+        "cn": "把…吓跑"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "scares",
+              "cn": "复数"
+            },
+            {
+              "c": "scares",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "scaring",
+              "cn": "现在分词"
+            },
+            {
+              "c": "scared",
+              "cn": "过去式"
+            },
+            {
+              "c": "scared",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "scare",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "scientist",
+    "phonetic0": " / ˈsaɪəntɪst / ",
+    "phonetic1": " / ˈsaɪəntɪst / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "科学家"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He's a brilliant young scientist.",
+        "cn": "他是一个才华横溢的青年科学家。"
+      },
+      {
+        "c": "I admired him as a true scientist and hard worker.",
+        "cn": "我钦佩他是一名真正的科学家和勤奋的工作者。"
+      },
+      {
+        "c": "He contributes regularly to the magazine 'New Scientist'.",
+        "cn": "他定期给《新科学家》杂志撰稿。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "computer scientist",
+        "cn": "计算机科学家"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "scientists",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "scientist",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "seafood",
+    "phonetic0": " / ˈsiːfuːd / ",
+    "phonetic1": " / ˈsiːfuːd / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "海鲜；海味；海产食品"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Seafood is a speciality on the island.",
+        "cn": "海味是岛上的特产。"
+      },
+      {
+        "c": "The seafood here is a gourmet's delight.",
+        "cn": "这儿的海鲜是美食家的一大享受。"
+      },
+      {
+        "c": "The fish or seafood is heavily salted with pure sodium chloride.",
+        "cn": "鱼或海产品以厚厚的纯氯化钠盐腌制。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "seafoods",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "seafood",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "September",
+    "phonetic0": " / sepˈtembə(r) / ",
+    "phonetic1": " / sepˈtembər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "九月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "September was a long way off.",
+        "cn": "那时离九月份还有很长一段时间。"
+      },
+      {
+        "c": "The rains come in September.",
+        "cn": "雨季九月份开始。"
+      },
+      {
+        "c": "Enrolment is the first week of September.",
+        "cn": "九月份的第一周注册。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "Septembers",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "September",
+        "d": "古英语 -ere，施动者后缀，源自拉丁语 -arius（从事……的人）。"
+      }
+    ]
+  },
+  {
+    "word": "ship",
+    "phonetic0": " / ʃɪp / ",
+    "phonetic1": " / ʃɪp / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（大）船，舰；三（或多）桅帆船； 艇（尤指赛艇）；宇宙飞船； 飞机"
+      },
+      {
+        "pos": "v.",
+        "cn": "（用船、飞机、卡车）运送，运输；遣送（某人）；推出（计算机商品），（使）上市；（水手）在船上工作，在船上服役；舷侧进水；把（桨架中的桨）放在船内；给船安装（舵、桅杆等）； 上船，乘船；乘船旅行；提供船只"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The ship was carrying contraband.",
+        "cn": "这只船携带走私货。"
+      },
+      {
+        "c": "The ship steered into port.",
+        "cn": "船驶进港口。"
+      },
+      {
+        "c": "The ship sliced the water.",
+        "cn": "船破浪前进。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "by ship",
+        "cn": "坐轮船，乘船；航运"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "ships",
+              "cn": "复数"
+            },
+            {
+              "c": "ships",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "shipping",
+              "cn": "现在分词"
+            },
+            {
+              "c": "shipped",
+              "cn": "过去式"
+            },
+            {
+              "c": "shipped",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "ship",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "shout",
+    "phonetic0": " / ʃaʊt / ",
+    "phonetic1": " / ʃaʊt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（愤怒、害怕、激动等的）呼喊，喊叫声； 请客的酒，轮到买酒请客； 紧急召集消防队（或警察）的叫喊声"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's wrong to swear and shout.",
+        "cn": "骂人和喊叫是不对的。"
+      },
+      {
+        "c": "I heard her warning shout too late.",
+        "cn": "我听到她的大声警告，但已经太晚了。"
+      },
+      {
+        "c": "Look, you needn't shout.",
+        "cn": "喂，你不必喊。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "shout at",
+        "cn": "对…大喊；叱喝"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "shouts",
+              "cn": "复数"
+            },
+            {
+              "c": "shouts",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "shouting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "shouted",
+              "cn": "过去式"
+            },
+            {
+              "c": "shouted",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "shout",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "sign",
+    "phonetic0": " / saɪn / ",
+    "phonetic1": " / saɪn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "指示牌，标志；迹象，征兆；示意动作，手势；手语动作；符号，记号；踪迹，踪影；（医）征，体征；神迹（主要用于《圣经》和文学作品中）；（野生动物的）足迹，臭迹；（占星）（黄道12宫中的）宫，星座；（数）正负号；暗号，信号；（表示某人状况或经历的）动作，反应"
+      },
+      {
+        "pos": "v.",
+        "cn": "签名，署名；（与机构、公司等）签约；示意，打手势；打手语；用标志杆（或其他记号）表示"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm looking at the small print; I don't want to sign anything that I shouldn't sign.",
+        "cn": "我在读小体印刷的细则，我不想在不该签的文件上签字。"
+      },
+      {
+        "c": "The sign read 'No admittance'.",
+        "cn": "告示牌上写着“禁止入内”。"
+      },
+      {
+        "c": "He shows no sign of repentance.",
+        "cn": "他没有丝毫悔悟的表示。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sign up",
+        "cn": "签约雇用，签约参加"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "signs",
+              "cn": "复数"
+            },
+            {
+              "c": "signs",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "signing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "signed",
+              "cn": "过去式"
+            },
+            {
+              "c": "signed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "sign",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "sir",
+    "phonetic0": " / sɜː(r) / ",
+    "phonetic1": " / sɜːr / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "先生，长官（尤指对上级的尊称）；老师（学生对男教师的称呼）；先生，阁下（正式或商业信函开头的称呼）（Dear Sir）；爵士（用于爵士或准男爵名字之前）（Sir）；决不，的确（no/yes sir）（同 siree）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is everything in order, sir?",
+        "cn": "一切都正常吗，先生？"
+      },
+      {
+        "c": "Are you ready to order, sir?",
+        "cn": "先生，可以点菜了吗？"
+      },
+      {
+        "c": "Good morning, sir. Can I help you?",
+        "cn": "早上好，先生。您要点什么？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dear sir or madam",
+        "cn": "尊敬的先生或女士（信笺的开头语）"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "sirs",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "sir",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "sit",
+    "phonetic0": " / sɪt / ",
+    "phonetic1": " / sɪt / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "坐下，就座；能容纳，可坐（……人）；为……做模特；（比赛）不用（某选手）；（狗等动物）蹲坐；处在，坐落在； 担任职务，当委员；开会，开庭；参加（考试）；照看小孩"
+      },
+      {
+        "pos": "n.",
+        "cn": "坐的一段时间；（衣服的）合身"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "'Sit down!' Meekly, she obeyed.",
+        "cn": "“坐下！”她乖乖地顺从了。"
+      },
+      {
+        "c": "'Sit still!' she thundered.",
+        "cn": "“坐着别动！”她怒喝道。"
+      },
+      {
+        "c": "Sit down—you're blocking my view.",
+        "cn": "坐下，你挡住我的视线了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sit down",
+        "cn": "坐下；扎营"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "坐",
+        "ws": [
+          "settle",
+          "perch",
+          "rest",
+          "be seated",
+          "squat",
+          "take a seat"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "sits",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "sitting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "sat",
+              "cn": "过去式"
+            },
+            {
+              "c": "sat",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "sit",
+        "d": "古英语 sittan，源自原始印欧语 *sed-（坐）。"
+      }
+    ]
+  },
+  {
+    "word": "skate",
+    "phonetic0": " / skeɪt / ",
+    "phonetic1": " / skeɪt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "溜冰鞋，滑冰鞋； 四轮溜冰鞋，旱冰鞋；（滑冰鞋上的）冰刀；（载笨重物的）滑板车；滑板（skateboard 的简称）；鳐鱼（一种扁平状海鱼）；鳐鱼肉；（南非）声名狼藉的粗鲁白人"
+      },
+      {
+        "pos": "v.",
+        "cn": "滑冰，溜冰；在滑板上滑行，溜出（花样）；滑行；一笔带过，回避（skate over/round）；（喻）一蹴而就（skate through）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We never learned to ice skate or ski.",
+        "cn": "我们从没学过溜冰或滑雪。"
+      },
+      {
+        "c": "Can you skate?",
+        "cn": "你会滑冰吗？"
+      },
+      {
+        "c": "It's Sunday. I skate on Sunday.",
+        "cn": "今天星期日。我星期日溜冰。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ice skate",
+        "cn": "溜冰鞋；溜冰"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "skates",
+              "cn": "复数"
+            },
+            {
+              "c": "skates",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "skating",
+              "cn": "现在分词"
+            },
+            {
+              "c": "skated",
+              "cn": "过去式"
+            },
+            {
+              "c": "skated",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "skate",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "smoke",
+    "phonetic0": " / sməʊk / ",
+    "phonetic1": " / smoʊk / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（燃烧所产生的）烟，烟雾；吸烟，抽烟；（抽的）香烟，（吸的）毒品； （伦敦之类的）大城市（the Smoke）；无常的事物"
+      },
+      {
+        "pos": "v.",
+        "cn": "吸烟，吸毒品；（作为习惯）抽烟；冒烟，冒气；用烟熏制；（战斗或竞赛中）彻底击败；开枪杀死（某人）；用力快击（球）；弥漫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Smoke appeared on the horizon.",
+        "cn": "地平线上升起了烟雾。"
+      },
+      {
+        "c": "Smoke had blackened the walls.",
+        "cn": "烟把墙壁都熏黑了。"
+      },
+      {
+        "c": "The exhaust streamed black smoke.",
+        "cn": "排气管里冒出黑烟。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "like smoke",
+        "cn": "[俚语]"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "smokes",
+              "cn": "复数"
+            },
+            {
+              "c": "smokes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "smoking",
+              "cn": "现在分词"
+            },
+            {
+              "c": "smoked",
+              "cn": "过去式"
+            },
+            {
+              "c": "smoked",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "smoke",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "special",
+    "phonetic0": " / ˈspeʃ(ə)l / ",
+    "phonetic1": " / ˈspeʃ(ə)l / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "特殊的，特别的；格外看重的，特别要好的；专门的，特设的；特有的，独具特色的；格外的，分外的；（主题）研究深入的；（数）特殊（矩阵）的"
+      },
+      {
+        "pos": "n.",
+        "cn": "特色菜；特别节目；特价商品，折扣商品；特派员，临时警察，特约记者；专车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You're very special to me, darling.",
+        "cn": "你对我来说很特别，亲爱的。"
+      },
+      {
+        "c": "The task poses no special problems.",
+        "cn": "这项任务不会造成特别的问题。"
+      },
+      {
+        "c": "We don't want any special treatment.",
+        "cn": "我们不需要任何特殊待遇。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in special",
+        "cn": "特殊的"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "specials",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "special",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "stand",
+    "phonetic0": " / stænd / ",
+    "phonetic1": " / stænd / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "站，站立；起立，站起来；使直立，竖放；位于（某处或某位置）；高度为，高达；处于（某种状态）；停，停靠；搁，不流动；很可能会；持有（某种态度或看法）；达特定水平（或数量、高度等）；保持有效，维持不变；忍受，容忍；经得起，经受；请（某人吃饭、喝酒）；竞选，当候选人；屹立，矗立；走，迈（一小步）；具有……地位，排在第……位；（不小心）踩到；承担……职责；担任（板球赛）裁判员"
+      },
+      {
+        "pos": "n.",
+        "cn": "架，座，台；立场，见解；货摊，售货亭；反抗，抵抗；看台；摊位，展台；证人席；坚守时间，总计得分；停车处，站；林分；地块；舞台，讲台，演奏台；通常站立（或坐）的位置；停止，停住；一群猎鸟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I couldn't stand that yowling.",
+        "cn": "我无法忍受那种哀嚎。"
+      },
+      {
+        "c": "She was barely able to stand.",
+        "cn": "她勉强能站立。"
+      },
+      {
+        "c": "'Stand back,' he roared.",
+        "cn": "“靠后站。”他吼道。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "stand up",
+        "cn": "v. 站起来；坚持；竖立；站得住脚；拥护"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "站立",
+        "ws": [
+          "rise",
+          "get up",
+          "be upright",
+          "be on feet"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "stands",
+              "cn": "复数"
+            },
+            {
+              "c": "stands",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "standing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "stood",
+              "cn": "过去式"
+            },
+            {
+              "c": "stood",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "stand",
+        "d": "古英语 standan，源自原始印欧语 *steh₂-（站立）。"
+      }
+    ]
+  },
+  {
+    "word": "station",
+    "phonetic0": " / ˈsteɪʃ(ə)n / ",
+    "phonetic1": " / ˈsteɪʃ(ə)n / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（公共汽车、火车等的）车站；电视台，广播电台；站，所，局；社会地位，身份；须坚守的位置，岗位；驻地，基地；（电台或电视的）频率，频道；（澳大利亚或新西兰的）大牧场"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I get off at the next station.",
+        "cn": "我在下一站下车。"
+      },
+      {
+        "c": "The train pulled into a station.",
+        "cn": "那列火车驶入了一个车站。"
+      },
+      {
+        "c": "The train drew into the station.",
+        "cn": "火车徐徐驶入车站。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "power station",
+        "cn": "发电站；发电厂"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "stations",
+              "cn": "复数"
+            },
+            {
+              "c": "stations",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "stationing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "stationed",
+              "cn": "过去式"
+            },
+            {
+              "c": "stationed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "station",
+        "d": "拉丁语 -tiō/-siō，名词后缀，表示动作或状态。"
+      }
+    ]
+  },
+  {
+    "word": "stone",
+    "phonetic0": " / stəʊn / ",
+    "phonetic1": " / stoʊn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "石头，石料；石块；宝石；果核；结石； 英石（英国重量单位,相当于6.35千克或14磅）；纪念碑，石碑；（指重量或缺少感情、表情或动作）像石头一样；（天文）陨石；CURLING STONE的简称；（桌游中的）棋子，筹码；排版用石台，石印台；（表示观念或规则固定而不可改变）板上钉钉；石头色，石青色"
+      },
+      {
+        "pos": "v.",
+        "cn": "向……扔石头；去核；用石头建（或铺）"
+      },
+      {
+        "pos": "adj.",
+        "cn": "石的，石制的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "完全地，全部地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I was hit by a falling stone.",
+        "cn": "我被一块坠落的石头击中。"
+      },
+      {
+        "c": "She's trying to lose a stone.",
+        "cn": "她试图减去一英石的体重。"
+      },
+      {
+        "c": "The stone rolled down the hill.",
+        "cn": "石头滚下山坡。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "leave no stone unturned",
+        "cn": "千方百计"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "stones",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "stoning",
+              "cn": "现在分词"
+            },
+            {
+              "c": "stoned",
+              "cn": "过去式"
+            },
+            {
+              "c": "stoned",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "stone",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "street",
+    "phonetic0": " / striːt / ",
+    "phonetic1": " / striːt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "街道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He lived at 66 Bingfield Street.",
+        "cn": "他住在宾菲尔德街66号。"
+      },
+      {
+        "c": "She came galloping down the street.",
+        "cn": "她沿街飞奔而来。"
+      },
+      {
+        "c": "Pedro walked along the street alone.",
+        "cn": "佩德罗独自一人沿着这条街走。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the street",
+        "cn": "adj. 在街上；在交易所打烊后进行的；在户外"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "streets",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "street",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "suggest",
+    "phonetic0": " / səˈdʒest / ",
+    "phonetic1": " / səˈdʒest / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "提议，建议；推荐，举荐；显示，表明；暗示，暗指；使人想到，使人联想到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I suggest we let the matter drop.",
+        "cn": "我建议咱们别再提及此事。"
+      },
+      {
+        "c": "I suggest (that) we go out to eat.",
+        "cn": "我提议我们出去吃吧。"
+      },
+      {
+        "c": "The symptoms suggest a minor heart attack.",
+        "cn": "症状显示这是轻微心脏病发作。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "suggest doing",
+        "cn": "建议做…"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "suggests",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "suggesting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "suggested",
+              "cn": "过去式"
+            },
+            {
+              "c": "suggested",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "suggest",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "sunshine",
+    "phonetic0": " / ˈsʌnʃaɪn / ",
+    "phonetic1": " / ˈsʌnʃaɪn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "阳光，日照；幸福，快乐；哥们，老兄（和让你生气的人说话时所用的称呼）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The bay glittered in the sunshine.",
+        "cn": "海湾在阳光下闪闪发光。"
+      },
+      {
+        "c": "We sat basking in the warm sunshine.",
+        "cn": "我们坐着享受温暖的阳光。"
+      },
+      {
+        "c": "This room gets very little sunshine.",
+        "cn": "这个房间几乎照不进阳光。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the sunshine",
+        "cn": "在阳光下"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "sunshines",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "sunshine",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "taxi",
+    "phonetic0": " / ˈtæksi / ",
+    "phonetic1": " / ˈtæksi / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "出租车，计程车，的士；（南非的）小型不定时公交车；出租汽船（或其他交通工具）"
+      },
+      {
+        "pos": "v.",
+        "cn": "（飞机）缓慢滑行；（飞行员）驾驶（飞机）缓慢滑行；乘出租车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The taxi showed up on the dot.",
+        "cn": "出租车准时到了。"
+      },
+      {
+        "c": "I hailed a passing taxi.",
+        "cn": "我招呼了一辆路过的出租车。"
+      },
+      {
+        "c": "We'd better take a taxi.",
+        "cn": "我们最好乘出租车。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "taxi driver",
+        "cn": "出租车司机；的士司机"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "taxiing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "taxied",
+              "cn": "过去式"
+            },
+            {
+              "c": "taxied",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "taxi",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "teach",
+    "phonetic0": " / tiːtʃ / ",
+    "phonetic1": " / tiːtʃ / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "教授，讲授；教会，训练；教育，使懂得（情理）；劝诫，教训"
+      },
+      {
+        "pos": "n.",
+        "cn": "教师"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you teach me to do that?",
+        "cn": "你能教我干那活儿吗？"
+      },
+      {
+        "c": "Lord knows, I tried to teach her.",
+        "cn": "谁都知道，我曾经努力想教她。"
+      },
+      {
+        "c": "She offered to teach me to crochet.",
+        "cn": "她提出教我用钩针织东西。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "teach oneself",
+        "cn": "自学"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "teaches",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "teaching",
+              "cn": "现在分词"
+            },
+            {
+              "c": "taught",
+              "cn": "过去式"
+            },
+            {
+              "c": "taught",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "teach",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "tip",
+    "phonetic0": " / tɪp / ",
+    "phonetic1": " / tɪp / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "（使）倾斜，（使）斜侧；给小费；扔掉，倒掉（垃圾）；倾倒，倒出；打翻；（用液体、颜色等）覆盖……的尖端；预言……获胜；轻触，轻碰；密报，透露消息，告诫"
+      },
+      {
+        "pos": "n.",
+        "cn": "指点，诀窍，建议；小费；末梢，尖端；垃圾场；脏乱的地方；（对赛马、比赛结果的）预测，内幕消息；顶端附加物；（尤指给警方的）密报；（对运动的球或冰球的）轻碰，轻击；手触帽檐，脱帽（致敬、问好或道别的动作）；擦棒球"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Did you give the waiter a tip?",
+        "cn": "你给服务员小费了吗？"
+      },
+      {
+        "c": "The tail tapered to a rounded tip.",
+        "cn": "尾部越来越细，最后成了个圆尖。"
+      },
+      {
+        "c": "He gave the waiter a generous tip.",
+        "cn": "他给了服务员很多小费。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "crack tip",
+        "cn": "裂纹尖端，裂纹端"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "tips",
+              "cn": "复数"
+            },
+            {
+              "c": "tips",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "tipping",
+              "cn": "现在分词"
+            },
+            {
+              "c": "tipped",
+              "cn": "过去式"
+            },
+            {
+              "c": "tipped",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "tip",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "tour",
+    "phonetic0": " / tʊə(r) / ",
+    "phonetic1": " / tʊr / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "旅行，旅游；游览，参观，观光；巡回比赛（或演出等），巡视；任职期，服役期；（政治家或领导人的）访问；锦标赛（the tour）"
+      },
+      {
+        "pos": "v.",
+        "cn": "旅游，观光，参观；（在……）进行巡回演出"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The band will be going on tour.",
+        "cn": "这个乐队将要进行巡回演出。"
+      },
+      {
+        "c": "The band is on tour in France.",
+        "cn": "这支乐队正在法国巡回演出。"
+      },
+      {
+        "c": "They went to Italy on a coach tour.",
+        "cn": "他们乘长途客车去意大利旅游。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tour guide",
+        "cn": "导游人员"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "tours",
+              "cn": "复数"
+            },
+            {
+              "c": "tours",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "touring",
+              "cn": "现在分词"
+            },
+            {
+              "c": "toured",
+              "cn": "过去式"
+            },
+            {
+              "c": "toured",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "tour",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "traffic",
+    "phonetic0": " / ˈtræfɪk / ",
+    "phonetic1": " / ˈtræfɪk / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "路上行驶的车辆，交通；（沿固定路线的）航行，行驶，飞行；运输量；非法交易；信息流量，通信（量）"
+      },
+      {
+        "pos": "v.",
+        "cn": "（非法）进行……交易，做……买卖；在……通行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The traffic was diabolical.",
+        "cn": "交通状况糟糕透了。"
+      },
+      {
+        "c": "Air traffic had returned to normal.",
+        "cn": "空中交通已恢复正常。"
+      },
+      {
+        "c": "Coordinating airline traffic on the ground is as complicated as managing the traffic in the air.",
+        "cn": "协调飞机在地面上的交通和掌控空中交通一样复杂。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "traffic accident",
+        "cn": "交通事故"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "traffics",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "trafficking",
+              "cn": "现在分词"
+            },
+            {
+              "c": "trafficked",
+              "cn": "过去式"
+            },
+            {
+              "c": "trafficked",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "traffic",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "train",
+    "phonetic0": " / treɪn / ",
+    "phonetic1": " / treɪn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "火车，列车；（行进中的）行列，队列；随从，扈从；一系列，一连串（事件或想法）；裙裾，拖裾；（转动的）轮系，齿轮组；（引爆炸药用的）导火线"
+      },
+      {
+        "pos": "v.",
+        "cn": "培训，训练；（为准备体育赛事而）操练；锻炼，培养（某一素质或能力）；训（兽）；（尤指用枪、照相机）对准，瞄准；使（植物）朝某方向生长，修整"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Somewhere a train whistled.",
+        "cn": "某个地方响起了火车的鸣笛声。"
+      },
+      {
+        "c": "We heard the train coming.",
+        "cn": "我们听见火车来了。"
+      },
+      {
+        "c": "The train got in late.",
+        "cn": "火车晚点到达。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "train of thought",
+        "cn": "一连串的思想或思路"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "trains",
+              "cn": "复数"
+            },
+            {
+              "c": "trains",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "training",
+              "cn": "现在分词"
+            },
+            {
+              "c": "trained",
+              "cn": "过去式"
+            },
+            {
+              "c": "trained",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "train",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "travel",
+    "phonetic0": " / ˈtræv(ə)l / ",
+    "phonetic1": " / ˈtræv(ə)l / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "（尤指长途）旅行；走动，移动；（以某速度、朝某方向或在某距离内）行进；（光或声音）传播；（食品等）经得起长途运输；周游，走遍；（尤指车辆）快速行进；（消息）流传；盛行各地；（篮球运动中）走步；（目光）扫视，移动；交往；想象来到"
+      },
+      {
+        "pos": "n.",
+        "cn": "旅行；（出国）旅游；（机器部件的）运动范围，运动速度，运动模式"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We always travel first class.",
+        "cn": "我们总坐头等舱旅行。"
+      },
+      {
+        "c": "It's cheaper to travel midweek.",
+        "cn": "在星期中间旅行较便宜。"
+      },
+      {
+        "c": "We prefer to travel off-season.",
+        "cn": "我们喜欢在淡季旅游。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "travel agency",
+        "cn": "旅行社"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "travels",
+              "cn": "复数"
+            },
+            {
+              "c": "travels",
+              "cn": "第三人称单数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "travel",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "turkey",
+    "phonetic0": " / ˈtɜːki / ",
+    "phonetic1": " / ˈtɜːrki / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "火鸡；火鸡肉；（电影或戏剧的）失败之作；笨蛋，傻瓜；土耳其（Turkey）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Who's going to carve the turkey?",
+        "cn": "谁来把火鸡切成小块？"
+      },
+      {
+        "c": "They concluded a treaty with Turkey.",
+        "cn": "他们同土耳其缔结了一项条约。"
+      },
+      {
+        "c": "We always eat turkey on Thanksgiving.",
+        "cn": "我们过感恩节时总是吃火鸡。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "roast turkey",
+        "cn": "烤火鸡；烧火鸡"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "turkeys",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "turkey",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "underground",
+    "phonetic0": " / ˌʌndəˈɡraʊnd / ",
+    "phonetic1": " / ˌʌndərˈɡraʊnd / ",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "在地（面）下；；隐蔽地，隐匿地；在地（面）下"
+      },
+      {
+        "pos": "adj.",
+        "cn": "地（面）下的；秘密的，地下的；标新立异的，小众的"
+      },
+      {
+        "pos": "v.",
+        "cn": "铺（电缆）于地下；；铺（电缆）于地下"
+      },
+      {
+        "pos": "n.",
+        "cn": "地铁；（反政府的）地下组织；先锋派团体"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I always travel by underground.",
+        "cn": "我总是乘地铁。"
+      },
+      {
+        "c": "The miners were trapped deep underground.",
+        "cn": "矿工被困在地下深处。"
+      },
+      {
+        "c": "The train was trapped underground by a fire.",
+        "cn": "列车被一场大火困在了地下。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "underground water",
+        "cn": "地下水；潜水"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "undergrounds",
+              "cn": "复数"
+            },
+            {
+              "c": "more underground",
+              "cn": "比较级"
+            },
+            {
+              "c": "most underground",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "underground",
+        "d": "古英语 un-（不、否），前缀，表示否定含义。与拉丁语 in-、希腊语 a- 同源。"
+      }
+    ]
+  },
+  {
+    "word": "visitor",
+    "phonetic0": " / ˈvɪzɪtə(r) / ",
+    "phonetic1": " / ˈvɪzɪtər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "访问者，参观者；（网站的）浏览者；客队队员（visitors）；候鸟；（大学或其他学术机构的）督察员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I wasn't expecting a visitor.",
+        "cn": "我没有预期会有访客。"
+      },
+      {
+        "c": "\"You must be Emma,\" said the visitor.",
+        "cn": "“你一定是埃玛,”来访者说道。"
+      },
+      {
+        "c": "Reception just rang through to say my visitor has arrived.",
+        "cn": "服务台刚刚打电话来说我的客人到了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "frequent visitor",
+        "cn": "常客；熟客"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "visitors",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "visitor",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "volunteer",
+    "phonetic0": " / ˌvɒlənˈtɪə(r) / ",
+    "phonetic1": " / ˌvɑːlənˈtɪr / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "志愿者，义务工作者；自告奋勇者，主动做某事的人；志愿兵，义勇兵；自生植物；无因受益人"
+      },
+      {
+        "pos": "v.",
+        "cn": "自愿做，义务做，无偿做；志愿服役，志愿参军；主动提供（信息），主动说出（或建议）；自作主张地说，（未经当事人同意）举荐"
+      },
+      {
+        "pos": "adj.",
+        "cn": "志愿（者）的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volunteer work gives her life (a sense of) purpose.",
+        "cn": "做志愿工作使她的生活有了意义。"
+      },
+      {
+        "c": "She now helps in a local school as a volunteer three days a week.",
+        "cn": "她现在作为一名志愿者每周3天在当地一所学校帮忙。"
+      },
+      {
+        "c": "I am an Olympic volunteer.",
+        "cn": "我是一位奥运志愿者。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "volunteer services",
+        "cn": "义工服务；志工服务台"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "volunteers",
+              "cn": "复数"
+            },
+            {
+              "c": "volunteers",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "volunteering",
+              "cn": "现在分词"
+            },
+            {
+              "c": "volunteered",
+              "cn": "过去式"
+            },
+            {
+              "c": "volunteered",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "volunteer",
+        "d": "古英语 -ere，施动者后缀，源自拉丁语 -arius（从事……的人）。"
+      }
+    ]
+  },
+  {
+    "word": "wait",
+    "phonetic0": " / weɪt / ",
+    "phonetic1": " / weɪt / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "等候；盼望，期待；推迟，延缓；（已备好）可处理，可取用；（用于鼓励或威胁）等着；（用于打断讲话）等一下，慢着；服侍，招待"
+      },
+      {
+        "pos": "n.",
+        "cn": "等待，等候的时间；（城镇）官方乐队（waits）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's wait until the rain stops.",
+        "cn": "咱们等雨停了吧。"
+      },
+      {
+        "c": "I'll wait until they arrive.",
+        "cn": "我会一直等到他们来。"
+      },
+      {
+        "c": "'Wait for me!' she shrilled.",
+        "cn": "“等等我！”她尖声叫道。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wait for",
+        "cn": "等候"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "waits",
+              "cn": "复数"
+            },
+            {
+              "c": "waits",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "waiting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "waited",
+              "cn": "过去式"
+            },
+            {
+              "c": "waited",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "wait",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "west",
+    "phonetic0": " / west / ",
+    "phonetic1": " / west / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "西，西方；（某个国家、地区或地方的）西部；西方国家 (指美国、加拿大以及西欧、北欧和南欧诸国)（the West)；（美国）西部（尤指密西西比河以西诸州）(the West, the west)；西方（国家）（与东欧前共产主义国家相对的欧洲和北美洲的非共产主义国家）（the West)；（桥牌）坐在西首位置的人"
+      },
+      {
+        "pos": "adj.",
+        "cn": "西方的,向西的；（风）来自西方的；（用于国家、州和地区的名称中）西部的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "向西方，朝西方；……以西"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The wind veered to the west.",
+        "cn": "风向转西。"
+      },
+      {
+        "c": "The sun was sinking in the west.",
+        "cn": "太阳西坠。"
+      },
+      {
+        "c": "We are going west to California.",
+        "cn": "我们将往西去加利福尼亚。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the west",
+        "cn": "在西方，在西方（国家）"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "wests",
+              "cn": "复数"
+            },
+            {
+              "c": "wester",
+              "cn": "比较级"
+            },
+            {
+              "c": "westest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "west",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "wild",
+    "phonetic0": " / waɪld / ",
+    "phonetic1": " / waɪld / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "（动植物）自然生长的，野生的；（土地）无人烟的，未开垦的；（人）未开化的，野蛮的；不受控制的，放荡的；暴风雨的，狂暴的；（做事或说话）轻率的，缺乏根据的；激动人心的；满腔热情的，十分热衷的；感情强烈的（尤指生气、高兴或激动）；（表情、外表等）走神的，不专注的；特别的，怪异的；（纸牌）百搭的；嘈杂混乱的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "自然地，不受控制地"
+      },
+      {
+        "pos": "n.",
+        "cn": "偏远地区，人烟稀少的地区；自然环境，野生状态"
+      },
+      {
+        "pos": "v.",
+        "cn": "野蛮对待，残酷对待"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They went camping in the wild.",
+        "cn": "他们在野外露营。"
+      },
+      {
+        "c": "He was attacked by wild animals.",
+        "cn": "他被野兽袭击了。"
+      },
+      {
+        "c": "She's totally wild about him.",
+        "cn": "她对他简直是着了迷。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the wild",
+        "cn": "在野外，野生的；在自然环境下"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "wilds",
+              "cn": "复数"
+            },
+            {
+              "c": "wilds",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "wilding",
+              "cn": "现在分词"
+            },
+            {
+              "c": "wilded",
+              "cn": "过去式"
+            },
+            {
+              "c": "wilded",
+              "cn": "过去分词"
+            },
+            {
+              "c": "wilder",
+              "cn": "比较级"
+            },
+            {
+              "c": "wildest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "wild",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "wish",
+    "phonetic0": " / wɪʃ / ",
+    "phonetic1": " / wɪʃ / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "希望（做某事），想要（某事发生）；祝，祝愿（某人好运、幸福等）；愿望，心愿；希望（不可能或可能性很小的事变成事实）；真希望（用于表示对做过某事或未做某事感到后悔或失望）；（用来表示对某人行为的厌烦）我希望……；（用于要说的话可能使人不快或担心等时）不想，无意；这是再好不过的，没有比这更好的了；希望……发生在……身上"
+      },
+      {
+        "pos": "n.",
+        "cn": "希望，愿望；（靠魔术实现的）愿望，心愿；（书信或贺卡等中的）祝愿，祝福（wishes）；想要的东西，希望的事；请求，要求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Pa, I wish you wouldn't shout.",
+        "cn": "爸，我但愿你不要嚷嚷了。"
+      },
+      {
+        "c": "The prince's wish came true.",
+        "cn": "王子的愿望实现了。"
+      },
+      {
+        "c": "We wish you every success.",
+        "cn": "我们祝你万事如意。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "best wish",
+        "cn": "美好祝愿"
+      }
+    ],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "wishes",
+              "cn": "复数"
+            },
+            {
+              "c": "wishes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "wishing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "wished",
+              "cn": "过去式"
+            },
+            {
+              "c": "wished",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "wish",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "write",
+    "phonetic0": " / raɪt / ",
+    "phonetic1": " / raɪt / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "写作，编写；写道；写信；书写，写字；谱写（音乐作品）；编写（计算机程序）；将（计算机中的）数据写入（磁盘或其他储存媒体）；填写（表格、支票等），拟定；（笔）能写字；拼写；参加（笔试）；书写，手写（与铅印相对）；以写作为生；承保（保险单）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Write me while you're away.",
+        "cn": "你外出期间给我写信。"
+      },
+      {
+        "c": "He can't read or write.",
+        "cn": "他不会读，不会写。"
+      },
+      {
+        "c": "To whom should I write?",
+        "cn": "我应该把信写给谁？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "write down",
+        "cn": "写下；减低帐面价值；把…描写成"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "写",
+        "ws": [
+          "compose",
+          "record",
+          "inscribe",
+          "jot down",
+          "scribble",
+          "draft",
+          "pen",
+          "author"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "writes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "writing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "wrote",
+              "cn": "过去式"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "write",
+        "d": "古英语 wrītan（刻、画），原指在木头上刻字。"
+      }
+    ]
+  }
+]

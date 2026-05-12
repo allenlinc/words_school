@@ -1,0 +1,7837 @@
+[
+  {
+    "word": "a box of",
+    "phonetic0": "",
+    "phonetic1": "",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "一盒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A box of chocolates will cheer her up.",
+        "cn": "一盒巧克力就会使她振奋起来。"
+      },
+      {
+        "c": "He turned into a box of chocolate.",
+        "cn": "他变成了一盒巧克力。"
+      },
+      {
+        "c": "It's a box of matches.",
+        "cn": "这是一盒火柴。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "a box of",
+        "d": "英语量词表达，由 box（盒子）+ of（的）组成，表示「一盒……」。"
+      }
+    ]
+  },
+  {
+    "word": "any",
+    "phonetic0": " / ˈeni / ",
+    "phonetic1": " / ˈeni / ",
+    "trans": [
+      {
+        "pos": "det.",
+        "cn": "任何的，任一的；一点，些许；不寻常的；尽可能多的，所有的"
+      },
+      {
+        "pos": "pron.",
+        "cn": "任何一个；任何数量，任一数额"
+      },
+      {
+        "pos": "adv.",
+        "cn": "一点，丝毫；压根儿"
+      },
+      {
+        "pos": "adj.",
+        "cn": "任何的，任一的；一点，一些"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd welcome any suggestions.",
+        "cn": "任何建议我都会愉快地接受。"
+      },
+      {
+        "c": "Any delay would be fatal.",
+        "cn": "任何延误都可能导致失败。"
+      },
+      {
+        "c": "Any colour will do.",
+        "cn": "什么颜色都行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "任何的",
+        "ws": [
+          "some",
+          "whichever",
+          "whatever"
+        ]
+      }
+    ],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "any",
+        "d": "古英语 ænig，源自 ān（一个）+ -ig 后缀，原意「任何一个」。"
+      }
+    ]
+  },
+  {
+    "word": "art",
+    "phonetic0": " / ɑːt / ",
+    "phonetic1": " / ɑːrt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "美术，艺术；艺术品；技术，技巧；人文学科；艺术活动（the arts）"
+      },
+      {
+        "pos": "adj.",
+        "cn": "艺术性的"
+      },
+      {
+        "pos": "v.",
+        "cn": "be 的第二人称单数现在式"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She's good at art and design.",
+        "cn": "她擅长美术和设计。"
+      },
+      {
+        "c": "Can we call television art?",
+        "cn": "我们能把电视称作艺术吗？"
+      },
+      {
+        "c": "She's studying art history.",
+        "cn": "她正在研读艺术史。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "contemporary art",
+        "cn": "当代艺术"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "艺术",
+        "ws": [
+          "craft",
+          "skill",
+          "creativity",
+          "artwork",
+          "painting"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "arts",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "arting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "arted",
+              "cn": "过去式"
+            },
+            {
+              "c": "arted",
+              "cn": "过去分词"
+            },
+            {
+              "c": "arts",
+              "cn": "复数"
+            },
+            {
+              "c": "arter",
+              "cn": "比较级"
+            },
+            {
+              "c": "artest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "art",
+        "d": "拉丁语 ars，意为「技能、工艺」，源自原始印欧语 *ar-（适合、连接）。"
+      }
+    ]
+  },
+  {
+    "word": "bathroom",
+    "phonetic0": " / ˈbɑːθruːm; ˈbɑːθrʊm / ",
+    "phonetic1": " / ˈbæθruːm / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "浴室，盥洗室；卫生间，厕所；（尤指成套出售的）浴室用具"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The bathroom floor was awash.",
+        "cn": "浴室地板浸在水中。"
+      },
+      {
+        "c": "I went next door to the bathroom.",
+        "cn": "我进了隔壁的洗手间。"
+      },
+      {
+        "c": "Are you done hogging the bathroom?",
+        "cn": "你要霸占浴室到什么时候？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bathroom accessories",
+        "cn": "浴室配件"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "浴室",
+        "ws": [
+          "restroom",
+          "washroom",
+          "lavatory",
+          "toilet",
+          "WC",
+          "powder room"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "bathrooms",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "bathroom",
+        "d": "由 bath（洗澡）+ room（房间）组成。Bath 源自古英语 bæð（浸泡）。"
+      }
+    ]
+  },
+  {
+    "word": "beautiful",
+    "phonetic0": " / ˈbjuːtɪf(ə)l / ",
+    "phonetic1": " / ˈbjuːtɪf(ə)l / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "美丽的，漂亮的；令人愉悦的，美妙的；（完成得）出色的，极好的；仁慈的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It was a beautiful morning.",
+        "cn": "那是个迷人的早晨。"
+      },
+      {
+        "c": "Yessir, she was beautiful.",
+        "cn": "的确，她很漂亮。"
+      },
+      {
+        "c": "The view was dazzlingly beautiful.",
+        "cn": "景色美得令人目眩神迷。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "so beautiful",
+        "cn": "如此美丽；如此漂亮"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "美丽的",
+        "ws": [
+          "pretty",
+          "lovely",
+          "gorgeous",
+          "attractive",
+          "handsome",
+          "stunning"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "more beautiful",
+              "cn": "比较级"
+            },
+            {
+              "c": "most beautiful",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "beautiful",
+        "d": "由 beauty（美丽）+ -ful（充满）组成。Beauty 源自古法语 beaute，源自拉丁语 bellus（美丽的）。"
+      }
+    ]
+  },
+  {
+    "word": "bedroom",
+    "phonetic0": " / ˈbedruːm / ",
+    "phonetic1": " / ˈbedruːm; ˈbedrʊm / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "卧室"
+      },
+      {
+        "pos": "adj.",
+        "cn": "两性关系的；城郊住宅区的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The main bedroom is enormous.",
+        "cn": "主卧室大极了。"
+      },
+      {
+        "c": "Her bedroom curtains were drawn.",
+        "cn": "她卧室的窗帘拉上了。"
+      },
+      {
+        "c": "We have an extension in the bedroom.",
+        "cn": "我们的卧室里有一个分机。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "master bedroom",
+        "cn": "主卧室"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "卧室",
+        "ws": [
+          "chamber",
+          "sleeping room",
+          "master suite",
+          "boudoir"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "bedrooms",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "bedroom",
+        "d": "由 bed（床）+ room（房间）组成，14世纪开始使用。"
+      }
+    ]
+  },
+  {
+    "word": "bee",
+    "phonetic0": " / biː / ",
+    "phonetic1": " / biː / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "蜜蜂；聚会，联谊赛；工作忙碌的人（busy bee）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The flower opens to reveal a bee.",
+        "cn": "花开了，露出来一只蜜蜂。"
+      },
+      {
+        "c": "A wasp or bee sting is painful but not necessarily serious.",
+        "cn": "被黄蜂或蜜蜂蜇一下疼是疼，但未必碍事。"
+      },
+      {
+        "c": "Her arm was beginning to swell up where the bee had stung her.",
+        "cn": "她胳膊给蜜蜂蜇了，肿了起来。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bee pollen",
+        "cn": "蜂花粉"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "蜜蜂",
+        "ws": [
+          "honeybee",
+          "bumblebee",
+          "drone"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "bees",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "bee",
+        "d": "古英语 bēo，源自原始印欧语 *bʰey-（蜜蜂），拟声词模仿蜂鸣声。"
+      }
+    ]
+  },
+  {
+    "word": "blackboard",
+    "phonetic0": " / ˈblækbɔːd / ",
+    "phonetic1": " / ˈblækbɔːrd / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "黑板"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The menu was on a blackboard.",
+        "cn": "菜单在黑板上。"
+      },
+      {
+        "c": "He chalked the message on the blackboard.",
+        "cn": "他用粉笔把这条消息写在黑板上。"
+      },
+      {
+        "c": "On a blackboard, he drew five concentric circles.",
+        "cn": "他在黑板上画出五个同心圆。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "blackboard eraser",
+        "cn": "n. 黑板擦"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "黑板",
+        "ws": [
+          "chalkboard",
+          "whiteboard",
+          "board"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "blackboards",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "blackboard",
+        "d": "由 black（黑色）+ board（木板）组成，19世纪学校用品。"
+      }
+    ]
+  },
+  {
+    "word": "bowl",
+    "phonetic0": " / bəʊl / ",
+    "phonetic1": " / boʊl / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "碗，盆；一碗之量；碗状物；草地滚球；（草地滚球中的）木球，圆球 ；椭圆形运动场，环形剧场 ；美式足球季后赛；盆地"
+      },
+      {
+        "pos": "v.",
+        "cn": "滚（球，箍或其他圆形物）；（板球等）投球；击中三柱门使（击球手）出局；迅速移动；打保龄球；（打保龄球）得（分）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She served him a bowl of beef stew.",
+        "cn": "她给他端了一碗炖牛肉。"
+      },
+      {
+        "c": "I have a bowl of cereal every morning.",
+        "cn": "我每天早上吃一碗麦片粥。"
+      },
+      {
+        "c": "The glass bowl smashed into a thousand pieces.",
+        "cn": "玻璃碗咣的一声摔了个粉碎。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "super bowl",
+        "cn": "美国橄榄球超级杯大赛"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "碗",
+        "ws": [
+          "dish",
+          "basin",
+          "vessel",
+          "container",
+          "tureen"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "bowls",
+              "cn": "复数"
+            },
+            {
+              "c": "bowls",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "bowling",
+              "cn": "现在分词"
+            },
+            {
+              "c": "bowled",
+              "cn": "过去式"
+            },
+            {
+              "c": "bowled",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "bowl",
+        "d": "古英语 bolla（碗、杯），源自原始日耳曼语 *bullǭ（圆形器皿）。"
+      }
+    ]
+  },
+  {
+    "word": "can",
+    "phonetic0": " / kæn; kən / ",
+    "phonetic1": " / kæn; kən / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "（表示有能力做或能够发生）能，会；（表示可能性）可以，能；（用于请求）能，可以；（表示允许）可以；应该（表示某事该做或不该做）；（用于礼貌地提出帮忙）可以，能；把食品装罐保存；解雇，开除；停止，结束（某事）"
+      },
+      {
+        "pos": "n.",
+        "cn": "罐，听；（装液体、垃圾等带盖的）金属容器，塑料容器；监狱；厕所；臀部；驱逐舰；破坏者"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you last (out) until I can get help?",
+        "cn": "你能支撑到有人来帮我吗？"
+      },
+      {
+        "c": "Drugs can kill.",
+        "cn": "毒品可以致死。"
+      },
+      {
+        "c": "Can you skate?",
+        "cn": "你会滑冰吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "can be",
+        "cn": "可能；可以是"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "modal v.",
+        "cn": "可以",
+        "ws": [
+          "be able to",
+          "may",
+          "might",
+          "could"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "cans",
+              "cn": "复数"
+            },
+            {
+              "c": "canning",
+              "cn": "现在分词"
+            },
+            {
+              "c": "canned",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "can",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "carrot",
+    "phonetic0": " / ˈkærət / ",
+    "phonetic1": " / ˈkærət / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "胡萝卜；（为鼓励某人做某事而作出的）诱人的承诺；红发人（carrots）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Her carrot cake is divine.",
+        "cn": "她的胡萝卜饼好吃极了。"
+      },
+      {
+        "c": "It's never a carrot or a peach.",
+        "cn": "从来没有胡萝卜或桃子。"
+      },
+      {
+        "c": "He made a snowman with a carrot nose!",
+        "cn": "他堆了一个长着胡萝卜鼻子的雪人！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "carrot and stick",
+        "cn": "软硬兼施的；胡萝卜棍棒并用的"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "胡萝卜",
+        "ws": [
+          "root vegetable",
+          "orange vegetable"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "carrots",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "carrot",
+        "d": "拉丁语 carota，源自希腊语 karōton，可能源自原始印欧语 *ker-（角、头）。"
+      }
+    ]
+  },
+  {
+    "word": "chair",
+    "phonetic0": " / tʃeə(r) / ",
+    "phonetic1": " / tʃer / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "椅子；主席，委员长；电椅；大学教授的职位"
+      },
+      {
+        "pos": "v.",
+        "cn": "主席，主持；用椅子把某人高高抬起；使……入座；使就任要职"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Emily edged her chair forward.",
+        "cn": "埃米莉把椅子慢慢地向前挪动。"
+      },
+      {
+        "c": "She sat sideways on the chair.",
+        "cn": "她侧坐在椅子上。"
+      },
+      {
+        "c": "He lumbered back to his chair.",
+        "cn": "他蹒跚地坐回到椅子上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "office chair",
+        "cn": "n. 办公椅"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "椅子",
+        "ws": [
+          "seat",
+          "stool",
+          "bench",
+          "armchair",
+          "throne"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "chairs",
+              "cn": "复数"
+            },
+            {
+              "c": "chairs",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "chairing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "chaired",
+              "cn": "过去式"
+            },
+            {
+              "c": "chaired",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "chair",
+        "d": "拉丁语 cathedra（主教座），源自希腊语 kathedra（座位）。"
+      }
+    ]
+  },
+  {
+    "word": "cheap",
+    "phonetic0": " / tʃiːp / ",
+    "phonetic1": " / tʃiːp / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "便宜的，廉价的；价低质劣的；小气的，吝啬的；卑劣的，可耻的；无足轻重的；简单的，容易获取的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "低价地，便宜地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It wasn't cheap. Anything but.",
+        "cn": "它不便宜。绝对不。"
+      },
+      {
+        "c": "The meal was amazingly cheap.",
+        "cn": "这餐饭便宜得出奇。"
+      },
+      {
+        "c": "The hotel was anything but cheap.",
+        "cn": "这家旅馆根本不便宜。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the cheap",
+        "cn": "便宜地；经济地"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "便宜的",
+        "ws": [
+          "inexpensive",
+          "affordable",
+          "low-cost",
+          "budget",
+          "economical",
+          "bargain"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "cheaper",
+              "cn": "比较级"
+            },
+            {
+              "c": "cheapest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "cheap",
+        "d": "古英语 cēap（交易、购买），原意「价格低的」，源自拉丁语 caupo（小商贩）。"
+      }
+    ]
+  },
+  {
+    "word": "chicken",
+    "phonetic0": " / ˈtʃɪkɪn / ",
+    "phonetic1": " / ˈtʃɪkɪn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "鸡；鸡肉；胆小鬼，懦夫；（儿童玩的）比试胆量的游戏"
+      },
+      {
+        "pos": "adj.",
+        "cn": "没勇气的，胆小的"
+      },
+      {
+        "pos": "v.",
+        "cn": "因害怕而放弃，胆怯（chicken out）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The chicken was only half cooked.",
+        "cn": "鸡只煮了半熟。"
+      },
+      {
+        "c": "Andrew began to carve the chicken.",
+        "cn": "安德鲁动手切鸡肉。"
+      },
+      {
+        "c": "Luke munched the chicken sandwiches.",
+        "cn": "卢克大声嚼着鸡肉三明治。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fried chicken",
+        "cn": "n. 炸鸡"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "鸡",
+        "ws": [
+          "hen",
+          "rooster",
+          "fowl",
+          "poultry",
+          "chick"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "chickens",
+              "cn": "复数"
+            },
+            {
+              "c": "chickens",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "chickening",
+              "cn": "现在分词"
+            },
+            {
+              "c": "chickened",
+              "cn": "过去式"
+            },
+            {
+              "c": "chickened",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "chicken",
+        "d": "古英语 cicen，源自原始日耳曼语 *kiukīną（小鸡），拟声词。"
+      }
+    ]
+  },
+  {
+    "word": "chopstick",
+    "phonetic0": " / ˈtʃɒpstɪk / ",
+    "phonetic1": " / ˈtʃɑːpstɪk / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "筷子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Though the chopstick is the quintessential cutlery choice throughout most of Asia.",
+        "cn": "筷子是亚洲大部分国家最典型的餐具选择。"
+      },
+      {
+        "c": "Resting chopsticks on the side of one's bowl or on a chopstick stand signifies one is merely taking a break from eating.",
+        "cn": "将筷子放在碗的侧面或筷子架上表示他只是休息一下。"
+      },
+      {
+        "c": "Bamboo groves they harvested to sell to toy and chopstick makers shriveled and died.",
+        "cn": "他们过去卖给玩具和筷子制造商的毛竹都枯死了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "筷子",
+        "ws": [
+          "chopsticks",
+          "eating utensils"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "chopsticks",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "chopstick",
+        "d": "洋泾浜英语，由 chop（快）+ stick（棍）组成。Chop 源自粤语「急」。"
+      }
+    ]
+  },
+  {
+    "word": "class",
+    "phonetic0": " / klɑːs / ",
+    "phonetic1": " / klæs / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "班级；（一节）课，上课时间；（某一科目的）课程；阶级，阶层；等级划分，等级制度；（货物、服务或人的）等级，类别；（飞机、火车等的）舱位等级，车厢等级；品味；同届毕业生；（英国大学的）学位等级；（生物）（植物或动物分类的）纲；（比赛的）组别"
+      },
+      {
+        "pos": "v.",
+        "cn": "把……归类，把……看作；把……编入某一班级；属于……类（或等级），被列为某类（或某级）"
+      },
+      {
+        "pos": "adj.",
+        "cn": "优秀的，出色的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I've joined an aerobics class.",
+        "cn": "我参加了有氧健身班。"
+      },
+      {
+        "c": "The class burst out laughing.",
+        "cn": "全班爆发出笑声。"
+      },
+      {
+        "c": "I'm taking a typing class.",
+        "cn": "我在上一个打字班。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in class",
+        "cn": "在课堂上；上课中"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "班级",
+        "ws": [
+          "lesson",
+          "course",
+          "grade",
+          "group",
+          "category"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "classes",
+              "cn": "复数"
+            },
+            {
+              "c": "classes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "classing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "classed",
+              "cn": "过去式"
+            },
+            {
+              "c": "classed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "class",
+        "d": "拉丁语 classis（等级、舰队），源自 calare（召集）。"
+      }
+    ]
+  },
+  {
+    "word": "classroom",
+    "phonetic0": " / ˈklɑːsruːm / ",
+    "phonetic1": " / ˈklæsruːm / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "教室"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She'd sent him outside the classroom.",
+        "cn": "她叫他到教室外面去。"
+      },
+      {
+        "c": "The classroom teacher must be sensitive to a child's needs.",
+        "cn": "课堂教师必须理解孩子的需求。"
+      },
+      {
+        "c": "The corner of the classroom was damp where the roof had leaked.",
+        "cn": "教室漏雨的一角是湿的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the classroom",
+        "cn": "在教室里"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "教室",
+        "ws": [
+          "schoolroom",
+          "lecture hall",
+          "study room"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "classrooms",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "classroom",
+        "d": "由 class（班级）+ room（房间）组成，19世纪教育术语。"
+      }
+    ]
+  },
+  {
+    "word": "clear the table",
+    "phonetic0": "",
+    "phonetic1": "",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "收拾桌子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm going to clear the table.",
+        "cn": "我要去收拾餐桌。"
+      },
+      {
+        "c": "But I helped clear the table there!",
+        "cn": "但我有在他家清桌子啊！"
+      },
+      {
+        "c": "Will you clear the table?",
+        "cn": "把桌子清理干净好吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "clear the table",
+        "d": "英语习语，由 clear（清理）+ the table（桌子）组成，指用餐后收拾餐桌的行为。"
+      }
+    ]
+  },
+  {
+    "word": "clock",
+    "phonetic0": " / klɒk / ",
+    "phonetic1": " / klɑːk / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "时钟，时钟的；考勤钟（the clock）；里程表（the clock）；（比赛）计时器，时间段（the clock）；速度计（the clock）；（尤指蒲公英的）绒毛头；人脸；（电脑）启动与同步内部操作的电子装置"
+      },
+      {
+        "pos": "v.",
+        "cn": "达到，记录下（一定时间，距离，速度）；记录（时间，速度）；打卡；注意；痛打，狠揍；回拨里程表作弊；获（胜）；需时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The clock has just struck three.",
+        "cn": "时钟刚刚敲过三点。"
+      },
+      {
+        "c": "The clock showed midnight.",
+        "cn": "时钟显示已是午夜。"
+      },
+      {
+        "c": "The clock struck the hour.",
+        "cn": "钟敲过整点了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "alarm clock",
+        "cn": "闹钟"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "钟",
+        "ws": [
+          "timepiece",
+          "watch",
+          "chronometer",
+          "timer"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "clocks",
+              "cn": "复数"
+            },
+            {
+              "c": "clocks",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "clocking",
+              "cn": "现在分词"
+            },
+            {
+              "c": "clocked",
+              "cn": "过去式"
+            },
+            {
+              "c": "clocked",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "clock",
+        "d": "中古荷兰语 clocke（钟），源自拉丁语 clocca，拟声词模仿钟声。"
+      }
+    ]
+  },
+  {
+    "word": "clothes",
+    "phonetic0": " / kləʊðz / ",
+    "phonetic1": " / kloʊðz / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "衣服，衣物；（在特定场合、特定时间或由特定人群穿着的）服装，礼服；被褥"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She wears really funky clothes.",
+        "cn": "她穿的衣服真是时髦又独特。"
+      },
+      {
+        "c": "She makes all her own clothes.",
+        "cn": "她的衣服都是自己做。"
+      },
+      {
+        "c": "His clothes were in tatters.",
+        "cn": "他的衣服破旧不堪。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "clothes rack",
+        "cn": "衣架"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "衣服",
+        "ws": [
+          "clothing",
+          "garments",
+          "attire",
+          "apparel",
+          "dress",
+          "outfit"
+        ]
+      }
+    ],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "clothes",
+        "d": "古英语 clāþas（布料），源自原始日耳曼语 *klaiþaz。"
+      }
+    ]
+  },
+  {
+    "word": "cow",
+    "phonetic0": " / kaʊ / ",
+    "phonetic1": " / kaʊ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "母牛，奶牛；雌性动物；讨厌的人（或事物、情况）"
+      },
+      {
+        "pos": "v.",
+        "cn": "恐吓，威胁"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A cow stood on the tracks.",
+        "cn": "一头奶牛站在铁轨上。"
+      },
+      {
+        "c": "A mature cow has horns.",
+        "cn": "成年母牛头上长有角。"
+      },
+      {
+        "c": "The cow says \"moo-moo.\"",
+        "cn": "奶牛“哞哞”叫。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "milk cow",
+        "cn": "奶牛；乳牛"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "牛",
+        "ws": [
+          "cattle",
+          "bovine",
+          "heifer",
+          "calf",
+          "bull"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "cows",
+              "cn": "复数"
+            },
+            {
+              "c": "cows",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "cowing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "cowed",
+              "cn": "过去式"
+            },
+            {
+              "c": "cowed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "cow",
+        "d": "古英语 cū，源自原始印欧语 *gʷṓws（牛），最古老的词汇之一。"
+      }
+    ]
+  },
+  {
+    "word": "dear",
+    "phonetic0": " / dɪə(r) / ",
+    "phonetic1": " / dɪr / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "珍视的；(用于信函抬头名字或头衔前)亲爱的；昂贵的"
+      },
+      {
+        "pos": "n.",
+        "cn": "（称呼所爱的人）亲爱的"
+      },
+      {
+        "pos": "int.",
+        "cn": "啊，天呐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Would you like a drink, dear?",
+        "cn": "喝点什么吗，亲爱的？"
+      },
+      {
+        "c": "My dear girl, you're wrong.",
+        "cn": "我亲爱的姑娘，你错了。"
+      },
+      {
+        "c": "You're a lot like me, dear.",
+        "cn": "你和我太像了，亲爱的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dear friend",
+        "cn": "亲密朋友"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "亲爱的",
+        "ws": [
+          "beloved",
+          "loved",
+          "precious",
+          "darling",
+          "sweetheart",
+          "cherished"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "dears",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "dear",
+        "d": "古英语 dēore（珍贵的），源自原始日耳曼语 *deurijaz。"
+      }
+    ]
+  },
+  {
+    "word": "delicious",
+    "phonetic0": " / dɪˈlɪʃəs / ",
+    "phonetic1": " / dɪˈlɪʃəs / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "美味的，芬芳的；令人愉快的，宜人的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He served up a delicious meal.",
+        "cn": "他端上一顿可口的饭菜。"
+      },
+      {
+        "c": "She served us a delicious lunch.",
+        "cn": "她招待我们吃了一顿可口的午餐。"
+      },
+      {
+        "c": "They serve the most delicious roast beef.",
+        "cn": "他们做最美味的烤牛肉。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "delicious food",
+        "cn": "美味食品"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "美味的",
+        "ws": [
+          "tasty",
+          "yummy",
+          "scrumptious",
+          "flavorful",
+          "delectable",
+          "appetizing",
+          "savory"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "more delicious",
+              "cn": "比较级"
+            },
+            {
+              "c": "most delicious",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "delicious",
+        "d": "拉丁语 deliciosus（令人愉悦的），源自 deliciae（愉悦、快乐）。"
+      }
+    ]
+  },
+  {
+    "word": "desk",
+    "phonetic0": " / desk / ",
+    "phonetic1": " / desk / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "书桌，办公桌，写字台；服务台，问询台；（办理某项业务的）部门；乐谱架，演奏者席；（报社）编辑部"
+      },
+      {
+        "pos": "adj.",
+        "cn": "书桌的，桌上适合用的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The desk looked undisturbed.",
+        "cn": "那张书桌子看上去没有被动过。"
+      },
+      {
+        "c": "A phone trilled on the desk.",
+        "cn": "办公桌上的电话丁零零地响了。"
+      },
+      {
+        "c": "She was sitting at her desk.",
+        "cn": "她坐在书桌前。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "information desk",
+        "cn": "服务台，问询处"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "书桌",
+        "ws": [
+          "table",
+          "workstation",
+          "bench",
+          "counter",
+          "bureau"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "desks",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "desk",
+        "d": "拉丁语 discus（圆盘、桌面），源自希腊语 diskos。"
+      }
+    ]
+  },
+  {
+    "word": "dinner",
+    "phonetic0": " / ˈdɪnə(r) / ",
+    "phonetic1": " / ˈdɪnər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "正餐，晚餐；晚宴，宴会；速食饭，方便饭"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dinner was in two sittings.",
+        "cn": "晚餐有两个就餐时段。"
+      },
+      {
+        "c": "They've asked me to dinner.",
+        "cn": "他们已邀请我吃饭。"
+      },
+      {
+        "c": "I puked up my dinner.",
+        "cn": "我把吃的饭都吐了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "after dinner",
+        "cn": "餐后；晚餐后"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "晚餐",
+        "ws": [
+          "supper",
+          "evening meal",
+          "feast",
+          "banquet"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "dinners",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "dinner",
+        "d": "古法语 disner（早餐），源自拉丁语 disjejunare（打破斋戒）。"
+      }
+    ]
+  },
+  {
+    "word": "door",
+    "phonetic0": " / dɔː(r) / ",
+    "phonetic1": " / dɔːr / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "门；门口，门道；建筑，门户 ；（尤与 open 或 unlock 连用）机会，可能性"
+      },
+      {
+        "pos": "v.",
+        "cn": "车门撞击（骑自行车经过的人）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The door opens outwards.",
+        "cn": "这个门向外开。"
+      },
+      {
+        "c": "The door opens inwards.",
+        "cn": "门向里开。"
+      },
+      {
+        "c": "The door squeaked open.",
+        "cn": "门嘎吱一声开了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at the door",
+        "cn": "在门边"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "门",
+        "ws": [
+          "gate",
+          "entrance",
+          "portal",
+          "gateway",
+          "entry",
+          "exit"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "doors",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "door",
+        "d": "古英语 duru，源自原始印欧语 *dʰwer-（门、入口）。"
+      }
+    ]
+  },
+  {
+    "word": "expensive",
+    "phonetic0": " / ɪkˈspensɪv / ",
+    "phonetic1": " / ɪkˈspensɪv / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "花钱多的，昂贵的；（错误或决定）代价高的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Food was scarce and expensive.",
+        "cn": "食物匮乏而且昂贵。"
+      },
+      {
+        "c": "Skiing gear can be expensive.",
+        "cn": "滑雪用具有时会很昂贵。"
+      },
+      {
+        "c": "They are very expensive, I presume?",
+        "cn": "我想这些东西很贵吧？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "less expensive",
+        "cn": "adj. 比较便宜的"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "昂贵的",
+        "ws": [
+          "costly",
+          "pricey",
+          "dear",
+          "high-priced",
+          "overpriced",
+          "luxurious",
+          "valuable"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "more expensive",
+              "cn": "比较级"
+            },
+            {
+              "c": "most expensive",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "expensive",
+        "d": "拉丁语 expensivus，源自 expendere（支付、花费），ex-（出）+ pendere（称重、支付）。"
+      }
+    ]
+  },
+  {
+    "word": "fan",
+    "phonetic0": " / fæn / ",
+    "phonetic1": " / fæn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "风扇，扇子；粉丝，狂热爱好者；扇形；（使风车头迎风的）风叶；（山坡脚下的）地带"
+      },
+      {
+        "pos": "v.",
+        "cn": "扇，为……扇风；煽（火）；煽动，激起；（击球手）三击不中出局；（呼吸，微风）吹拂；驱散，扇走；击球不中"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He is a fanatical fan of Mozart.",
+        "cn": "他是一名莫扎特音乐的狂热爱好者。"
+      },
+      {
+        "c": "The fan revolved slowly.",
+        "cn": "电扇缓慢地转动着。"
+      },
+      {
+        "c": "She installed a wall-mounted electric fan.",
+        "cn": "她装了一台墙壁式电扇。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fan in",
+        "cn": "n. 扇入端数"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "风扇",
+        "ws": [
+          "ventilator",
+          "blower",
+          "air conditioner"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "fans",
+              "cn": "复数"
+            },
+            {
+              "c": "fans",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "fanning",
+              "cn": "现在分词"
+            },
+            {
+              "c": "fanned",
+              "cn": "过去式"
+            },
+            {
+              "c": "fanned",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "fan",
+        "d": "拉丁语 vannus（簸箕），后指风扇、爱好者（fanatic 缩写）。"
+      }
+    ]
+  },
+  {
+    "word": "feed",
+    "phonetic0": " / fiːd / ",
+    "phonetic1": " / fiːd / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "饲养，喂养，为……提供食物；以……为食物，吃食；提供（意见或信息等），灌输；施肥；添加燃料；把……放进机器，将……塞进机器；加深，强化；使（缓慢平稳地）移动，使穿过（有限的空间）；维持，满足（习惯）；传球；流入，进入"
+      },
+      {
+        "pos": "n.",
+        "cn": "哺乳，喂养；动物的饲料，植物的肥料；（机器的）进料装置；（机器、设备的）原料供给；（卫星或网络）转播，（信号）传输；（计算机）订阅源；（给舞台演员的）提词，提白；丰盛的一餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Slugs and snails feed at night.",
+        "cn": "蛞蝓和蜗牛夜间进食。"
+      },
+      {
+        "c": "Can you feed the cat, please?",
+        "cn": "请你喂一下猫好吗？"
+      },
+      {
+        "c": "The printer has an automatic paper feed.",
+        "cn": "这台打印机有自动进纸装置。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "feed oneself",
+        "cn": "自己吃"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "喂养",
+        "ws": [
+          "nourish",
+          "provide for",
+          "sustain",
+          "supply",
+          "cater",
+          "give food to"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "feeds",
+              "cn": "复数"
+            },
+            {
+              "c": "feeds",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "feeding",
+              "cn": "现在分词"
+            },
+            {
+              "c": "fed",
+              "cn": "过去式"
+            },
+            {
+              "c": "fed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "feed",
+        "d": "古英语 fēdan，与 fōda（食物）同源，源自原始日耳曼语 *fōdijaną（喂养）。"
+      }
+    ]
+  },
+  {
+    "word": "feel",
+    "phonetic0": " / fiːl / ",
+    "phonetic1": " / fiːl / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "感受到，体会到；觉得，相信；使人感觉……；察觉到，意识到；触摸；受到；摸索；有知觉，能感知……"
+      },
+      {
+        "pos": "n.",
+        "cn": "感觉，气氛；触觉，手感；触摸；感知，理解；熟练使用；特性，特质"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I feel dizzy and disorientated.",
+        "cn": "我感到头晕目眩，找不到方向。"
+      },
+      {
+        "c": "I feel absolutely terrific today!",
+        "cn": "我今天的感觉真是好极了！"
+      },
+      {
+        "c": "I feel quite exhausted.",
+        "cn": "我感到筋疲力尽。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "feel oneself",
+        "cn": "镇定；感觉很好；觉得身体正常"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "感觉",
+        "ws": [
+          "sense",
+          "perceive",
+          "experience",
+          "touch",
+          "detect"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "feels",
+              "cn": "复数"
+            },
+            {
+              "c": "feels",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "feeling",
+              "cn": "现在分词"
+            },
+            {
+              "c": "felt",
+              "cn": "过去式"
+            },
+            {
+              "c": "felt",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "feel",
+        "d": "古英语 fēlan，源自原始日耳曼语 *fōlijaną（触摸、感觉）。"
+      }
+    ]
+  },
+  {
+    "word": "first",
+    "phonetic0": " / fɜːst / ",
+    "phonetic1": " / fɜːrst / ",
+    "trans": [
+      {
+        "pos": "det.",
+        "cn": "第一位的，最先的；首（次）的；（某一时间或某事后的）紧接着来到的；（一列中）最前面的；最重要的；（用于工作或职位的头衔中）最高的；最迫切的，最合适的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "第一，最初；起初；第一次；（列举时用）首先；（强调不愿意）宁可；以身体的某一部位（或某人）在先（或为首）"
+      },
+      {
+        "pos": "n.",
+        "cn": "第一个人（或事物)；前所未有的事情；（汽车、自行车等的）最低档；（英国大学学位）最高成绩；（棒球）第一垒；一等品"
+      },
+      {
+        "pos": "pron.",
+        "cn": "第一次"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We're expecting our first baby.",
+        "cn": "我们要生第一个孩子了。"
+      },
+      {
+        "c": "She won the first hole.",
+        "cn": "她在第一洞时领先。"
+      },
+      {
+        "c": "He landed feet first.",
+        "cn": "他落地时双脚先着地。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "first time",
+        "cn": "第一次；第一时间"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "num.",
+        "cn": "第一",
+        "ws": [
+          "initial",
+          "primary",
+          "foremost",
+          "original",
+          "earliest",
+          "leading"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "firsts",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "first",
+        "d": "古英语 fyrst，源自原始日耳曼语 *furistaz（最前面的）。"
+      }
+    ]
+  },
+  {
+    "word": "follow",
+    "phonetic0": " / ˈfɒləʊ / ",
+    "phonetic1": " / ˈfɑːloʊ / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "跟着，跟随；跟踪；（时间或顺序）在……后；循着，沿着（道路等）；沿着……伸延；遵循，听从；仿效，追随；理解，明白；可以推断；注视，密切关注；信奉，信仰；（电影、书等）呈现，描述；从事（行业、职业）"
+      },
+      {
+        "pos": "n.",
+        "cn": "跟随，追随"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She signalled him to follow.",
+        "cn": "她示意他跟她走。"
+      },
+      {
+        "c": "If you lead, I'll follow.",
+        "cn": "你领头，我跟着。"
+      },
+      {
+        "c": "Sorry—I don't quite follow.",
+        "cn": "对不起，我不太听懂你的话。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "follow up",
+        "cn": "跟踪；坚持完成；继续做某事"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "跟随",
+        "ws": [
+          "pursue",
+          "trail",
+          "track",
+          "shadow",
+          "tail",
+          "chase",
+          "succeed",
+          "observe"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "follows",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "following",
+              "cn": "现在分词"
+            },
+            {
+              "c": "followed",
+              "cn": "过去式"
+            },
+            {
+              "c": "followed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "follow",
+        "d": "古英语 folgian（跟随），源自原始日耳曼语 *fulgijaną。"
+      }
+    ]
+  },
+  {
+    "word": "food",
+    "phonetic0": " / fuːd / ",
+    "phonetic1": " / fuːd / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（植物生长的）养料；食物，食品"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Food was scarce and expensive.",
+        "cn": "食物匮乏而且昂贵。"
+      },
+      {
+        "c": "Food aid is urgently needed.",
+        "cn": "迫切需要食物援助。"
+      },
+      {
+        "c": "Food stocks are running low.",
+        "cn": "贮存的食物快吃完了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "food industry",
+        "cn": "食品工业，食品产业"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "食物",
+        "ws": [
+          "nourishment",
+          "sustenance",
+          "provisions",
+          "fare",
+          "cuisine",
+          "meals",
+          "edibles"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "foods",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "food",
+        "d": "古英语 fōda，源自原始日耳曼语 *fōdô（食物、滋养）。"
+      }
+    ]
+  },
+  {
+    "word": "fork",
+    "phonetic0": " / fɔːk / ",
+    "phonetic1": " / fɔːrk / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "餐叉，叉子；耙，叉；岔路，支流；叉状部件，叉状物；（棋）一捉两，一捉多"
+      },
+      {
+        "pos": "v.",
+        "cn": "（道路、河流等）分岔，岔开；（用餐叉）叉起；耙地，叉掘；（不情愿地）大把花钱，付出；走岔路中的一条；用一个棋子同时进攻（两个棋子）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She stabbed the air with her fork.",
+        "cn": "她用叉子在空中比画。"
+      },
+      {
+        "c": "She popped a balloon with her fork.",
+        "cn": "她用叉子把气球砰的一声戳爆了。"
+      },
+      {
+        "c": "He poked at the spaghetti with a fork.",
+        "cn": "他用叉子拨弄着面条。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "knife and fork",
+        "cn": "刀叉"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "叉子",
+        "ws": [
+          "prong",
+          "utensil",
+          "cutlery"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "forks",
+              "cn": "复数"
+            },
+            {
+              "c": "forks",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "forking",
+              "cn": "现在分词"
+            },
+            {
+              "c": "forked",
+              "cn": "过去式"
+            },
+            {
+              "c": "forked",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "fork",
+        "d": "拉丁语 furca（叉子、叉形桩），可能源自原始印欧语。"
+      }
+    ]
+  },
+  {
+    "word": "free",
+    "phonetic0": " / friː / ",
+    "phonetic1": " / friː / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "免费的；自由的；随心所欲的；不含..…的；免于，不遭受；空闲的；未使用的，空着的；无阻碍的；不拘泥于原文的；游离的；不吝惜的；干净整洁的；不含……的；（风）顺的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "自由地；免费地；帆脚索被松开地"
+      },
+      {
+        "pos": "v.",
+        "cn": "释放；使解脱出来；使免于；使可用于；使能腾出时间"
+      },
+      {
+        "pos": "n.",
+        "cn": "自由转会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ample free parking is available.",
+        "cn": "有宽敞的免费停车场。"
+      },
+      {
+        "c": "Delivery is free of charge.",
+        "cn": "免费送货。"
+      },
+      {
+        "c": "The newspaper is distributed free.",
+        "cn": "这份报纸免费发送。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "for free",
+        "cn": "免费"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "自由的",
+        "ws": [
+          "liberated",
+          "unrestricted",
+          "independent",
+          "unbound",
+          "unfettered",
+          "emancipated"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "frees",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "freeing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "freed",
+              "cn": "过去式"
+            },
+            {
+              "c": "freed",
+              "cn": "过去分词"
+            },
+            {
+              "c": "freer",
+              "cn": "比较级"
+            },
+            {
+              "c": "freest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "free",
+        "d": "古英语 frēo，源自原始日耳曼语 *frijaz（自由的、被爱的）。"
+      }
+    ]
+  },
+  {
+    "word": "get up",
+    "phonetic0": " / ɡet ʌp / ",
+    "phonetic1": " / ɡet ʌp / ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "起床"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "\"Brigid!\" she screamed. \"Get up!\"",
+        "cn": "“布里吉德！”她尖声叫道。“起床！”"
+      },
+      {
+        "c": "I generally get up at six.",
+        "cn": "我一般六点钟起床。"
+      },
+      {
+        "c": "We've got to get up early, all right?",
+        "cn": "我们得早起床，可以吧？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "get up",
+        "d": "英语短语，由 get（变成）+ up（向上）组成，表示从躺卧或坐着的位置站起来。"
+      }
+    ]
+  },
+  {
+    "word": "go home",
+    "phonetic0": "",
+    "phonetic1": "",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "回家"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Come on, it's time to go home.",
+        "cn": "快点，该回家了。"
+      },
+      {
+        "c": "Let's go home—it's getting late.",
+        "cn": "咱们回家吧，时间不早了。"
+      },
+      {
+        "c": "Come (my) dearest, let's go home.",
+        "cn": "好啦，亲爱的，咱们回家吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "go home",
+        "d": "英语短语，由 go（去）+ home（家）组成，最基本的日常表达之一。"
+      }
+    ]
+  },
+  {
+    "word": "go to bed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "上床睡觉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You'd better go to bed and nurse that cold.",
+        "cn": "你最好上床睡觉，把感冒治好。"
+      },
+      {
+        "c": "I think it's time to go to bed.",
+        "cn": "我想该睡觉了。"
+      },
+      {
+        "c": "She was the last to go to bed.",
+        "cn": "她是最后一个睡觉的人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "go to bed",
+        "d": "英语短语，由 go to（前往）+ bed（床）组成，表示就寝的日常表达。"
+      }
+    ]
+  },
+  {
+    "word": "go to school",
+    "phonetic0": "",
+    "phonetic1": "",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "去上学"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She will have to go to school.",
+        "cn": "她将不得不去上学。"
+      },
+      {
+        "c": "You've got to go to school, whether you like it or not.",
+        "cn": "不管你喜欢不喜欢，你得上学。"
+      },
+      {
+        "c": "Some children can read and write before they go to school.",
+        "cn": "有些孩子在上学前就会看书写字了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "go to school",
+        "d": "英语短语，由 go to（前往）+ school（学校）组成。School 源自希腊语 scholē（闲暇、学习）。"
+      }
+    ]
+  },
+  {
+    "word": "green bean",
+    "phonetic0": " / ˌɡriːn ˈbiːn / ",
+    "phonetic1": " / ˌɡriːn ˈbiːn / ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "绿豆；四季豆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Asian populations in Seattle enjoy green bean, red bean and taro ice creams.",
+        "cn": "在西雅图的亚洲人喜欢绿豆、红豆和香芋口味的冰淇淋。"
+      },
+      {
+        "c": "Asian populations in Seattle enjoy green bean, red bean and taro flavor ice creams.",
+        "cn": "在西雅图生活的亚洲人喜欢绿豆、红豆和香芋口味的冰淇淋。"
+      },
+      {
+        "c": "Virgins are open to new food ideas, so serve them cornbread stuffing and green bean casserole.",
+        "cn": "处女座的人很容易接受新食物概念，所以给他们提供玉米面包填料和青豆砂锅。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "green bean",
+        "d": "由 green（绿色的）+ bean（豆）组成。Bean 源自古英语 bēan。"
+      }
+    ]
+  },
+  {
+    "word": "hand out",
+    "phonetic0": " / hænd aʊt / ",
+    "phonetic1": " / hænd aʊt / ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "分发"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "One of my jobs was to hand out the prizes.",
+        "cn": "我的工作之一是分发奖品。"
+      },
+      {
+        "c": "His job is to hand out food and clothes.",
+        "cn": "他的工作是分发食物和衣服。"
+      },
+      {
+        "c": "Could you help me hand out these papers, please?",
+        "cn": "你能帮我分发这些文件吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "hand out",
+        "d": "英语短语，由 hand（手）+ out（出去）组成，原意「用手递出」。"
+      }
+    ]
+  },
+  {
+    "word": "hard",
+    "phonetic0": " / hɑːd / ",
+    "phonetic1": " / hɑːrd / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "硬的，坚固的；困难的；困苦的，艰苦的；费力的，努力的；坚强的，勇敢的；猛烈的，用力的；冷酷的，严厉的；寒冷的，凛冽的；可证实的，确凿的；刺眼的，（感觉上）难受的；（水）硬的；烈性的，强烈的；（酒）苦涩的；仔细的，认真的；严肃的；强壮的；（政治上）极端的；发硬音的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "努力地，费力地；用力地，猛烈地；仔细地，认真地；沉重地，大量地；变硬；在最大程度上"
+      },
+      {
+        "pos": "n.",
+        "cn": "海滩路"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She tried extra hard.",
+        "cn": "她特别努力。"
+      },
+      {
+        "c": "He succinctly summed up his manifesto as \"Work hard, train hard and play hard.\"",
+        "cn": "他把自己的宣言简明地概括成了“努力工作，努力训练，努力玩耍。”"
+      },
+      {
+        "c": "The Geography paper was hard.",
+        "cn": "地理试题难极了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hard work",
+        "cn": "努力工作；繁重的工作"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "困难的",
+        "ws": [
+          "difficult",
+          "challenging",
+          "tough",
+          "demanding",
+          "stiff",
+          "arduous",
+          "rigid",
+          "solid"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "harder",
+              "cn": "比较级"
+            },
+            {
+              "c": "hardest",
+              "cn": "最高级"
+            },
+            {
+              "c": "hards",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "hard",
+        "d": "古英语 heard，源自原始日耳曼语 *harduz（坚硬的、强烈的）。"
+      }
+    ]
+  },
+  {
+    "word": "hat",
+    "phonetic0": " / hæt / ",
+    "phonetic1": " / hæt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（常指带檐的）帽子；（双重的）职位，角色"
+      },
+      {
+        "pos": "v.",
+        "cn": "给……戴上帽子；供应帽子，制造帽子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I look ridiculous in this hat.",
+        "cn": "我戴这顶帽子看上去很可笑。"
+      },
+      {
+        "c": "He wouldn't take his hat off.",
+        "cn": "他不愿脱下他的帽子。"
+      },
+      {
+        "c": "She pulled her hat straight.",
+        "cn": "她把帽子拉正了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wear a hat",
+        "cn": "[俚语]"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "帽子",
+        "ws": [
+          "cap",
+          "headgear",
+          "helmet",
+          "bonnet",
+          "beret"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "hats",
+              "cn": "复数"
+            },
+            {
+              "c": "hats",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "hatting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "hatted",
+              "cn": "过去式"
+            },
+            {
+              "c": "hatted",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "hat",
+        "d": "古英语 hæt，源自原始日耳曼语 *hattuz（帽子、兜帽）。"
+      }
+    ]
+  },
+  {
+    "word": "helpful",
+    "phonetic0": " / ˈhelpf(ə)l / ",
+    "phonetic1": " / ˈhelpf(ə)l / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "有帮助的，有用的；愿意帮忙的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She made helpful comments on my work.",
+        "cn": "她对我的工作提出了有益的意见。"
+      },
+      {
+        "c": "Role-play is helpful in developing communication skills.",
+        "cn": "角色扮演有助于提高沟通技巧。"
+      },
+      {
+        "c": "Sorry I can't be more helpful.",
+        "cn": "对不起，我帮不上更多的忙。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "有帮助的",
+        "ws": [
+          "useful",
+          "beneficial",
+          "valuable",
+          "constructive",
+          "supportive",
+          "advantageous"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "more helpful",
+              "cn": "比较级"
+            },
+            {
+              "c": "most helpful",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "helpful",
+        "d": "help + -ful（充满），表示「有帮助的」。"
+      }
+    ]
+  },
+  {
+    "word": "herself",
+    "phonetic0": " / hɜːˈself / ",
+    "phonetic1": " / hɜːrˈself / ",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "她自己（she 的反身代词）；她亲自"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She dabbed herself with scent.",
+        "cn": "她在自己身上擦了点香水。"
+      },
+      {
+        "c": "\"Come on,\" she told herself.",
+        "cn": "“加油，”她叮嘱自己。"
+      },
+      {
+        "c": "Dee talked incessantly about herself.",
+        "cn": "迪伊滔滔不绝地谈论她自己。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "by herself",
+        "cn": "她自己；她独立地"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "pron.",
+        "cn": "她自己",
+        "ws": [
+          "her own self",
+          "personally"
+        ]
+      }
+    ],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "herself",
+        "d": "古英语 hire self，由 her（她的）+ self（自己）组成。"
+      }
+    ]
+  },
+  {
+    "word": "homework",
+    "phonetic0": " / ˈhəʊmwɜːk / ",
+    "phonetic1": " / ˈhoʊmwɜːrk / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（学生的）家庭作业；准备工作；（尤指低酬劳计件活）在家里做的活计"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much homework do you get?",
+        "cn": "你有多少家庭作业？"
+      },
+      {
+        "c": "He let us off homework today.",
+        "cn": "他今天免了我们的家庭作业。"
+      },
+      {
+        "c": "I'll do my homework after supper.",
+        "cn": "晚饭后我要做家庭作业。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "do my homework",
+        "cn": "做作业"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "作业",
+        "ws": [
+          "assignment",
+          "task",
+          "schoolwork",
+          "preparation",
+          "exercise"
+        ]
+      }
+    ],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "homework",
+        "d": "home + work（在家做的工作），20世纪教育术语。"
+      }
+    ]
+  },
+  {
+    "word": "horse",
+    "phonetic0": " / hɔːs / ",
+    "phonetic1": " / hɔːrs / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "马；赛马；跳马，鞍马；锯木架；马力；主力队员；海洛因；夹块，夹石；骑兵"
+      },
+      {
+        "pos": "v.",
+        "cn": "给（人或车辆）提供马；使骑马"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This horse needs firm handling.",
+        "cn": "这匹马需要严加训练。"
+      },
+      {
+        "c": "The horse plunged and reared.",
+        "cn": "马猛然跃起，用后腿直立。"
+      },
+      {
+        "c": "Madigan's horse pawed the ground.",
+        "cn": "马迪根的马刨了地。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dark horse",
+        "cn": "黑马（出人意外获胜的赛马或参赛人）；（美）[政]“黑马”候选人（常因各方妥协而意外获得提名或当选）"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "马",
+        "ws": [
+          "steed",
+          "mare",
+          "stallion",
+          "pony",
+          "colt",
+          "equine",
+          "nag"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "horses",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "horsing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "horsed",
+              "cn": "过去式"
+            },
+            {
+              "c": "horsed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "horse",
+        "d": "古英语 hors，源自原始日耳曼语 *hrussą（马）。"
+      }
+    ]
+  },
+  {
+    "word": "hurry up",
+    "phonetic0": " / 'hʌrɪ ʌp / ",
+    "phonetic1": " / 'hɜːrɪ ʌp / ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "赶快"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "For Gawd's sake hurry up!",
+        "cn": "看在上帝的份上快点吧！"
+      },
+      {
+        "c": "Oh you're so slow; come on, hurry up!",
+        "cn": "哎哟，你可真慢；加把劲，快点！"
+      },
+      {
+        "c": "I wish the bus would hurry up and come.",
+        "cn": "我希望公共汽车能快点来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "hurry up",
+        "d": "英语短语，hurry 可能源自拟声词（匆忙的呼啸声），up 表示动作完成。"
+      }
+    ]
+  },
+  {
+    "word": "jacket",
+    "phonetic0": " / ˈdʒækɪt / ",
+    "phonetic1": " / ˈdʒækɪt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "夹克衫，短上衣；书皮，护封； 马铃薯皮；（机器或设备的）绝热罩，隔离罩；碟片套；（海上采油平台的）支架"
+      },
+      {
+        "pos": "v.",
+        "cn": "给……装护套；给……穿短上衣；打"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is your jacket real leather?",
+        "cn": "你的夹克是真皮的吗？"
+      },
+      {
+        "c": "The knife sliced his jacket.",
+        "cn": "那把刀划破了他的上衣。"
+      },
+      {
+        "c": "I zipped and buttoned my jacket.",
+        "cn": "我把夹克的拉链拉上，系好扣子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "leather jacket",
+        "cn": "皮夹克"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "夹克",
+        "ws": [
+          "coat",
+          "blazer",
+          "anorak",
+          "windbreaker",
+          "outerwear"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "jackets",
+              "cn": "复数"
+            },
+            {
+              "c": "jackets",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "jacketing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "jacketed",
+              "cn": "过去式"
+            },
+            {
+              "c": "jacketed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "jacket",
+        "d": "古法语 jaquet（小上衣），源自 Jacques（雅克，农夫名）。"
+      }
+    ]
+  },
+  {
+    "word": "just",
+    "phonetic0": " / dʒʌst / ",
+    "phonetic1": " / dʒʌst / ",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "正好，恰好；正当……时；不少于，同样；差一点就不，勉强；刚才，刚刚；正在，正要；只是，仅仅是；确实，完全；请，就；可能，也许；表示赞同"
+      },
+      {
+        "pos": "adj.",
+        "cn": "正义的，公平的；应得的，合理的；正确的，精确的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We've only just arrived.",
+        "cn": "我们刚到。"
+      },
+      {
+        "c": "We've just redecorated.",
+        "cn": "我们刚刚重新装修过。"
+      },
+      {
+        "c": "She just won't relax.",
+        "cn": "她就是不放松。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "just like",
+        "cn": "就像，正如"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "正好",
+        "ws": [
+          "exactly",
+          "precisely",
+          "merely",
+          "simply",
+          "only",
+          "barely",
+          "recently",
+          "fair"
+        ]
+      }
+    ],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "just",
+        "d": "拉丁语 justus（公正的），源自 jus（法律、权利），后引申为「恰好」。"
+      }
+    ]
+  },
+  {
+    "word": "kid",
+    "phonetic0": " / kɪd / ",
+    "phonetic1": " / kɪd / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "小孩，年轻人；小山羊；小山羊皮革"
+      },
+      {
+        "pos": "v.",
+        "cn": "戏弄，开玩笑；欺骗，哄骗；（山羊）分娩"
+      },
+      {
+        "pos": "adj.",
+        "cn": "较年幼的；小山羊皮制的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She's a bright kid.",
+        "cn": "她是个聪明孩子。"
+      },
+      {
+        "c": "'Oh, she's just a kid,' he said scathingly.",
+        "cn": "“咳，她还是个孩子呢。”他尖刻地挖苦道。"
+      },
+      {
+        "c": "The kid can read words, but did miserably on the test.",
+        "cn": "这孩子能认字，但考试时却一塌糊涂。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "no kidding",
+        "cn": "说真的，不要开玩笑"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "小孩",
+        "ws": [
+          "child",
+          "youngster",
+          "toddler",
+          "infant",
+          "youth",
+          "minor",
+          "little one"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "kids",
+              "cn": "复数"
+            },
+            {
+              "c": "kids",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "kidding",
+              "cn": "现在分词"
+            },
+            {
+              "c": "kidded",
+              "cn": "过去式"
+            },
+            {
+              "c": "kidded",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "kid",
+        "d": "中古英语 kide（小山羊），后引申为「小孩」。"
+      }
+    ]
+  },
+  {
+    "word": "kitchen",
+    "phonetic0": " / ˈkɪtʃɪn / ",
+    "phonetic1": " / ˈkɪtʃɪn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "厨房；一套厨具；管弦乐队中的打击乐器组；（语言）不标准的，俚俗的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Her kitchen was kept immaculate.",
+        "cn": "她的厨房保持得一尘不染。"
+      },
+      {
+        "c": "Set the kitchen timer going.",
+        "cn": "启动厨房定时器。"
+      },
+      {
+        "c": "The kitchen is a good size.",
+        "cn": "这厨房相当大。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "kitchen table",
+        "cn": "餐桌；案桌；厨房台"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "厨房",
+        "ws": [
+          "cookhouse",
+          "galley",
+          "cookery",
+          "scullery",
+          "pantry"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "kitchens",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "kitchen",
+        "d": "拉丁语 coquina（烹饪处），源自 coquere（烹饪）。"
+      }
+    ]
+  },
+  {
+    "word": "knife",
+    "phonetic0": " / naɪf / ",
+    "phonetic1": " / naɪf / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "餐刀；刀子，刀具，匕首；手术刀"
+      },
+      {
+        "pos": "v.",
+        "cn": "用刀伤害（或杀害）；如刀般划过"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He held the knife by its blade.",
+        "cn": "他握住了刀刃。"
+      },
+      {
+        "c": "This knife needs sharpening.",
+        "cn": "这把刀需要磨了。"
+      },
+      {
+        "c": "The knife sliced his jacket.",
+        "cn": "那把刀划破了他的上衣。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "knife and fork",
+        "cn": "刀叉"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "刀",
+        "ws": [
+          "blade",
+          "cutter",
+          "dagger",
+          "scalpel",
+          "carver"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "knives",
+              "cn": "复数"
+            },
+            {
+              "c": "knifes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "knifing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "knifed",
+              "cn": "过去式"
+            },
+            {
+              "c": "knifed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "knife",
+        "d": "古英语 cnīf，源自古诺斯语 knīfr。"
+      }
+    ]
+  },
+  {
+    "word": "large",
+    "phonetic0": " / lɑːdʒ / ",
+    "phonetic1": " / lɑːrdʒ / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "（尺寸、范围、容量）大的；广泛的，重要的；身材高大的；（公司或组织）大规模的"
+      },
+      {
+        "pos": "n.",
+        "cn": "大号，同类中最大者"
+      },
+      {
+        "pos": "v.",
+        "cn": "（尤指跳舞和饮酒）作乐，狂欢"
+      },
+      {
+        "pos": "adv.",
+        "cn": "夸大地；大大地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She now directs a large choir.",
+        "cn": "她目前担任一个大合唱团的指挥。"
+      },
+      {
+        "c": "He was smoking a large cigar.",
+        "cn": "他正抽着一支大雪茄。"
+      },
+      {
+        "c": "She was holding a large box.",
+        "cn": "她提着一只大箱子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "large number",
+        "cn": "大量；多位数"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "大的",
+        "ws": [
+          "big",
+          "huge",
+          "enormous",
+          "massive",
+          "giant",
+          "sizable",
+          "substantial",
+          "immense"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "larges",
+              "cn": "复数"
+            },
+            {
+              "c": "larges",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "larging",
+              "cn": "现在分词"
+            },
+            {
+              "c": "larged",
+              "cn": "过去式"
+            },
+            {
+              "c": "larged",
+              "cn": "过去分词"
+            },
+            {
+              "c": "larger",
+              "cn": "比较级"
+            },
+            {
+              "c": "largest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "large",
+        "d": "拉丁语 largus（丰富的、慷慨的），后引申为「大的」。"
+      }
+    ]
+  },
+  {
+    "word": "late",
+    "phonetic0": " / leɪt / ",
+    "phonetic1": " / leɪt / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "晚期的，末期的；晚的，迟的；近日暮的，近深夜的；已故的；不久前的，最近的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "晚，迟；（时间上）接近终了，在晚年；临近日暮，接近午夜；（时间上）接近终了，临近末了，在晚年"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They're nearly always late.",
+        "cn": "他们几乎总是迟到。"
+      },
+      {
+        "c": "She's late again—typical!",
+        "cn": "她又迟到了，一贯如此！"
+      },
+      {
+        "c": "Come along! We're late.",
+        "cn": "快点！我们迟到了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "of late",
+        "cn": "adv. 最近；近来"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "晚的",
+        "ws": [
+          "tardy",
+          "delayed",
+          "behind",
+          "overdue",
+          "belated",
+          "last-minute"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "later",
+              "cn": "比较级"
+            },
+            {
+              "c": "latest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "late",
+        "d": "古英语 læt（慢的、迟的），源自原始日耳曼语 *lataz。"
+      }
+    ]
+  },
+  {
+    "word": "light",
+    "phonetic0": " / laɪt / ",
+    "phonetic1": " / laɪt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "光，光线；光源（如电灯）；某种光亮；交通信号灯；车灯；打火机，点火器； 角度，（事物呈现的）状态；眼光，处世标准（lights）；（对问题的）了解，启迪；眼神；亮色，浅色；窗，天窗，采光口；直棂窗窗玻璃上的竖框；杰出的人，有声望的人；（字谜游戏中的）待填空格"
+      },
+      {
+        "pos": "adj.",
+        "cn": "浅色的，淡色的；采光好的，光线足的；天亮的，白天的；轻的，不重的；分量不足的；轻型的，轻便的；少量的，程度低的；不严厉的；（风）轻柔的；轻声的；（碰触）轻轻的；不累的，轻松的；不严肃的，愉快的；单薄的，不保暖的；（睡眠）不深的，易醒的；（饭食）简单的；酒精含量低的，低度酒的；（食物）清淡的，易消化的；（食物）松软的；（土地）轻质的；（字体）细体的"
+      },
+      {
+        "pos": "v.",
+        "cn": "（使）照亮；（使）燃烧，点燃；用光指引；点烟"
+      },
+      {
+        "pos": "adv.",
+        "cn": "（旅行）轻装地；轻地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Suddenly a warning light blinked.",
+        "cn": "突然有一盏警告灯开始闪烁。"
+      },
+      {
+        "c": "A light breeze was blowing.",
+        "cn": "轻风习习。"
+      },
+      {
+        "c": "This pastry is so light.",
+        "cn": "这种酥皮糕点可真松软啊。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the light of",
+        "cn": "根据，按照；当作"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "光",
+        "ws": [
+          "illumination",
+          "brightness",
+          "glow",
+          "radiance",
+          "beam",
+          "ray",
+          "shimmer"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "lights",
+              "cn": "复数"
+            },
+            {
+              "c": "lights",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "lighting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "lighter",
+              "cn": "比较级"
+            },
+            {
+              "c": "lightest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "light",
+        "d": "古英语 lēoht，源自原始印欧语 *lewk-（光、明亮）。"
+      }
+    ]
+  },
+  {
+    "word": "list",
+    "phonetic0": " / lɪst / ",
+    "phonetic1": " / lɪst / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "列表，清单；（船）倾侧；围栏；（织物的）镶边；渴望，喜好；（尤指按重要程度排列的）事物清单；赛场，战场"
+      },
+      {
+        "pos": "v.",
+        "cn": "列清单，拟订清单；把……列入名单；（使）（公司）上市；标价；（船）倾斜；征召（士兵）；想要，喜好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Double-space the entire list.",
+        "cn": "隔行写整个清单。"
+      },
+      {
+        "c": "I am already on your mailing list.",
+        "cn": "我已经列在你的邮寄名单上了。"
+      },
+      {
+        "c": "Princess Anne topped the guest list.",
+        "cn": "安妮公主的名字位于来宾名单之首。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a list of",
+        "cn": "一览表，清单；一列"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "清单",
+        "ws": [
+          "catalog",
+          "inventory",
+          "register",
+          "roster",
+          "index",
+          "enumeration",
+          "checklist"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "lists",
+              "cn": "复数"
+            },
+            {
+              "c": "lists",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "listing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "listed",
+              "cn": "过去式"
+            },
+            {
+              "c": "listed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "list",
+        "d": "古英语 liste（边缘、条带），后指「列出清单」。源自原始日耳曼语 *listōn。"
+      }
+    ]
+  },
+  {
+    "word": "living room",
+    "phonetic0": " / 'lɪvɪŋ ru:m / ",
+    "phonetic1": " / ˈlɪvɪŋ ruːm / ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "客厅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The living room is tiny.",
+        "cn": "这间起居室极小。"
+      },
+      {
+        "c": "I'd like the use of your living room, if I may.",
+        "cn": "如果可以，我想用用你的起居室。"
+      },
+      {
+        "c": "I vacuumed and dusted and polished the living room.",
+        "cn": "我把起居室吸了尘、掸了灰并且擦亮了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "living room",
+        "d": "由 living（生活）+ room（房间）组成，20世纪开始使用的家居术语。"
+      }
+    ]
+  },
+  {
+    "word": "loud",
+    "phonetic0": " / laʊd / ",
+    "phonetic1": " / laʊd / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "大声的，响亮的；（人或举止）吵闹的，聒噪的；大声疾呼的，坚定的；（衣服）花哨的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "大声地，响亮地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Suddenly there was a loud bang.",
+        "cn": "突然发出砰的一声巨响。"
+      },
+      {
+        "c": "A loud bang made me jump.",
+        "cn": "砰的一声巨响吓我一跳。"
+      },
+      {
+        "c": "She gave a loud hiccup.",
+        "cn": "她打了一个响嗝。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "out loud",
+        "cn": "响亮地；大声地"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "大声的",
+        "ws": [
+          "noisy",
+          "blaring",
+          "booming",
+          "thunderous",
+          "deafening",
+          "clamorous",
+          "strident"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "louder",
+              "cn": "比较级"
+            },
+            {
+              "c": "loudest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "loud",
+        "d": "古英语 hlūd，源自原始印欧语 *ḱlew-（听、闻名），与 listen 同源。"
+      }
+    ]
+  },
+  {
+    "word": "lunch",
+    "phonetic0": " / lʌntʃ / ",
+    "phonetic1": " / lʌntʃ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "午餐，午饭"
+      },
+      {
+        "pos": "v.",
+        "cn": "（尤指在餐馆）用午餐；请（人）吃午餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The court adjourned for lunch.",
+        "cn": "午餐时间法庭休庭。"
+      },
+      {
+        "c": "Lunch was a leisurely affair.",
+        "cn": "吃午餐曾是一件从容的事。"
+      },
+      {
+        "c": "When's lunch? I'm famished!",
+        "cn": "什么时候吃午饭？我饿得要死了！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "have lunch",
+        "cn": "吃午饭，吃午餐"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "午餐",
+        "ws": [
+          "midday meal",
+          "noon meal",
+          "brunch",
+          "luncheon"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "lunches",
+              "cn": "复数"
+            },
+            {
+              "c": "lunches",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "lunching",
+              "cn": "现在分词"
+            },
+            {
+              "c": "lunched",
+              "cn": "过去式"
+            },
+            {
+              "c": "lunched",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "lunch",
+        "d": "luncheon 的缩写，可能源自 lump（块）+ -tion，指一块食物。"
+      }
+    ]
+  },
+  {
+    "word": "maths",
+    "phonetic0": " / mæθs / ",
+    "phonetic1": " / mæθs / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "数学（等于 mathematics）"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Maths）人名；（瑞典）马茨"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Naomi got a distinction in maths.",
+        "cn": "娜奥米的数学得了优等。"
+      },
+      {
+        "c": "Pupils are streamed for French and Maths.",
+        "cn": "学生上法语和数学课时按能力分成小组。"
+      },
+      {
+        "c": "Surprisingly, maths was voted their favourite subject.",
+        "cn": "令人吃惊的是，数学被评为他们喜爱的科目。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "math problem",
+        "cn": "数学题"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "数学",
+        "ws": [
+          "mathematics",
+          "arithmetic",
+          "calculation",
+          "numeracy"
+        ]
+      }
+    ],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "maths",
+        "d": "mathematics 的缩写，希腊语 mathēmatikē（学问），源自 manthanein（学习）。"
+      }
+    ]
+  },
+  {
+    "word": "milk",
+    "phonetic0": " / mɪlk / ",
+    "phonetic1": " / mɪlk / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（牛或羊等的）奶；奶汁，母乳；乳液（用于清洁或保护皮肤）；（椰子等植物的）白色汁液"
+      },
+      {
+        "pos": "v.",
+        "cn": "挤奶；榨取，勒索；充分利用；迎合（观众）；（动物，尤指母牛）产奶，出奶；从……抽取液汁（或毒液等）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She's gone for some milk.",
+        "cn": "她买牛奶去了。"
+      },
+      {
+        "c": "We've run short of milk.",
+        "cn": "我们牛奶不够了。"
+      },
+      {
+        "c": "This milk has gone sour.",
+        "cn": "这牛奶馊了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "milk powder",
+        "cn": "n. 奶粉"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "牛奶",
+        "ws": [
+          "dairy",
+          "cream",
+          "lactose",
+          "buttermilk"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "milk",
+              "cn": "复数"
+            },
+            {
+              "c": "milks",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "milking",
+              "cn": "现在分词"
+            },
+            {
+              "c": "milked",
+              "cn": "过去式"
+            },
+            {
+              "c": "milked",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "milk",
+        "d": "古英语 meolc，源自原始印欧语 *melǵ-（挤奶）。"
+      }
+    ]
+  },
+  {
+    "word": "minute",
+    "phonetic0": " / ˈmɪnɪt / ",
+    "phonetic1": " / ˈmɪnɪt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "分，分钟；片刻，一会儿，瞬间；时刻；一分钟的路程；分（角度单位，即六十分之一度）；会议记录；摘要，备忘录"
+      },
+      {
+        "pos": "adj.",
+        "cn": "极小的，微小的；详细的，细致入微的"
+      },
+      {
+        "pos": "v.",
+        "cn": "将（某事）写进会议记录；发送备忘录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They arrived barely a minute later.",
+        "cn": "过了不到一分钟他们就到了。"
+      },
+      {
+        "c": "You don't need to minute that.",
+        "cn": "你不必记录那些。"
+      },
+      {
+        "c": "Could I see you for a minute?",
+        "cn": "我能见你一下吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "every minute",
+        "cn": "n. 完全，彻底；时时刻刻"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "分钟",
+        "ws": [
+          "moment",
+          "instant",
+          "second",
+          "flash",
+          "sixty seconds"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "minutes",
+              "cn": "复数"
+            },
+            {
+              "c": "minutes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "minuting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "minuted",
+              "cn": "过去式"
+            },
+            {
+              "c": "minuted",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "minute",
+        "d": "拉丁语 minutus（小的），源自 minuere（减少），指一小时的第一小部分。"
+      }
+    ]
+  },
+  {
+    "word": "mouse",
+    "phonetic0": " / maʊs / ",
+    "phonetic1": " / maʊs / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "老鼠；鼠标；安静害羞的人；浅棕灰色，鼠皮色；（尤指眼部或其附近的）青肿"
+      },
+      {
+        "pos": "v.",
+        "cn": "（猫，猫头鹰）捕鼠；用鼠标在计算机屏幕上移动光标"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He moves the cursor, clicks the mouse.",
+        "cn": "他移动光标，点击鼠标。"
+      },
+      {
+        "c": "The mouse ran away, squeaking with fear.",
+        "cn": "那只老鼠吓得尖叫着溜了。"
+      },
+      {
+        "c": "A cat often plays with a mouse before the kill.",
+        "cn": "猫在咬死老鼠之前常常要耍弄它一番。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "mouse button",
+        "cn": "鼠标按钮"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "老鼠",
+        "ws": [
+          "rodent",
+          "rat",
+          "vermin"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "mouses",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "mousing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "moused",
+              "cn": "过去式"
+            },
+            {
+              "c": "moused",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "mouse",
+        "d": "古英语 mūs，源自原始印欧语 *múh₂s（老鼠）。"
+      }
+    ]
+  },
+  {
+    "word": "music",
+    "phonetic0": " / ˈmjuːzɪk / ",
+    "phonetic1": " / ˈmjuːzɪk / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "音乐，乐曲；乐谱；悦耳的声音；音乐（学），音乐创作（或演奏）技能"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They played some Cajun music.",
+        "cn": "他们演奏了几曲美国路易斯安纳州法国后裔的音乐。"
+      },
+      {
+        "c": "The music is irresistible.",
+        "cn": "这段音乐非常有感染力。"
+      },
+      {
+        "c": "Music boomed out from loudspeakers.",
+        "cn": "扬声器传出了低沉响亮的音乐。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pop music",
+        "cn": "流行音乐"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "音乐",
+        "ws": [
+          "melody",
+          "tune",
+          "harmony",
+          "song",
+          "rhythm",
+          "sound",
+          "symphony",
+          "composition"
+        ]
+      }
+    ],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "music",
+        "d": "希腊语 mousikē（缪斯的艺术），源自 Mousa（缪斯，艺术女神）。"
+      }
+    ]
+  },
+  {
+    "word": "newspaper",
+    "phonetic0": " / ˈnjuːzpeɪpə(r) / ",
+    "phonetic1": " / ˈnuːzpeɪpər / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "报纸，报；报社；（尤指用作他途的）旧报纸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "May I borrow your newspaper?",
+        "cn": "把你的报纸借我看行吗？"
+      },
+      {
+        "c": "Give us the newspaper, will you?",
+        "cn": "把报纸给我好吗？"
+      },
+      {
+        "c": "He was carrying a newspaper.",
+        "cn": "他正拿着一份报纸。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the newspaper",
+        "cn": "在报纸上"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "报纸",
+        "ws": [
+          "paper",
+          "daily",
+          "gazette",
+          "journal",
+          "tabloid",
+          "broadsheet",
+          "periodical"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "newspapers",
+              "cn": "复数"
+            },
+            {
+              "c": "newspapers",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "newspapering",
+              "cn": "现在分词"
+            },
+            {
+              "c": "newspapered",
+              "cn": "过去式"
+            },
+            {
+              "c": "newspapered",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "newspaper",
+        "d": "new + paper，17世纪出现的新闻出版物。"
+      }
+    ]
+  },
+  {
+    "word": "over",
+    "phonetic0": " / ˈəʊvə(r) / ",
+    "phonetic1": " / ˈoʊvər / ",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "向下，倒下；翻过，翻转；越过；超过，以上；完全覆盖；在上方；剩下，余下；再，又；改变，掉换；结束，完；去，到（某处）；很，太；仔细地；度过一段时间"
+      },
+      {
+        "pos": "prep.",
+        "cn": "盖在……上面；悬在……上面；从一边到另一边；翻越；在……的对面；从……落下；遍及；超过，多于；控制，支配；在……期间；渡过（难关等）；由于，关于；利用，通过；声音大于；胜过，优于；尽管；漏掉，略过；除以"
+      },
+      {
+        "pos": "n.",
+        "cn": "（板球）一轮投球"
+      },
+      {
+        "pos": "adj.",
+        "cn": "结束的；剩下的"
+      },
+      {
+        "pos": "v.",
+        "cn": "越过"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He's over 50.",
+        "cn": "他已年过半百。"
+      },
+      {
+        "c": "Over the last decade, auto theft has increased by over 56 percent.",
+        "cn": "过去的10年来汽车盗窃案上升了56％以上。"
+      },
+      {
+        "c": "He plays the same songs over and over.",
+        "cn": "他反复演奏同样的几首歌曲。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "all over",
+        "cn": "到处，遍及；浑身；全部结束"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "prep.",
+        "cn": "在……上方",
+        "ws": [
+          "above",
+          "on top of",
+          "across",
+          "beyond",
+          "past"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "overs",
+              "cn": "复数"
+            },
+            {
+              "c": "overs",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "overing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "overed",
+              "cn": "过去式"
+            },
+            {
+              "c": "overed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "over",
+        "d": "古英语 ofer，源自原始印欧语 *upér（在上面）。"
+      }
+    ]
+  },
+  {
+    "word": "pair",
+    "phonetic0": " / peə(r) / ",
+    "phonetic1": " / per / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（成双的两物品）一对，一双；（由两个相连的类似部分组成的）一套，一副；两个共事（或有特殊关系）的人；（成对物的）另一只，（搭档的）另一人；（交配的）一对动物；两匹并排驾车的马；对子（指两张同点的纸牌）；（议会中）相约放弃投票权的敌对两党的两名议员（或其中一名）"
+      },
+      {
+        "pos": "v.",
+        "cn": "使成对，配对；（使）结成一对（恋人）（pair off/up）；（动物）交配（=pair up）；使（敌对两党的两名议员）组成不投票的一对"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Maximo put on a pair of glasses.",
+        "cn": "马克西莫戴上了一副眼镜。"
+      },
+      {
+        "c": "I need a new pair of specs.",
+        "cn": "我需要一副新眼镜。"
+      },
+      {
+        "c": "The vase is one of a matching pair.",
+        "cn": "这只花瓶是一对中的一只。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pair of",
+        "cn": "一对；一双"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "一双",
+        "ws": [
+          "couple",
+          "duo",
+          "twosome",
+          "set of two",
+          "brace"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "pairs",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "pairing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "paired",
+              "cn": "过去式"
+            },
+            {
+              "c": "paired",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "pair",
+        "d": "拉丁语 paria（相等的东西），源自 par（相等的）。"
+      }
+    ]
+  },
+  {
+    "word": "pass",
+    "phonetic0": " / pɑːs / ",
+    "phonetic1": " / pæs / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "经过，穿过；传递，传送；传（球）；（所有权）转移，转让；（状态）转变；（数量上）超过，突破；（时间）流逝；度过，消磨；通过（考试、课程等）；批准（法律或议案）；发生，说过；略过（问题）；排泄；使（货币等）流通；结束，停止；拒绝邀请（提议）；宣布，声明；（纸牌等游戏中）不叫，过"
+      },
+      {
+        "pos": "n.",
+        "cn": "出入证，通行证；及格，合格；传球；山道，山口；阶段，步骤；（计算机）一次浏览，一次扫描；越过；变戏法；（击剑中的）戳刺；（不好的）境遇，处境；（桥牌）不叫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She timed the pass perfectly.",
+        "cn": "她传球的时机掌握得恰到好处。"
+      },
+      {
+        "c": "He's determined to pass this time.",
+        "cn": "这一回他决心要考及格。"
+      },
+      {
+        "c": "They waited for the storm to pass.",
+        "cn": "他们等待暴风雨过去。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pass through",
+        "cn": "穿过…；通过…"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "通过",
+        "ws": [
+          "go by",
+          "move past",
+          "overtake",
+          "succeed",
+          "transfer"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "passes",
+              "cn": "复数"
+            },
+            {
+              "c": "passes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "passing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "passed",
+              "cn": "过去式"
+            },
+            {
+              "c": "passed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "pass",
+        "d": "拉丁语 passus（步、步伐），后引申为「通过」。"
+      }
+    ]
+  },
+  {
+    "word": "pick",
+    "phonetic0": " / pɪk / ",
+    "phonetic1": " / pɪk / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "采，摘（花、果）；（用手指）弄掉；找茬；捡，抱起；选择；弹，拨（弦）；撬开（锁），扒窃……中的东西；小心走路（~ one's way）；（反复地）拔，拉，撕，扯；没胃口地吃；（高尔夫）拾球（尤指认输的拾球）（~ up）；采，摘（花、果等）"
+      },
+      {
+        "pos": "n.",
+        "cn": "精华（the pick of）；选择，选择权；被选中的人（或事物）；鹤嘴锄；（吉他的）拨子；（尖状的）挖撬工具；（篮球）掩护"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She bent to pick a red rose.",
+        "cn": "她弯下腰摘了一朵红玫瑰。"
+      },
+      {
+        "c": "I'll pick you up at five.",
+        "cn": "我五点钟来接你。"
+      },
+      {
+        "c": "The winner gets first pick of the prizes.",
+        "cn": "获胜者可先挑奖品。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pick up",
+        "cn": "捡起；获得；收拾"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "摘",
+        "ws": [
+          "choose",
+          "select",
+          "gather",
+          "collect",
+          "pluck",
+          "harvest"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "picks",
+              "cn": "复数"
+            },
+            {
+              "c": "picks",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "picking",
+              "cn": "现在分词"
+            },
+            {
+              "c": "picked",
+              "cn": "过去式"
+            },
+            {
+              "c": "picked",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "pick",
+        "d": "古英语 pician，可能源自原始日耳曼语 *pikkōną（刺、摘）。"
+      }
+    ]
+  },
+  {
+    "word": "pig",
+    "phonetic0": " / pɪɡ / ",
+    "phonetic1": " / pɪɡ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "猪；令人讨厌的人，猪猡；警官（侮辱性用语）；难办的事，不愉快的事；贪吃的人；生铁块，生铅锭；清管器"
+      },
+      {
+        "pos": "v.",
+        "cn": "狼吞虎咽；像猪一样挤在一起；（母猪）生小猪；（在石油或天然气管道中）操作清管器"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The pig rose squealing and bolted.",
+        "cn": "那头猪尖叫着站起来，飞快地跑开了。"
+      },
+      {
+        "c": "Wild boar readily hybridizes with the domestic pig.",
+        "cn": "野猪很容易和家猪杂交。"
+      },
+      {
+        "c": "\"A talking pig!\" he exclaimed. \"Well, I'll be darned.\"",
+        "cn": "“一头会说话的猪！”他惊叫到，“啊，我太惊奇了”。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in pig",
+        "cn": "(母猪)怀小猪的；[俚语]怀孕的"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "猪",
+        "ws": [
+          "swine",
+          "hog",
+          "sow",
+          "boar",
+          "piglet",
+          "pork"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "pigs",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "pigging",
+              "cn": "现在分词"
+            },
+            {
+              "c": "pigged",
+              "cn": "过去式"
+            },
+            {
+              "c": "pigged",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "pig",
+        "d": "古英语 picg，词源不明。"
+      }
+    ]
+  },
+  {
+    "word": "potato",
+    "phonetic0": " / pəˈteɪtəʊ / ",
+    "phonetic1": " / pəˈteɪtoʊ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "马铃薯，土豆，洋芋；马铃薯植株；（尤指脚后跟部的）袜子破洞"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The boiled potato was mealy.",
+        "cn": "这个煮土豆干巴巴的。"
+      },
+      {
+        "c": "On the menu is wiener schnitzel and potato salad.",
+        "cn": "菜单上有维也纳炸小牛排和土豆沙拉。"
+      },
+      {
+        "c": "All main courses are served with chips or baked potato.",
+        "cn": "所有的主菜都配有炸土豆条或烤土豆。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sweet potato",
+        "cn": "甘薯"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "土豆",
+        "ws": [
+          "spud",
+          "tuber",
+          "tater",
+          "sweet potato"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "potatoes",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "potato",
+        "d": "西班牙语 patata，源自泰诺语（海地原住民）batata（甘薯）。"
+      }
+    ]
+  },
+  {
+    "word": "ready",
+    "phonetic0": " / ˈredi / ",
+    "phonetic1": " / ˈredi / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "（某人）准备好（做某事）的；预先备好的，可供使用的；乐意的；方便使用的，现成的；迅速的，敏捷的；即将……的；需要的，想要的"
+      },
+      {
+        "pos": "n.",
+        "cn": "现款（the ready/readies）；预备好的状态"
+      },
+      {
+        "pos": "adv.",
+        "cn": "已做完，已完成"
+      },
+      {
+        "pos": "v.",
+        "cn": "做好……的准备"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Everybody ready? It's showtime!",
+        "cn": "大家都准备好了吗？开演！"
+      },
+      {
+        "c": "She's upstairs getting ready.",
+        "cn": "她在楼上做准备。"
+      },
+      {
+        "c": "Cameras ready? OK, shoot!",
+        "cn": "摄影机准备好了吗？好，开拍！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ready for something",
+        "cn": "准备做(某事)"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "准备好的",
+        "ws": [
+          "prepared",
+          "set",
+          "equipped",
+          "organized",
+          "primed",
+          "all set"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "readies",
+              "cn": "复数"
+            },
+            {
+              "c": "readies",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "readying",
+              "cn": "现在分词"
+            },
+            {
+              "c": "readied",
+              "cn": "过去式"
+            },
+            {
+              "c": "readied",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "ready",
+        "d": "古英语 ræde（准备好的），源自 rīdan（骑马准备）。"
+      }
+    ]
+  },
+  {
+    "word": "rule",
+    "phonetic0": " / ruːl / ",
+    "phonetic1": " / ruːl / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "规章，条例；（语言、科学等的）规则，法则；行事准则，指导方针；常规，惯常做法；统治，管辖；尺，直尺；铅线印出的线，破折号； 澳大利亚式橄榄球规则（两队各18人参赛）"
+      },
+      {
+        "pos": "v.",
+        "cn": "统治，管辖；支配，控制；占首要地位；（尤指对法律问题）判定，裁定；（用尺等）划（线）； 好极了，非常棒；（行星）对（黄道十二宫图的宫，房子，生活等）有影响；（价格或贸易商品的价格）普遍处于某一水平（或坚挺趋势）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That's a good rule to go by.",
+        "cn": "那是要遵守的好规则。"
+      },
+      {
+        "c": "He continued to rule the country de facto.",
+        "cn": "实际上，他继续统治着这个国家。"
+      },
+      {
+        "c": "The new rule will be applied retrospectively.",
+        "cn": "新的规定将具有追溯效力。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "rules and regulations",
+        "cn": "规章制度"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "规则",
+        "ws": [
+          "regulation",
+          "law",
+          "guideline",
+          "principle",
+          "standard",
+          "code",
+          "policy"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "rules",
+              "cn": "复数"
+            },
+            {
+              "c": "rules",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "ruling",
+              "cn": "现在分词"
+            },
+            {
+              "c": "ruled",
+              "cn": "过去式"
+            },
+            {
+              "c": "ruled",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "rule",
+        "d": "拉丁语 regula（直尺、规则），源自 regere（统治、引导）。"
+      }
+    ]
+  },
+  {
+    "word": "run",
+    "phonetic0": " / rʌn / ",
+    "phonetic1": " / rʌn / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "跑，奔跑；参加（赛跑），举行（比赛）；跑垒，持球跑动进攻；奔忙，赶快去；管理，经营，使用（车辆）；（使）运转，操作；刊登，播放；（使）行驶；（使）移动，揉擦；闯红灯；（使）流动，流淌；掉色，渗色；变成，变得；达到（一定数量或比率）；（对……）进行（测试或检验）；参加竞选；（连裤袜、长统袜）抽丝，脱线；（使）延伸；（感觉或想法）掠过，迅速传遍；包含（某种词语、内容等）；持续，延续；偷运，走私；印刷；（特征）共有，世代相传（run in）；（物品，行动）花费（某人）（特定数额的钱）"
+      },
+      {
+        "pos": "n.",
+        "cn": "跑步，赛跑；旅程，航程；一系列（成功或失败）；连续上演（或放映）；尝试，努力；额定产量；抛售（美元、英镑等）；争购，挤兑；滑道，路径；（板球或棒球中的）得分；使用自由，出入自由（the run of）；竞选；普通人，普通事物；饲养场；急奏，走句；顺子；腹泻（the runs）；（长统袜或连裤袜的）抽丝；（油漆或类似物刷得过厚引起的）挂流，小溪；（航海）船尾端部"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I can't run any faster.",
+        "cn": "我不能跑得更快了。"
+      },
+      {
+        "c": "Engines won't run without lubricants.",
+        "cn": "没有润滑油发动机就不能运转。"
+      },
+      {
+        "c": "'Run!' he shouted.",
+        "cn": "“跑！”他大喊一声。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the long run",
+        "cn": "长远；终究"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "跑",
+        "ws": [
+          "sprint",
+          "jog",
+          "race",
+          "dash",
+          "hurry",
+          "gallop",
+          "rush",
+          "speed"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "runs",
+              "cn": "复数"
+            },
+            {
+              "c": "runs",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "running",
+              "cn": "现在分词"
+            },
+            {
+              "c": "ran",
+              "cn": "过去式"
+            },
+            {
+              "c": "run",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "run",
+        "d": "古英语 rinnan，源自原始印欧语 *h₃ri-néw-（流动、跑）。"
+      }
+    ]
+  },
+  {
+    "word": "safe",
+    "phonetic0": " / seɪf / ",
+    "phonetic1": " / seɪf / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "安全的，平安的；不损害（或危害）健康的；谨慎的；（地点或局势）安全的；不会丢失，不会被拿走； 不错的；不致引起争议的，有把握的；（棒球）成功上垒的；（选举中席位）十拿九稳的；无风险的，稳妥的"
+      },
+      {
+        "pos": "n.",
+        "cn": "保险箱； 阴茎套，安全套；纱橱"
+      },
+      {
+        "pos": "int.",
+        "cn": "嗨，喂（年轻人打招呼时说）"
+      },
+      {
+        "pos": "adv.",
+        "cn": "安全地，平安地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The children are quite safe here.",
+        "cn": "孩子们在这里十分安全。"
+      },
+      {
+        "c": "'You're safe!' Tom cried in delight.",
+        "cn": "“你安全啦！”汤姆高兴地大声说道。"
+      },
+      {
+        "c": "I think you're pretty safe, considering.",
+        "cn": "总的来看，我认为你很安全。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "safe operation",
+        "cn": "安全操作"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "安全的",
+        "ws": [
+          "secure",
+          "protected",
+          "harmless",
+          "guarded",
+          "shielded",
+          "risk-free",
+          "sound"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "safes",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "safe",
+        "d": "拉丁语 salvus（完整的、健康的），源自原始印欧语 *solh₂-（完整）。"
+      }
+    ]
+  },
+  {
+    "word": "salad",
+    "phonetic0": " / ˈsæləd / ",
+    "phonetic1": " / ˈsæləd / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "色拉；尤指莴苣"
+      },
+      {
+        "pos": "n.",
+        "cn": "（Salad）人名；（阿拉伯）萨拉德"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The salad had lost its crispness.",
+        "cn": "这色拉已经不脆了。"
+      },
+      {
+        "c": "Can I help you to some more salad?",
+        "cn": "再给你来点色拉好吗？"
+      },
+      {
+        "c": "I think I'll go for the fruit salad.",
+        "cn": "我想要水果色拉。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fruit salad",
+        "cn": "水果沙拉"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "沙拉",
+        "ws": [
+          "greens",
+          "mixed vegetables",
+          "coleslaw"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "salads",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "salad",
+        "d": "拉丁语 salata（盐腌的），源自 sal（盐）。"
+      }
+    ]
+  },
+  {
+    "word": "set the table",
+    "phonetic0": " / set ðə ˈteɪbl / ",
+    "phonetic1": " / set ðə ˈteɪbl / ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "摆桌子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you set the table for dinner?",
+        "cn": "你把餐具摆好，准备开饭，好吗？"
+      },
+      {
+        "c": "One would shop and cook, another would set the table and another would wash up.",
+        "cn": "一人会购物和烹饪，一人摆桌子，另外一人洗餐具。"
+      },
+      {
+        "c": "Meanwhile, I'll set the table.",
+        "cn": "同时，我会摆好桌子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "set the table",
+        "d": "英语习语，由 set（摆放）+ the table（桌子）组成，描述布置餐具和准备餐桌的日常行为。"
+      }
+    ]
+  },
+  {
+    "word": "sheep",
+    "phonetic0": " / ʃiːp / ",
+    "phonetic1": " / ʃiːp / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "羊，绵羊；胆小鬼"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sheep were grazing in the fields.",
+        "cn": "羊在野地里吃草。"
+      },
+      {
+        "c": "They kept a small flock of sheep.",
+        "cn": "他们养了一小群绵羊。"
+      },
+      {
+        "c": "The field had been grazed by sheep.",
+        "cn": "这块地羊已经啃过了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "black sheep",
+        "cn": "败家子；害群之马"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "羊",
+        "ws": [
+          "ewe",
+          "ram",
+          "lamb",
+          "woolly",
+          "ovine"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "sheep",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "sheep",
+        "d": "古英语 scēap，源自原始日耳曼语 *skēpą（羊）。"
+      }
+    ]
+  },
+  {
+    "word": "shoe",
+    "phonetic0": " / ʃuː / ",
+    "phonetic1": " / ʃuː / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "鞋；马蹄铁；刹车蹄片；（尤指照相机上的）插口；（尤指雪橇滑板的）金属箍；柱脚，桩靴；（巴卡拉纸牌或其他纸牌戏的）发牌盒；他人的处境（shoes）"
+      },
+      {
+        "pos": "v.",
+        "cn": "给（马）钉蹄铁；穿鞋（或靴）（be shod）；用金属片包覆；为（轮子）装轮胎"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The shoes go on the shoe shelf.",
+        "cn": "鞋子应该放在鞋架上。"
+      },
+      {
+        "c": "The back of my shoe is rubbing.",
+        "cn": "我的鞋后跟磨脚。"
+      },
+      {
+        "c": "He removed a stone from his shoe.",
+        "cn": "他清除了鞋中的一粒石子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in one's shoes",
+        "cn": "处于某人的位置"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "鞋",
+        "ws": [
+          "footwear",
+          "boot",
+          "sandal",
+          "sneaker",
+          "loafer",
+          "trainer"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "shoes",
+              "cn": "复数"
+            },
+            {
+              "c": "shoes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "shoeing",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "shoe",
+        "d": "古英语 scōh，源自原始日耳曼语 *skōhaz（鞋子）。"
+      }
+    ]
+  },
+  {
+    "word": "shorts",
+    "phonetic0": " / ʃɔːts / ",
+    "phonetic1": " / ʃɔːrts / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "短裤；男内裤（同 boxer shorts）；细麸粉；短期证券；短片（short 的复数）；（Shorts）（英）肖茨（人名）"
+      },
+      {
+        "pos": "v.",
+        "cn": "（使）短路（short 的第三人称单数）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My shorts were chafing my thighs.",
+        "cn": "我的短裤蹭得我大腿疼。"
+      },
+      {
+        "c": "She wore shorts and a halter top.",
+        "cn": "她穿一条短裤和一件颈部系带的上衣。"
+      },
+      {
+        "c": "He was wearing a T-shirt and shorts.",
+        "cn": "他穿着T恤衫和短裤。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "short of",
+        "cn": "缺乏；不足；除…以外"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "短裤",
+        "ws": [
+          "briefs",
+          "trunks",
+          "swimwear",
+          "cutoffs",
+          "hot pants"
+        ]
+      }
+    ],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "shorts",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "size",
+    "phonetic0": " / saɪz / ",
+    "phonetic1": " / saɪz / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "大小，尺寸；庞大，巨大；数量，规模；（尤指衣服、鞋子等的）尺寸，尺码；特定尺寸；相应尺码的人（或衣物）；（使纸张、布料坚挺且光亮的）浆料，（贴壁纸用的）涂料"
+      },
+      {
+        "pos": "v.",
+        "cn": "依大小分类（或排列）；按一定大小制作；改变......的大小； 给（衣服、纸张等）上浆，给......涂胶； 大致评价，估量；估算（或测量某物）大小；可比拟"
+      },
+      {
+        "pos": "adj.",
+        "cn": "一定大小（或尺码）的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The jacket was the wrong size.",
+        "cn": "这件夹克尺码不对。"
+      },
+      {
+        "c": "What size shoes do you take?",
+        "cn": "你穿多大号的鞋？"
+      },
+      {
+        "c": "The kitchen is a good size.",
+        "cn": "这厨房相当大。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "particle size",
+        "cn": "粒度；颗粒大小"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "尺寸",
+        "ws": [
+          "dimension",
+          "measure",
+          "extent",
+          "magnitude",
+          "scale",
+          "proportion",
+          "volume"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "sizes",
+              "cn": "复数"
+            },
+            {
+              "c": "sizes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "sizing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "sized",
+              "cn": "过去式"
+            },
+            {
+              "c": "sized",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "size",
+        "d": "古法语 sise（规定的大小），源自 asseoir（放置、设定）。"
+      }
+    ]
+  },
+  {
+    "word": "skirt",
+    "phonetic0": " / skɜːt / ",
+    "phonetic1": " / skɜːrt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "女裙，半身裙；（连衣裙、外衣等的）下摆（skirts）；（车辆或机器基座的）挡板，裙板；（被视为性欲对象的）姑娘，女人尤物；（供食用的）多筋动物肉； 腰窝肉；（马鞍的）垂边"
+      },
+      {
+        "pos": "v.",
+        "cn": "环绕……的四周，沿……的边缘走；绕开，回避（话题）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There's a mark on your skirt.",
+        "cn": "你裙子上有一块斑。"
+      },
+      {
+        "c": "The skirt has a side opening.",
+        "cn": "这裙子是侧面开口的。"
+      },
+      {
+        "c": "The skirt is cut on the bias.",
+        "cn": "这条裙子是斜裁的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "piston skirt",
+        "cn": "活塞裙"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "裙子",
+        "ws": [
+          "dress",
+          "frock",
+          "kilt",
+          "maxi",
+          "mini"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "skirts",
+              "cn": "复数"
+            },
+            {
+              "c": "skirts",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "skirting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "skirted",
+              "cn": "过去式"
+            },
+            {
+              "c": "skirted",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "skirt",
+        "d": "古诺斯语 skyrta，与 shirt 同源。"
+      }
+    ]
+  },
+  {
+    "word": "sleep",
+    "phonetic0": " / sliːp / ",
+    "phonetic1": " / sliːp / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "睡，睡觉；供……住宿；（尤指入夜后某地或建筑物）沉寂，静寂；安息，安眠；发生性关系"
+      },
+      {
+        "pos": "n.",
+        "cn": "睡眠，睡觉；（一段）\t睡眠时间；眵，眼屎；死，长眠"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Finally she drifted into sleep.",
+        "cn": "最后她不知不觉地睡着了。"
+      },
+      {
+        "c": "REM sleep is termed 'active' sleep.",
+        "cn": "快速眼动睡眠称作“主动”睡眠。"
+      },
+      {
+        "c": "Goodnight, sleep tight!",
+        "cn": "晚安，睡个好觉！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go to sleep",
+        "cn": "入睡"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "睡觉",
+        "ws": [
+          "slumber",
+          "doze",
+          "nap",
+          "rest",
+          "snooze",
+          "hibernate",
+          "repose"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "sleeps",
+              "cn": "复数"
+            },
+            {
+              "c": "sleeps",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "sleeping",
+              "cn": "现在分词"
+            },
+            {
+              "c": "slept",
+              "cn": "过去式"
+            },
+            {
+              "c": "slept",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "sleep",
+        "d": "古英语 slæpan，源自原始印欧语 *sleb-（睡、弱）。"
+      }
+    ]
+  },
+  {
+    "word": "sorry",
+    "phonetic0": " / ˈsɒri / ",
+    "phonetic1": " / ˈsɑːri / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "抱歉的，惭愧的，歉疚的；表示同情的，难过的；后悔的，懊悔的；可怜的，糟糕的"
+      },
+      {
+        "pos": "int.",
+        "cn": "（用于表示歉意）对不起，抱歉；没听清，请再讲一遍；（纠正自己说错的话）不对，应该是"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sorry, the answer's no.",
+        "cn": "对不起，回答是不。"
+      },
+      {
+        "c": "Sorry, I don't follow.",
+        "cn": "对不起，我不明白。"
+      },
+      {
+        "c": "I'm frightfully sorry.",
+        "cn": "我非常抱歉。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sorry for oneself",
+        "cn": "[口语]垂头丧气，灰溜溜的"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "对不起",
+        "ws": [
+          "apologetic",
+          "regretful",
+          "remorseful",
+          "penitent",
+          "rueful",
+          "contrite"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "sorrier",
+              "cn": "比较级"
+            },
+            {
+              "c": "sorriest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "sorry",
+        "d": "古英语 sārig（痛苦的），源自 sār（疼痛、痛苦）。"
+      }
+    ]
+  },
+  {
+    "word": "spoon",
+    "phonetic0": " / spuːn / ",
+    "phonetic1": " / spuːn / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "匙，勺子；（作打击乐器用的）调羹对；一匙的量；调羹状物品"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She licked the spoon clean.",
+        "cn": "她把调羹舔得干干净净。"
+      },
+      {
+        "c": "He stirred his coffee with a spoon.",
+        "cn": "他用匙搅了搅咖啡。"
+      },
+      {
+        "c": "She licked the honey off the spoon.",
+        "cn": "她舔光了调羹上的蜂蜜。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "greasy spoon",
+        "cn": "低级小饭馆；经济小吃店"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "勺子",
+        "ws": [
+          "ladle",
+          "scoop",
+          "utensil"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "spoons",
+              "cn": "复数"
+            },
+            {
+              "c": "spoons",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "spooning",
+              "cn": "现在分词"
+            },
+            {
+              "c": "spooned",
+              "cn": "过去式"
+            },
+            {
+              "c": "spooned",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "spoon",
+        "d": "古英语 spōn（木片），源自原始日耳曼语 *spēnuz。"
+      }
+    ]
+  },
+  {
+    "word": "study",
+    "phonetic0": " / ˈstʌdi / ",
+    "phonetic1": " / ˈstʌdi / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（专题）研究，调查；（尤指通过书本的）学习，攻读；用于某些学科名称（studies）；功课，课业，学业（studies）；学术专著，专题论文；学习者；学习对象，研究对象；（绘画的）试画， 习作；书房，书斋；细致考虑，仔细检查，审视； 特别的事物（或人）；以特定速度背台词的演员（舞台俚语）；描写，描绘；练习曲"
+      },
+      {
+        "pos": "v.",
+        "cn": "学习，攻读；认真阅读，仔细看；研究，调查；仔细考虑，慎重思考；（演员）记住（或背下）（台词）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She was accepted to study music.",
+        "cn": "她获准学习音乐。"
+      },
+      {
+        "c": "This study builds on earlier work.",
+        "cn": "这项研究是在以往工作的基础上进行的。"
+      },
+      {
+        "c": "Kids would rather play than study.",
+        "cn": "孩子们宁愿玩而不愿学习。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "case study",
+        "cn": "个案研究；案例研究"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "学习",
+        "ws": [
+          "learn",
+          "revise",
+          "research",
+          "examine",
+          "analyze",
+          "investigate",
+          "cram",
+          "read"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "studies",
+              "cn": "复数"
+            },
+            {
+              "c": "studies",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "studying",
+              "cn": "现在分词"
+            },
+            {
+              "c": "studied",
+              "cn": "过去式"
+            },
+            {
+              "c": "studied",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "study",
+        "d": "拉丁语 studium（热情、勤奋），源自 studere（追求）。"
+      }
+    ]
+  },
+  {
+    "word": "sunglasses",
+    "phonetic0": " / ˈsʌnɡlɑːsɪz / ",
+    "phonetic1": " / ˈsʌnɡlæsɪz / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "太阳镜；凸透镜（sunglass 的复数）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "These sunglasses are designed to reduce glare.",
+        "cn": "这些太阳镜是为减少刺眼的强光而设计的。"
+      },
+      {
+        "c": "She sat up and removed her designer sunglasses.",
+        "cn": "她坐起来，摘掉她的时尚墨镜。"
+      },
+      {
+        "c": "I wore sunglasses all the time and people thought it was an affectation.",
+        "cn": "我一直戴着墨镜，别人认为是做作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "太阳镜",
+        "ws": [
+          "shades",
+          "specs",
+          "dark glasses",
+          "eyewear"
+        ]
+      }
+    ],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "sunglasses",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "supermarket",
+    "phonetic0": " / ˈsuːpəmɑːkɪt / ",
+    "phonetic1": " / ˈsuːpərmɑːrkɪt / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "超级市场，超市"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I do a weekly shop at the supermarket.",
+        "cn": "我一周上超市一次。"
+      },
+      {
+        "c": "He openly shoplifted from a supermarket.",
+        "cn": "他在一家超市公然行窃。"
+      },
+      {
+        "c": "Petra trawled the aisles of the Europa supermarket.",
+        "cn": "佩特拉搜索了欧罗巴超市的各个通道。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "超市",
+        "ws": [
+          "store",
+          "shop",
+          "market",
+          "grocer",
+          "mart",
+          "hypermarket"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "supermarkets",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "supermarket",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "take",
+    "phonetic0": " / teɪk / ",
+    "phonetic1": " / teɪk / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "携带，拿走；带去，引领；使达到，提升；拿，取；移走，拿开；偷走，误拿；取材于，收集；攻占，控制；选中，买下；订阅（报纸等）；吃，服用；减去；记录，摘录；照相，摄影；量取，测定；就（座）；以…...为例；接受，收取；接纳，接待（顾客、患者等）；遭受，经受；忍受，容忍；（以某种方式）对待，处理；理解，考虑；误以为；赢得（比赛、竞赛等）；产生（感情），持有（看法）；采取（措施），采用（方法）；做，拥有；采用（形式），就任（职位）；花费，占用（时间）； 需要，要求；使用；穿（特定尺码的鞋或衣物）；容纳；授课；学习，选修（课程）；参加（考试或测验）；走（路线），乘坐（交通工具）；跨过，跳过；踢，掷；举行投票，进行民意调查；成功，奏效；（语法）需带有（某种结构）"
+      },
+      {
+        "pos": "n.",
+        "cn": "（一次拍摄的）镜头，场景；收入量；看法，态度；（印刷）一次排版量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll take my coat upstairs. Shall I take yours, Roberta?",
+        "cn": "我将把我的外套拿到楼上去。要我把你的拿上去吗，罗伯塔？"
+      },
+      {
+        "c": "I'll take the grey jacket.",
+        "cn": "我要那件灰色夹克衫。"
+      },
+      {
+        "c": "She can't take criticism.",
+        "cn": "她受不了批评。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "take some",
+        "cn": "不大容易"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "拿",
+        "ws": [
+          "grab",
+          "seize",
+          "pick up",
+          "carry",
+          "bring",
+          "remove",
+          "fetch",
+          "obtain"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "takes",
+              "cn": "复数"
+            },
+            {
+              "c": "takes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "taking",
+              "cn": "现在分词"
+            },
+            {
+              "c": "took",
+              "cn": "过去式"
+            },
+            {
+              "c": "taken",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "take",
+        "d": "古诺斯语 taka，源自原始日耳曼语 *tēkaną（拿、触摸）。"
+      }
+    ]
+  },
+  {
+    "word": "think",
+    "phonetic0": " / θɪŋk / ",
+    "phonetic1": " / θɪŋk / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "认为，以为；明白（用于问句表气愤、吃惊）；觉得；考虑，思考；想出，想象；料想，预料；想要，打算；想起，记得；琢磨，寻思；对……评价（很高）；为……着想；想来，想想看；所指的是；具有某种思维方式；只想，对……着迷；边想边说出声来，自言自语"
+      },
+      {
+        "pos": "n.",
+        "cn": "想，思索，思考"
+      },
+      {
+        "pos": "adj.",
+        "cn": "思想的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That's exactly what I think.",
+        "cn": "我正是那么想的。"
+      },
+      {
+        "c": "I think she fancies me.",
+        "cn": "我认为她爱我。"
+      },
+      {
+        "c": "Let's think positive.",
+        "cn": "咱们往好的方面想吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "think something of oneself",
+        "cn": "自命不凡,自以为了不起[亦作 think oneself something]"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "认为",
+        "ws": [
+          "believe",
+          "consider",
+          "suppose",
+          "assume",
+          "presume",
+          "imagine",
+          "contemplate",
+          "reason"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "thinks",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "thinking",
+              "cn": "现在分词"
+            },
+            {
+              "c": "thought",
+              "cn": "过去式"
+            },
+            {
+              "c": "thought",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "think",
+        "d": "古英语 þencan，源自原始印欧语 *teng-（思考）。"
+      }
+    ]
+  },
+  {
+    "word": "those",
+    "phonetic0": " / ðəʊz / ",
+    "phonetic1": " / ðoʊz / ",
+    "trans": [
+      {
+        "pos": "det.",
+        "cn": "那些（that 的复数）"
+      },
+      {
+        "pos": "pron.",
+        "cn": "那些（that 的复数）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Those laws no longer pertain.",
+        "cn": "那些法律已不适用了。"
+      },
+      {
+        "c": "I planted those apple trees.",
+        "cn": "我种了那些苹果树。"
+      },
+      {
+        "c": "Those look riper than these.",
+        "cn": "那些看上去比这些熟一些。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "that there",
+        "cn": "[粗俗语]那…；那个…"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "pron.",
+        "cn": "那些",
+        "ws": [
+          "these",
+          "that",
+          "them"
+        ]
+      }
+    ],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "those",
+        "d": "古英语 þās，源自原始日耳曼语 *þai-（那些）。"
+      }
+    ]
+  },
+  {
+    "word": "tidy",
+    "phonetic0": " / ˈtaɪdi / ",
+    "phonetic1": " / ˈtaɪdi / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "整洁的，有条理的；（人）爱整洁的，爱整齐的；（款额）巨大的；相当好的，令人满意的"
+      },
+      {
+        "pos": "v.",
+        "cn": "使整洁，整理"
+      },
+      {
+        "pos": "n.",
+        "cn": "盛零碎物品的容器；整理，收拾；（椅子靠背的）罩单，套子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They sat in her neat and tidy kitchen.",
+        "cn": "他们坐在她那干净整齐的厨房里。"
+      },
+      {
+        "c": "He lives alone in a suspiciously tidy apartment.",
+        "cn": "他独自一人住在一套整洁得出奇的公寓里。"
+      },
+      {
+        "c": "Except for the remarkably tidy kitchen, the place was a mess.",
+        "cn": "除了异常整洁的厨房外，这个地方一团糟。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tidy up",
+        "cn": "收拾，整理"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "整洁的",
+        "ws": [
+          "neat",
+          "clean",
+          "orderly",
+          "organized",
+          "trim",
+          "uncluttered",
+          "smart"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "tidies",
+              "cn": "复数"
+            },
+            {
+              "c": "tidies",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "tidying",
+              "cn": "现在分词"
+            },
+            {
+              "c": "tidied",
+              "cn": "过去式"
+            },
+            {
+              "c": "tidied",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "tidy",
+        "d": "由 tide（时间、季节）+ y 组成，原意「及时的、合适的」。"
+      }
+    ]
+  },
+  {
+    "word": "tomato",
+    "phonetic0": " / təˈmɑːtəʊ / ",
+    "phonetic1": " / təˈmeɪtoʊ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "番茄，西红柿；番茄红，鲜红色；番茄植株；番茄，西红柿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's similar in size to a tomato.",
+        "cn": "大小和西红柿差不多。"
+      },
+      {
+        "c": "The tomato hit the wall with a splat.",
+        "cn": "西红柿啪的一声打在墙上。"
+      },
+      {
+        "c": "Norman cut open his pie and squirted tomato sauce into it.",
+        "cn": "诺曼切开他的馅饼，往里面挤了番茄酱。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tomato sauce",
+        "cn": "番茄酱，蕃茄汁；番茄沙司"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "番茄",
+        "ws": [
+          "love apple",
+          "cherry tomato",
+          "plum tomato"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "tomatoes",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "tomato",
+        "d": "西班牙语 tomate，源自纳瓦特尔语（墨西哥原住民）tomatl。"
+      }
+    ]
+  },
+  {
+    "word": "trousers",
+    "phonetic0": " / ˈtraʊzəz / ",
+    "phonetic1": " / ˈtraʊzərz / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "裤子，长裤； 裤子，长裤（trouser 的复数）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "These trousers are a bit tight.",
+        "cn": "这条裤子有点紧。"
+      },
+      {
+        "c": "He was dressed in khaki trousers.",
+        "cn": "他穿着一条卡其色的裤子。"
+      },
+      {
+        "c": "The trousers have a fly fastening.",
+        "cn": "这条裤子是前开口。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "a pair of trousers",
+        "cn": "一条裤子"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "裤子",
+        "ws": [
+          "pants",
+          "slacks",
+          "jeans",
+          "breeches",
+          "denims"
+        ]
+      }
+    ],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "trousers",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "try on",
+    "phonetic0": " /ɒn/ ",
+    "phonetic1": " /ɒn/ ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "试穿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let the child try on as many as she likes.",
+        "cn": "让这个孩子爱试穿多少就试多少吧。"
+      },
+      {
+        "c": "Try on clothing and shoes to make sure they fit.",
+        "cn": "衣服和鞋要试穿以确保它们合适。"
+      },
+      {
+        "c": "You can try on this schoolbag.",
+        "cn": "您可以试背一下这个书包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "try on",
+        "d": "英语短语，由 try（尝试）+ on（穿上）组成，指试穿衣物。"
+      }
+    ]
+  },
+  {
+    "word": "turn off",
+    "phonetic0": " / tɜ:n ɒf / ",
+    "phonetic1": " / tɜːrn ɔ:f / ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "关掉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Turn off IM and chat.",
+        "cn": "关掉即时通讯和聊天。"
+      },
+      {
+        "c": "Turn off the shower.",
+        "cn": "关掉淋浴。"
+      },
+      {
+        "c": "Is this where we turn off?",
+        "cn": "这儿是我们换道的地方吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "turn off",
+        "d": "英语短语，由 turn（转动）+ off（脱离）组成，原指转动开关使其断开。"
+      }
+    ]
+  },
+  {
+    "word": "TV",
+    "phonetic0": " / ˌtiː ˈviː / ",
+    "phonetic1": " / ˌtiː ˈviː / ",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "电视"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He directed various TV shows.",
+        "cn": "他导演过各种电视节目。"
+      },
+      {
+        "c": "She regularly appears on TV.",
+        "cn": "她经常在电视上露面。"
+      },
+      {
+        "c": "The TV works perfectly now.",
+        "cn": "这台电视机现在效果好极了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on tv",
+        "cn": "在电视上"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "电视",
+        "ws": [
+          "television",
+          "telly",
+          "idiot box",
+          "the tube",
+          "screen",
+          "monitor"
+        ]
+      }
+    ],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "TV",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "understand",
+    "phonetic0": " / ˌʌndəˈstænd / ",
+    "phonetic1": " / ˌʌndərˈstænd / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "理解，懂得；了解，明白（某事物）；谅解，体谅；得知，听说；默认，默许；领会，推断出；解释"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I fully understand your motives.",
+        "cn": "我完全理解你的动机。"
+      },
+      {
+        "c": "Can you understand French?",
+        "cn": "你懂法语吗？"
+      },
+      {
+        "c": "Do you understand the instructions?",
+        "cn": "你懂得这些指令的意思吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "do you understand",
+        "cn": "你能理解吗？"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "理解",
+        "ws": [
+          "comprehend",
+          "grasp",
+          "perceive",
+          "know",
+          "follow",
+          "appreciate",
+          "discern"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "understands",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "understanding",
+              "cn": "现在分词"
+            },
+            {
+              "c": "understood",
+              "cn": "过去式"
+            },
+            {
+              "c": "understood",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "understand",
+        "d": "古英语 understandan，由 under（在中间）+ standan（站）组成，意为「站在中间理解」。"
+      }
+    ]
+  },
+  {
+    "word": "wall",
+    "phonetic0": " / wɔːl / ",
+    "phonetic1": " / wɔːl / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "城墙，围墙；墙，壁，墙壁；屏障，壁垒；（感情或行为的）障碍，隔阂；人墙，隔离墙；（身体器官或动植物细胞等的）外壁；（盒子或管道等空心物的）内壁；堆得像墙一样的大量东西；柏林墙（the Wall）；防波堤，防洪堤；（尤指宏大的）峭立面；围住矿脉（或矿层）的岩石；梅戈拉毛眼蝶（同 wall brown）"
+      },
+      {
+        "pos": "v.",
+        "cn": "用墙围住（一区域）；砌墙封闭，砌墙堵住（wall sth. up）；把……关起来，禁闭（wall sb./sth. in/up）"
+      },
+      {
+        "pos": "adj.",
+        "cn": "墙壁的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She leaned against the wall.",
+        "cn": "她倚靠着墙。"
+      },
+      {
+        "c": "Stones were lobbed over the wall.",
+        "cn": "有人把石块扔过了围墙。"
+      },
+      {
+        "c": "She climbed over the wall.",
+        "cn": "她翻过墙去。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "great wall",
+        "cn": "万里长城；中国长城计算机集团公司"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "墙",
+        "ws": [
+          "barrier",
+          "partition",
+          "fence",
+          "enclosure",
+          "side",
+          "boundary",
+          "rampart"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "walls",
+              "cn": "复数"
+            },
+            {
+              "c": "walls",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "walling",
+              "cn": "现在分词"
+            },
+            {
+              "c": "walled",
+              "cn": "过去式"
+            },
+            {
+              "c": "walled",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "wall",
+        "d": "拉丁语 vallum（栅栏、壁垒），源自 vallus（木桩）。"
+      }
+    ]
+  },
+  {
+    "word": "want",
+    "phonetic0": " / wɒnt / ",
+    "phonetic1": " / wɑːnt / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "想要，希望；需要；（用于提出建议）应该；缺少；搜捕，追捕；想见（某人），想与（某人）谈话；（用于疑问句中表示提议或邀请）想要，需要；（在性方面）想要（某人）；照料，爱护（小孩）；想要进去，想要出去；应受"
+      },
+      {
+        "pos": "n.",
+        "cn": "缺乏，缺少；贫穷，贫困；渴望的东西，需要的东西"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you want anything else?",
+        "cn": "你还想要点别的什么吗？"
+      },
+      {
+        "c": "Do you want to dance?",
+        "cn": "你想跳舞吗？"
+      },
+      {
+        "c": "What do you want?",
+        "cn": "你要什么？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "want to be",
+        "cn": "想成为；想要成为"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "想要",
+        "ws": [
+          "desire",
+          "wish",
+          "need",
+          "crave",
+          "yearn",
+          "long for",
+          "covet"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "wants",
+              "cn": "复数"
+            },
+            {
+              "c": "wants",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "wanting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "wanted",
+              "cn": "过去式"
+            },
+            {
+              "c": "wanted",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "want",
+        "d": "古诺斯语 vanta（缺乏），源自原始日耳曼语 *wanatōną。"
+      }
+    ]
+  },
+  {
+    "word": "wash",
+    "phonetic0": " / wɒʃ / ",
+    "phonetic1": " / wɑːʃ / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "清洗，洗涤；洗澡，（用水和肥皂）洗（身体的某部分）；（水）漫过，流过，冲刷；站得住脚，令人相信或接受；（织物，服装，染料）耐洗；（情感）强烈冲击；粉刷；镀（金，银）于；使湿透，浸泡"
+      },
+      {
+        "pos": "n.",
+        "cn": "洗涤；正在洗的衣物，将要洗的衣物；（涂料的）薄涂层，涂料；（对对立双方均无益处的）形势（或结果）；（船驶过划出的）波浪，波浪拍打声；（尤指用于清洗皮肤的）洗药，清洁剂；（水流的）冲积物；浅水沙滩；泔水，泔脚；已发酵的麦芽汁；(the Wash) 沃什湾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I must wash the car tomorrow.",
+        "cn": "我明天必须冲洗汽车。"
+      },
+      {
+        "c": "These ink stains won't wash out.",
+        "cn": "这些墨渍洗不掉。"
+      },
+      {
+        "c": "I wash my hair every night.",
+        "cn": "我每晚洗头发。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wash oneself",
+        "cn": "洗澡；自己洗漱"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "洗",
+        "ws": [
+          "clean",
+          "rinse",
+          "scrub",
+          "cleanse",
+          "bathe",
+          "launder",
+          "shampoo"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "washes",
+              "cn": "复数"
+            },
+            {
+              "c": "washes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "washing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "washed",
+              "cn": "过去式"
+            },
+            {
+              "c": "washed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "wash",
+        "d": "古英语 wæscan，源自原始日耳曼语 *waskaną（洗）。"
+      }
+    ]
+  },
+  {
+    "word": "waste",
+    "phonetic0": " / weɪst / ",
+    "phonetic1": " / weɪst / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "浪费，滥用；废物，废弃物（同 wastes）；荒地，荒原（wastes）；（尤指因租借人的行为或疏忽而导致的）不动产的损坏，产业损伤；粪便，尿液"
+      },
+      {
+        "pos": "v.",
+        "cn": "浪费，滥用；未能充分利用，没有物尽其用；杀害，谋杀（某人）；（使）（人，身体部位）逐渐变虚弱，变消瘦；破坏，毁坏（地方）；（时间）流逝，被花掉"
+      },
+      {
+        "pos": "adj.",
+        "cn": "（通常指城市中的某地）荒芜的，荒废的；（材料、物质等）废弃的，无用的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's sinful to waste good food!",
+        "cn": "浪费好好的食物是有罪的！"
+      },
+      {
+        "c": "It's a waste of time and energy.",
+        "cn": "那是浪费时间和精力。"
+      },
+      {
+        "c": "The waste was dumped in the sea.",
+        "cn": "废物倒入海中。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "waste water",
+        "cn": "污水，废水"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "浪费",
+        "ws": [
+          "squander",
+          "misuse",
+          "fritter away",
+          "throw away",
+          "dissipate"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "wastes",
+              "cn": "复数"
+            },
+            {
+              "c": "wastes",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "wasting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "wasted",
+              "cn": "过去式"
+            },
+            {
+              "c": "wasted",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "waste",
+        "d": "拉丁语 vastus（荒芜的、空的），源自古法语 waster（浪费）。"
+      }
+    ]
+  },
+  {
+    "word": "watch",
+    "phonetic0": " / wɒtʃ / ",
+    "phonetic1": " / wɑːtʃ / ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "看，注视；观看（电视节目、比赛等）；关注；照看，守护；当心，留意；监视"
+      },
+      {
+        "pos": "n.",
+        "cn": "表，手表；观察，监视； 警卫队，治安队；警戒时间，（警卫或治安队等的）值班时间；巡夜人，巡夜队（the watch）；一群夜莺；（某人的）管理期；（官方）天气预警，天气警报"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My watch keeps going wrong.",
+        "cn": "我的表不断地出毛病。"
+      },
+      {
+        "c": "He glanced at his watch.",
+        "cn": "他看了一下手表。"
+      },
+      {
+        "c": "They watch too much TV.",
+        "cn": "他们看电视看得太多了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "观看",
+        "ws": [
+          "observe",
+          "view",
+          "look at",
+          "monitor",
+          "stare",
+          "gaze",
+          "examine"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "watches",
+              "cn": "复数"
+            },
+            {
+              "c": "watches",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "watching",
+              "cn": "现在分词"
+            },
+            {
+              "c": "watched",
+              "cn": "过去式"
+            },
+            {
+              "c": "watched",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "watch",
+        "d": "古英语 wæccan（保持清醒、守夜），后引申为「观看」。"
+      }
+    ]
+  },
+  {
+    "word": "week",
+    "phonetic0": " / wiːk / ",
+    "phonetic1": " / wiːk / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "星期，周；一个星期的时间，一周；一周工作时间，工作周；（除去星期六和星期日的）星期，周；活动周（举行某项活动的一周）；（从某天算起的）一周；（某天之前的）一周；一周又一周，接连好几个星期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We commence building next week.",
+        "cn": "我们下周破土动工。"
+      },
+      {
+        "c": "The program aired last week.",
+        "cn": "该节目已于上周播出。"
+      },
+      {
+        "c": "The sale starts next week.",
+        "cn": "特价促销从下星期开始。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "last week",
+        "cn": "上周，上星期"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "周",
+        "ws": [
+          "seven days",
+          "fortnight",
+          "workweek"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "weeks",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "week",
+        "d": "古英语 wice，源自原始日耳曼语 *wikǭ（转折、周）。"
+      }
+    ]
+  },
+  {
+    "word": "wet",
+    "phonetic0": " / wet / ",
+    "phonetic1": " / wet / ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "湿的，潮湿的；（天气）下雨的，多雨的；（油漆、墨水等）未干的；（婴幼儿或尿片）尿湿的；软弱的，优柔寡断的；允许售酒的，不禁酒的；（尤指被右翼保守派认为）具有自由主义倾向的保守派的；（人） 嗜好酒的；用水（或其他液体）的；（鱼）新鲜的；（轮船）易（从船首或舷侧）进水的"
+      },
+      {
+        "pos": "n.",
+        "cn": "雨，雨天（the wet）；保守党温和派成员；湿气，水分，液体；软弱的人，窝囊废（含贬义）；酒；反禁酒者"
+      },
+      {
+        "pos": "v.",
+        "cn": "把（某物）弄湿；（尤指婴儿或小孩子）把……尿湿；（倒入滚烫的开水）沏（茶）；变湿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wet weather always depresses me.",
+        "cn": "阴雨天总使我心情抑郁。"
+      },
+      {
+        "c": "We arrived home soaking wet.",
+        "cn": "我们回到家时，浑身湿淋淋的。"
+      },
+      {
+        "c": "It was still wet underfoot.",
+        "cn": "脚下仍是湿的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "all wet",
+        "cn": "大错特错；胡说；毫无价值"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "湿的",
+        "ws": [
+          "damp",
+          "moist",
+          "soggy",
+          "soaked",
+          "drenched",
+          "humid",
+          "waterlogged",
+          "rainy"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "wets",
+              "cn": "复数"
+            },
+            {
+              "c": "wets",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "wetting",
+              "cn": "现在分词"
+            },
+            {
+              "c": "wetter",
+              "cn": "比较级"
+            },
+            {
+              "c": "wettest",
+              "cn": "最高级"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "wet",
+        "d": "古英语 wæt，源自原始日耳曼语 *wētaz（湿的），与 water 同源。"
+      }
+    ]
+  },
+  {
+    "word": "when",
+    "phonetic0": " / wen / ",
+    "phonetic1": " / wen / ",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "什么时候；什么情况下；什么场合下；（用于时间的表达方式之后）在那时，其时；当时，当场"
+      },
+      {
+        "pos": "pron.",
+        "cn": "什么时候；何时"
+      },
+      {
+        "pos": "conj.",
+        "cn": "在……时候；在……之后；在任何……时候；一……就；考虑到，既然；虽然，然而，可是"
+      },
+      {
+        "pos": "n.",
+        "cn": "时间，时候；日期；场合"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When was the bridge constructed?",
+        "cn": "那座桥是何时修建的？"
+      },
+      {
+        "c": "People eat when they're depressed.",
+        "cn": "人们会在沮丧时吃东西。"
+      },
+      {
+        "c": "When are you taking FCE ?",
+        "cn": "你何时参加第一英语证书考试？"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "什么时候",
+        "ws": [
+          "at what time",
+          "as soon as",
+          "while",
+          "whenever",
+          "during"
+        ]
+      }
+    ],
+    "relWords": {},
+    "etymology": [
+      {
+        "t": "when",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  },
+  {
+    "word": "window",
+    "phonetic0": " / ˈwɪndəʊ / ",
+    "phonetic1": " / ˈwɪndoʊ / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "窗，窗玻璃；（计算机屏幕的）视窗；（信封上的）透明纸窗；（商店的）陈列窗，橱窗；一丝的机会，短暂的时机；观察（或学习）的渠道；（办理业务的）窗口；（物理）大气窗；（干扰雷达用的）金属箔片"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I climbed through the window.",
+        "cn": "我从窗口爬了出来。"
+      },
+      {
+        "c": "Rain drove against the window.",
+        "cn": "雨打着窗户。"
+      },
+      {
+        "c": "I opened a shuttered window.",
+        "cn": "我打开了一扇已经合上百叶窗的窗户。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "out of the window",
+        "cn": "不再受重视"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "窗户",
+        "ws": [
+          "opening",
+          "pane",
+          "casement",
+          "skylight",
+          "porthole",
+          "aperture",
+          "glass"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "windows",
+              "cn": "复数"
+            },
+            {
+              "c": "windows",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "windowing",
+              "cn": "现在分词"
+            },
+            {
+              "c": "windowed",
+              "cn": "过去式"
+            },
+            {
+              "c": "windowed",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "window",
+        "d": "古诺斯语 vindauga（风眼），由 vindr（风）+ auga（眼睛）组成。"
+      }
+    ]
+  },
+  {
+    "word": "word",
+    "phonetic0": " / wɜːd / ",
+    "phonetic1": " / wɜːrd / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "字，词，单词；（某人说的）话，言语（words）；简短的交谈，谈话；命令，指示；消息，信息；诺言，承诺；口角，吵架（words）；（警告、建议、赞扬的）话，话语；歌词（words）；一个字（所说或所写的最小量）（a word）；（不同于行动的）言，言语；字（尤指16或32个字节的计算机数据基本单位）；《圣经》，福音（the Word）"
+      },
+      {
+        "pos": "v.",
+        "cn": "措辞，用词"
+      },
+      {
+        "pos": "int.",
+        "cn": "（表示接受或同意别人刚说的话）就是，说得对"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He had erased the wrong word.",
+        "cn": "他擦去了写错的字。"
+      },
+      {
+        "c": "The appropriate word eluded him.",
+        "cn": "他想不起来那个合适的词。"
+      },
+      {
+        "c": "The English word 'sensible' and the French word 'sensible' are false friends.",
+        "cn": "英语的sensible一词和法语的sensible一词同形异义。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in other word",
+        "cn": "换句话说；也就是说"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "单词",
+        "ws": [
+          "term",
+          "expression",
+          "vocabulary",
+          "phrase",
+          "lexeme",
+          "utterance",
+          "language"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "words",
+              "cn": "复数"
+            },
+            {
+              "c": "words",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "wording",
+              "cn": "现在分词"
+            },
+            {
+              "c": "worded",
+              "cn": "过去式"
+            },
+            {
+              "c": "worded",
+              "cn": "过去分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "word",
+        "d": "古英语 word，源自原始印欧语 *werdʰh₁om（词、言语）。"
+      }
+    ]
+  },
+  {
+    "word": "work",
+    "phonetic0": " / wɜːk / ",
+    "phonetic1": " / wɜːrk / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "工作，职业；劳动，活计；职责，工作内容；作品，著作；工作成果，作为；工作地点，工作时间；工作所需的材料（或档案等）；（机器的）活动部件（the works）；所有东西，全套物品（the works）；土木工程，建筑（works）；工厂（works）；善行，德行（works）；防御工事；（物理学）功；整形手术"
+      },
+      {
+        "pos": "v.",
+        "cn": "工作，干活儿；从事体力（或脑力）劳动；从事……工作，在……工作；努力取得，力争；运转，运行；开动，操作（机器、装置等）；奏效，成功；产生……作用；（使）变成，逐步移动；（使）（身体某部位）抽动；（用某种材料）画画，创作；使成形，加工；博得，赢得（众人的支持或欢心）；计算，算出；思考，动脑筋；以（某种假定或思想）为基础（或前提）；安排；耕种；开采（矿）"
+      },
+      {
+        "pos": "adj.",
+        "cn": "工作的，与工作有关的；适合工作时穿戴的；用于工作的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They work terrifically fast.",
+        "cn": "他们工作极快。"
+      },
+      {
+        "c": "Usually, the work is boring.",
+        "cn": "通常这种工作很乏味。"
+      },
+      {
+        "c": "Work is proceeding slowly.",
+        "cn": "工作进展缓慢。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "work in",
+        "cn": "进入；插进"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "工作",
+        "ws": [
+          "labor",
+          "toil",
+          "job",
+          "task",
+          "employment",
+          "occupation",
+          "profession",
+          "trade"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "works",
+              "cn": "复数"
+            },
+            {
+              "c": "works",
+              "cn": "第三人称单数"
+            },
+            {
+              "c": "working",
+              "cn": "现在分词"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "work",
+        "d": "古英语 weorc，源自原始印欧语 *wérǵom（工作、行动）。"
+      }
+    ]
+  },
+  {
+    "word": "workbook",
+    "phonetic0": " / ˈwɜːkbʊk / ",
+    "phonetic1": " / ˈwɜːrkbʊk / ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "练习簿，作业本；工作手册；（计算机）工作簿文件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I showed her the workbook and tapes Kurt was selling.",
+        "cn": "我给她看了库尔特卖的练习册和磁带。"
+      },
+      {
+        "c": "This is a hands-on workbook for parents and teachers, written for children from ages 3 to 12 years old, for use in the classroom or at home.",
+        "cn": "这是一本供家长和教师使用的实用练习手册，为3至12岁的儿童编写，可以在教室或家中使用。"
+      },
+      {
+        "c": "How many sheets does a workbook have?",
+        "cn": "一个工作簿有多少工作表？"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "练习册",
+        "ws": [
+          "exercise book",
+          "textbook",
+          "manual",
+          "study guide"
+        ]
+      }
+    ],
+    "relWords": {
+      "root": "",
+      "rels": [
+        {
+          "pos": "",
+          "words": [
+            {
+              "c": "workbooks",
+              "cn": "复数"
+            }
+          ]
+        }
+      ]
+    },
+    "etymology": [
+      {
+        "t": "workbook",
+        "d": "源自英语常用词汇，在现代英语中广泛使用。可进一步在词源词典（如 etymonline.com）中查阅。"
+      }
+    ]
+  }
+]
